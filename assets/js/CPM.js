@@ -1,4 +1,4 @@
-if(!window.cp)window.cp = function(str){return document.getElementById(str)};cp.CPProjInit = function(){if(cp && cp.model && cp.model.data) return; cp.model = {}; cp.poolResources = {}; cp.D = cp.model.data = {pref:{acc:0,rkt:0,hsr:1},Image_990:{type:15,from:1,to:299940,rp:0,rpa:0,mdi:'Image_990c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797138]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_990c:{b:[-4,-4,384,790],uid:797138,sr:cp.fd,ip:'dr/797134_388_794.png',dn:'Image_990',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-4,384,790],vb:[-4,-4,384,790]},Image_994:{type:15,from:1,to:299940,rp:0,rpa:0,mdi:'Image_994c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797186]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_994c:{b:[174,495,425,799],uid:797186,sr:cp.fd,ip:'dr/797182_251_304.png',dn:'Image_994',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[174,495,425,799],vb:[174,495,425,799]},Image_991:{type:15,from:1,to:299940,rp:0,rpa:0,mdi:'Image_991c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797150]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_991c:{b:[-6,697,118,792],uid:797150,sr:cp.fd,ip:'dr/797146_124_95.png',dn:'Image_991',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-6,697,118,792],vb:[-6,697,118,792]},Image_993:{type:15,from:1,to:299940,rp:0,rpa:0,mdi:'Image_993c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797174]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_993c:{b:[214,-4,384,189],uid:797174,sr:cp.fd,ip:'dr/797170_170_193.png',dn:'Image_993',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[214,-4,384,189],vb:[214,-4,384,189]},Image_1015:{type:15,from:1,to:299940,rp:0,rpa:0,mdi:'Image_1015c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[802716]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1015c:{b:[-4,-4,384,790],uid:802716,sr:cp.fd,ip:'dr/797134_388_794.png',dn:'Image_1015',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-4,384,790],vb:[-4,-4,384,790]},Answer_1107:{type:612,from:10,to:264,rp:0,rpa:0,mdi:'Answer_1107c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:103,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[802786]},{stn:'RollOver',stt:2,stsi:[802807]},{stn:'Down',stt:1,stsi:[802828]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:true,sihds:true,stc:['Answer_1107','si802807','si802828'],isDD:false,xorig:0.5,yorig:0.5,sf:10},Answer_1107c:{b:[79,555,299,650],uid:802786,sr:cp.fd,ip:'dr/Answer_1107.png',dn:'Answer_1107',visible:1,effectiveVi:1,JSONEffectData:true,accstr:'Starten ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:0,ss:0,fa:100,bc:'#000000',p0:[[0],[1,93.8,555],[3,85.63,555,79,561.63,79,569.8],[2,79,635.19],[3,79,643.37,85.63,650.00,93.8,650.00],[2,284.19,650.00],[3,292.37,650.00,299,643.37,299,635.19],[2,299,569.8],[3,299,561.63,292.37,555,284.19,555],[2,93.8,555],[4]],svg:false,vbwr:[79,555,299,650],vb:[79,555,299,650]},si802807:{type:612,from:10,to:264,rp:0,rpa:0,mdi:'si802807c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:103,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1107',stl:[{stn:'Normal',stt:0,stsi:[802807]}],stis:0,bstiid:802786,sipst:2,sicbs:true,sihhs:true,sihds:true,isDD:false,xorig:0.5,yorig:0.5,sf:10},si802807c:{b:[79,555,299,650],uid:802807,sr:cp.fd,ip:'dr/si802807.png',dn:'si802807',visible:0,effectiveVi:1,JSONEffectData:true,accstr:'Starten ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#737373',p0:[[0],[1,93.8,555],[3,85.63,555,79,561.63,79,569.8],[2,79,635.19],[3,79,643.37,85.63,650.00,93.8,650.00],[2,284.19,650.00],[3,292.37,650.00,299,643.37,299,635.19],[2,299,569.8],[3,299,561.63,292.37,555,284.19,555],[2,93.8,555],[4]],svg:false,vbwr:[75,551,303,654],vb:[75,551,303,654]},si802828:{type:612,from:10,to:264,rp:0,rpa:0,mdi:'si802828c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:103,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1107',stl:[{stn:'Normal',stt:0,stsi:[802828]}],stis:0,bstiid:802786,sipst:1,sicbs:true,sihhs:true,sihds:true,isDD:false,xorig:0.5,yorig:0.5,sf:10},si802828c:{b:[79,555,299,650],uid:802828,sr:cp.fd,ip:'dr/si802828.png',dn:'si802828',visible:0,effectiveVi:1,JSONEffectData:true,accstr:'Starten ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#171717',p0:[[0],[1,93.8,555],[3,85.63,555,79,561.63,79,569.8],[2,79,635.19],[3,79,643.37,85.63,650.00,93.8,650.00],[2,284.19,650.00],[3,292.37,650.00,299,643.37,299,635.19],[2,299,569.8],[3,299,561.63,292.37,555,284.19,555],[2,93.8,555],[4]],svg:false,vbwr:[75,551,303,654],vb:[75,551,303,654]},Question_1_221:{type:19,from:1,to:299940,rp:0,rpa:0,mdi:'Question_1_221c',retainState:false,immo:false,apsn:'Slide113073',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[802838]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Question_1_221c:{b:[-5,-5,384,122],uid:802838,sr:cp.fd,ip:'dr/Question_1_221.png',dn:'Question_1_221',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Samsung Pro Match Card Minispiel ',traccstr:'',ti:-1,acclng:'',vbwr:[-5,-5,384,122],vb:[-5,-5,384,122]},Answer_1108:{type:612,from:10,to:264,rp:0,rpa:0,mdi:'Answer_1108c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.runJavascript(\'parent.window.postMessage(\\\'closeDialog\\\', \\\'*\\\');\\nparent.window.API.LMSFinish("");\\nSCORM_CallLMSCommit();\\nLMSFinish();\',\'_self\');cp.actionChoiceContinueMovie();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:103,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[802908]},{stn:'RollOver',stt:2,stsi:[802929]},{stn:'Down',stt:1,stsi:[802950]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:true,sihds:true,stc:['Answer_1108','si802929','si802950'],isDD:false,xorig:0.5,yorig:0.5,sf:10},Answer_1108c:{b:[79,674,299,769],uid:802908,sr:cp.fd,ip:'dr/Answer_1108.png',dn:'Answer_1108',visible:1,effectiveVi:1,JSONEffectData:true,accstr:'Beenden ',traccstr:'',ti:2500,acclng:'',sc:'#ffffff',sw:0,ss:0,fa:100,bc:'#000000',p0:[[0],[1,93.8,674],[3,85.63,674,79,680.63,79,688.8],[2,79,754.19],[3,79,762.37,85.63,769,93.8,769],[2,284.19,769],[3,292.37,769,299,762.37,299,754.19],[2,299,688.8],[3,299,680.63,292.37,674,284.19,674],[2,93.8,674],[4]],svg:false,vbwr:[79,674,299,769],vb:[79,674,299,769]},si802929:{type:612,from:10,to:264,rp:0,rpa:0,mdi:'si802929c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.runJavascript(\'parent.window.postMessage(\\\'closeDialog\\\', \\\'*\\\');\\nparent.window.API.LMSFinish("");\\nSCORM_CallLMSCommit();\\nLMSFinish();\',\'_self\');cp.actionChoiceContinueMovie();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:103,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1108',stl:[{stn:'Normal',stt:0,stsi:[802929]}],stis:0,bstiid:802908,sipst:2,sicbs:true,sihhs:true,sihds:true,isDD:false,xorig:0.5,yorig:0.5,sf:10},si802929c:{b:[79,674,299,769],uid:802929,sr:cp.fd,ip:'dr/si802929.png',dn:'si802929',visible:0,effectiveVi:1,JSONEffectData:true,accstr:'Beenden ',traccstr:'',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#737373',p0:[[0],[1,93.8,674],[3,85.63,674,79,680.63,79,688.8],[2,79,754.19],[3,79,762.37,85.63,769,93.8,769],[2,284.19,769],[3,292.37,769,299,762.37,299,754.19],[2,299,688.8],[3,299,680.63,292.37,674,284.19,674],[2,93.8,674],[4]],svg:false,vbwr:[75,670,303,773],vb:[75,670,303,773]},si802950:{type:612,from:10,to:264,rp:0,rpa:0,mdi:'si802950c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.runJavascript(\'parent.window.postMessage(\\\'closeDialog\\\', \\\'*\\\');\\nparent.window.API.LMSFinish("");\\nSCORM_CallLMSCommit();\\nLMSFinish();\',\'_self\');cp.actionChoiceContinueMovie();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:103,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1108',stl:[{stn:'Normal',stt:0,stsi:[802950]}],stis:0,bstiid:802908,sipst:1,sicbs:true,sihhs:true,sihds:true,isDD:false,xorig:0.5,yorig:0.5,sf:10},si802950c:{b:[79,674,299,769],uid:802950,sr:cp.fd,ip:'dr/si802950.png',dn:'si802950',visible:0,effectiveVi:1,JSONEffectData:true,accstr:'Beenden ',traccstr:'',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#171717',p0:[[0],[1,93.8,674],[3,85.63,674,79,680.63,79,688.8],[2,79,754.19],[3,79,762.37,85.63,769,93.8,769],[2,284.19,769],[3,292.37,769,299,762.37,299,754.19],[2,299,688.8],[3,299,680.63,292.37,674,284.19,674],[2,93.8,674],[4]],svg:false,vbwr:[75,670,303,773],vb:[75,670,303,773]},Image_1016:{type:15,from:31,to:299940,rp:0,rpa:0,mdi:'Image_1016c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:15,trout:0,stl:[{stn:'Normal',stt:0,stsi:[802963]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1016c:{b:[0,119,382,501],uid:802963,sr:cp.fd,ip:'dr/802954_382_382.png',dn:'Image_1016',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[0,119,382,501],vb:[0,119,382,501]},Slide113073:{lb:'',id:113073,from:1,to:299940,iols:0,i360qs:false,propTxtScaling:false,minFontSizeScaling:14,useng:true,transition:{type:0},mmot:false,mdi:'Slide113073c',st:'Normal Slide',ccProperties:{382:{pos:7,x:35,y:88}},audCC:[],vidCC:[],accstr:' ',si:[{n:'Image_990',t:15},{n:'Image_994',t:15},{n:'Image_991',t:15},{n:'Image_993',t:15},{n:'Image_1015',t:15},{n:'Answer_1107',t:612},{n:'si802807',t:612},{n:'si802828',t:612},{n:'Question_1_221',t:19},{n:'Answer_1108',t:612},{n:'si802929',t:612},{n:'si802950',t:612},{n:'Image_1016',t:15}],iph:[],v:false,bc:'#ffffff',JSONTT_0:[],JSONTT_6:[],qs:'',g4:{a1:[[333,'Answer_1107alphaMultiplier'],[333,'Answer_1107x'],[333,'Answer_1107y'],[333,'si802807alphaMultiplier'],[333,'si802807x'],[333,'si802807y'],[333,'si802828alphaMultiplier'],[333,'si802828x'],[333,'si802828y'],[333,'Answer_1108alphaMultiplier'],[333,'Answer_1108x'],[333,'Answer_1108y'],[333,'si802929alphaMultiplier'],[333,'si802929x'],[333,'si802929y'],[333,'si802950alphaMultiplier'],[333,'si802950x'],[333,'si802950y']],c3:{},a2:{Answer_1107alphaMultiplier:{a6:1966,j2:[0,0],a4:0,a3:'Answer_1107',c0:14,b6:[0,0,100,1],b4:[]},Answer_1107x:{a6:1966,j2:[0,0],a4:0,a3:'Answer_1107',c0:12,b6:[0,0,100,0],b4:[]},Answer_1107y:{a6:1966,j2:[0,0],a4:0,a3:'Answer_1107',c0:13,b6:[0,0.47,100,0],b4:[]},si802807alphaMultiplier:{a6:1966,j2:[0,0],a4:0,a3:'si802807',c0:14,b6:[0,0,100,1],b4:[]},si802807x:{a6:1966,j2:[0,0],a4:0,a3:'si802807',c0:12,b6:[0,0,100,0],b4:[]},si802807y:{a6:1966,j2:[0,0],a4:0,a3:'si802807',c0:13,b6:[0,0.47,100,0],b4:[]},si802828alphaMultiplier:{a6:1966,j2:[0,0],a4:0,a3:'si802828',c0:14,b6:[0,0,100,1],b4:[]},si802828x:{a6:1966,j2:[0,0],a4:0,a3:'si802828',c0:12,b6:[0,0,100,0],b4:[]},si802828y:{a6:1966,j2:[0,0],a4:0,a3:'si802828',c0:13,b6:[0,0.47,100,0],b4:[]},Answer_1108alphaMultiplier:{a6:1966,j2:[0,0],a4:0,a3:'Answer_1108',c0:14,b6:[0,0,100,1],b4:[]},Answer_1108x:{a6:1966,j2:[0,0],a4:0,a3:'Answer_1108',c0:12,b6:[0,0,100,0],b4:[]},Answer_1108y:{a6:1966,j2:[0,0],a4:0,a3:'Answer_1108',c0:13,b6:[0,0.47,100,0],b4:[]},si802929alphaMultiplier:{a6:1966,j2:[0,0],a4:0,a3:'si802929',c0:14,b6:[0,0,100,1],b4:[]},si802929x:{a6:1966,j2:[0,0],a4:0,a3:'si802929',c0:12,b6:[0,0,100,0],b4:[]},si802929y:{a6:1966,j2:[0,0],a4:0,a3:'si802929',c0:13,b6:[0,0.47,100,0],b4:[]},si802950alphaMultiplier:{a6:1966,j2:[0,0],a4:0,a3:'si802950',c0:14,b6:[0,0,100,1],b4:[]},si802950x:{a6:1966,j2:[0,0],a4:0,a3:'si802950',c0:12,b6:[0,0,100,0],b4:[]},si802950y:{a6:1966,j2:[0,0],a4:0,a3:'si802950',c0:13,b6:[0,0.47,100,0],b4:[]}}}},Slide113073c:{b:[0,0,0,0],sr:cp.fd,uid:113073,dn:'Slide113073',visible:'1'},Image_996:{type:15,from:299941,to:599910,rp:0,rpa:0,mdi:'Image_996c',retainState:false,immo:false,apsn:'Slide13453',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797217]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_996c:{b:[-4,-4,384,790],uid:797217,sr:cp.fd,ip:'dr/797134_388_794.png',dn:'Image_996',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-4,384,790],vb:[-4,-4,384,790]},Image_995:{type:15,from:299941,to:599910,rp:0,rpa:0,mdi:'Image_995c',retainState:false,immo:false,apsn:'Slide13453',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797198]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_995c:{b:[302,651,384,794],uid:797198,sr:cp.fd,ip:'dr/797194_82_143.png',dn:'Image_995',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[302,651,384,794],vb:[302,651,384,794]},Text_Caption_222:{type:19,from:299941,to:599910,rp:0,rpa:0,mdi:'Text_Caption_222c',retainState:false,immo:false,apsn:'Slide13453',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[802974]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Text_Caption_222c:{b:[56,397,321,650],uid:802974,sr:cp.fd,ip:'dr/Text_Caption_222.png',dn:'Text_Caption_222',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Decke alle 8 Kartenpaare auf und gewinne das Spiel – Viel Erfolg! ',traccstr:'',ti:-1,acclng:'',vbwr:[56,397,321,650],vb:[56,397,321,650]},Answer_1109:{type:612,from:299941,to:300183,rp:0,rpa:0,mdi:'Answer_1109c',retainState:false,immo:false,apsn:'Slide13453',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:300034,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803012]},{stn:'RollOver',stt:2,stsi:[803033]},{stn:'Down',stt:1,stsi:[803054]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:true,sihds:true,stc:['Answer_1109','si803033','si803054'],isDD:false},Answer_1109c:{b:[78,650,298,745],uid:803012,sr:cp.fd,ip:'dr/Answer_1109.png',dn:'Answer_1109',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Weiter ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:0,ss:0,fa:100,bc:'#000000',p0:[[0],[1,92.8,650.00],[3,84.63,650.00,78,656.63,78,664.8],[2,78,730.19],[3,78,738.37,84.63,745,92.8,745],[2,283.19,745],[3,291.37,745,298,738.37,298,730.19],[2,298,664.8],[3,298,656.63,291.37,650.00,283.19,650.00],[2,92.8,650.00],[4]],svg:false,vbwr:[78,650,298,745],vb:[78,650,298,745]},si803033:{type:612,from:299941,to:300183,rp:0,rpa:0,mdi:'si803033c',retainState:false,immo:false,apsn:'Slide13453',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:300034,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1109',stl:[{stn:'Normal',stt:0,stsi:[803033]}],stis:0,bstiid:803012,sipst:2,sicbs:true,sihhs:true,sihds:true,isDD:false},si803033c:{b:[78,650,298,745],uid:803033,sr:cp.fd,ip:'dr/si803033.png',dn:'si803033',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Weiter ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#737373',p0:[[0],[1,92.8,650.00],[3,84.63,650.00,78,656.63,78,664.8],[2,78,730.19],[3,78,738.37,84.63,745,92.8,745],[2,283.19,745],[3,291.37,745,298,738.37,298,730.19],[2,298,664.8],[3,298,656.63,291.37,650.00,283.19,650.00],[2,92.8,650.00],[4]],svg:false,vbwr:[74,646,302,749],vb:[74,646,302,749]},si803054:{type:612,from:299941,to:300183,rp:0,rpa:0,mdi:'si803054c',retainState:false,immo:false,apsn:'Slide13453',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:300034,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1109',stl:[{stn:'Normal',stt:0,stsi:[803054]}],stis:0,bstiid:803012,sipst:1,sicbs:true,sihhs:true,sihds:true,isDD:false},si803054c:{b:[78,650,298,745],uid:803054,sr:cp.fd,ip:'dr/si803054.png',dn:'si803054',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Weiter ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#171717',p0:[[0],[1,92.8,650.00],[3,84.63,650.00,78,656.63,78,664.8],[2,78,730.19],[3,78,738.37,84.63,745,92.8,745],[2,283.19,745],[3,291.37,745,298,738.37,298,730.19],[2,298,664.8],[3,298,656.63,291.37,650.00,283.19,650.00],[2,92.8,650.00],[4]],svg:false,vbwr:[74,646,302,749],vb:[74,646,302,749]},Question_1_223:{type:19,from:299941,to:599910,rp:0,rpa:0,mdi:'Question_1_223c',retainState:false,immo:false,apsn:'Slide13453',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803064]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Question_1_223c:{b:[-5,-5,384,122],uid:803064,sr:cp.fd,ip:'dr/Question_1_223.png',dn:'Question_1_223',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Übersicht ',traccstr:'',ti:-1,acclng:'',vbwr:[-5,-5,384,122],vb:[-5,-5,384,122]},Slide13453:{lb:'',id:13453,from:299941,to:599910,iols:0,i360qs:false,propTxtScaling:false,minFontSizeScaling:14,useng:true,transition:{type:0},mmot:false,mdi:'Slide13453c',st:'Normal Slide',ccProperties:{382:{pos:7,x:35,y:88}},audCC:[],vidCC:[],accstr:' ',si:[{n:'Image_996',t:15},{n:'Image_995',t:15},{n:'Text_Caption_222',t:19},{n:'Answer_1109',t:612},{n:'si803033',t:612},{n:'si803054',t:612},{n:'Question_1_223',t:19}],iph:[],v:false,bc:'#ffffff',JSONTT_0:[],JSONTT_6:[],qs:''},Slide13453c:{b:[0,0,0,0],sr:cp.fd,uid:13453,dn:'Slide13453',visible:'1'},Image_243:{type:15,from:599911,to:899850,rp:0,rpa:0,mdi:'Image_243c',retainState:false,immo:false,apsn:'Slide129773',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[129596]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_243c:{b:[-2,-4,386,792],uid:129596,sr:cp.fd,ip:'dr/124875_388_796.png',dn:'Image_243',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-2,-4,386,792],vb:[-2,-4,386,792]},Image_999:{type:15,from:599911,to:899850,rp:0,rpa:0,mdi:'Image_999c',retainState:false,immo:false,apsn:'Slide129773',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797251]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_999c:{b:[-4,-4,384,790],uid:797251,sr:cp.fd,ip:'dr/797134_388_794.png',dn:'Image_999',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-4,384,790],vb:[-4,-4,384,790]},Text_Caption_224:{type:19,from:599911,to:899850,rp:0,rpa:0,mdi:'Text_Caption_224c',retainState:false,immo:false,apsn:'Slide129773',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803075]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Text_Caption_224c:{b:[-4,155,384,588],uid:803075,sr:cp.fd,ip:'dr/Text_Caption_224.png',dn:'Text_Caption_224',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam? Nullam quis risus eget urna mollis ornare vel eu leo. Suspendisse potenti in faucibus orci luctus et ultrices posuere cubilia curae.        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec ullamcorper nulla non metus auctor fringilla in vitae nunc. Curabitur blandit tempus porttitor! ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,155,384,588],vb:[-4,155,384,588]},Text_Caption_169:{type:19,from:599911,to:899850,rp:0,rpa:0,mdi:'Text_Caption_169c',retainState:false,immo:false,apsn:'Slide129773',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[468952]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Text_Caption_169c:{b:[100,311,282,420],uid:468952,sr:cp.fd,ip:'dr/Text_Caption_169.png',dn:'Text_Caption_169',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'(Timer) 04:00 ',traccstr:'',ti:-1,acclng:'',vbwr:[100,311,282,420],vb:[100,311,282,420]},Image_1007:{type:15,from:599911,to:600000,rp:0,rpa:0,mdi:'Image_1007c',retainState:false,immo:false,apsn:'Slide129773',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797341]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1007c:{b:[-3,-4,72,44],uid:797341,sr:cp.fd,ip:'dr/797338_75_48.png',dn:'Image_1007',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-3,-4,72,44],vb:[-3,-4,72,44]},Question_1_225:{type:19,from:599911,to:899850,rp:0,rpa:0,mdi:'Question_1_225c',retainState:false,immo:false,apsn:'Slide129773',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803085]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Question_1_225c:{b:[-4,-4,385,122],uid:803085,sr:cp.fd,ip:'dr/Question_1_225.png',dn:'Question_1_225',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'So wird gespielt ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-4,385,122],vb:[-4,-4,385,122]},Answer_1122:{type:612,from:599911,to:600153,rp:0,rpa:0,mdi:'Answer_1122c',retainState:false,immo:false,apsn:'Slide129773',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:600004,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[810052]},{stn:'RollOver',stt:2,stsi:[810073]},{stn:'Down',stt:1,stsi:[810094]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:true,sihds:true,stc:['Answer_1122','si810073','si810094'],isDD:false},Answer_1122c:{b:[78,650,298,745],uid:810052,sr:cp.fd,ip:'dr/Answer_1122.png',dn:'Answer_1122',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Weiter ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:0,ss:0,fa:100,bc:'#000000',p0:[[0],[1,92.8,650.00],[3,84.63,650.00,78,656.63,78,664.8],[2,78,730.19],[3,78,738.37,84.63,745,92.8,745],[2,283.19,745],[3,291.37,745,298,738.37,298,730.19],[2,298,664.8],[3,298,656.63,291.37,650.00,283.19,650.00],[2,92.8,650.00],[4]],svg:false,vbwr:[78,650,298,745],vb:[78,650,298,745]},si810073:{type:612,from:599911,to:600153,rp:0,rpa:0,mdi:'si810073c',retainState:false,immo:false,apsn:'Slide129773',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:600004,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1122',stl:[{stn:'Normal',stt:0,stsi:[810073]}],stis:0,bstiid:810052,sipst:2,sicbs:true,sihhs:true,sihds:true,isDD:false},si810073c:{b:[78,650,298,745],uid:810073,sr:cp.fd,ip:'dr/si810073.png',dn:'si810073',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Weiter ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#737373',p0:[[0],[1,92.8,650.00],[3,84.63,650.00,78,656.63,78,664.8],[2,78,730.19],[3,78,738.37,84.63,745,92.8,745],[2,283.19,745],[3,291.37,745,298,738.37,298,730.19],[2,298,664.8],[3,298,656.63,291.37,650.00,283.19,650.00],[2,92.8,650.00],[4]],svg:false,vbwr:[74,646,302,749],vb:[74,646,302,749]},si810094:{type:612,from:599911,to:600153,rp:0,rpa:0,mdi:'si810094c',retainState:false,immo:false,apsn:'Slide129773',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:600004,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1122',stl:[{stn:'Normal',stt:0,stsi:[810094]}],stis:0,bstiid:810052,sipst:1,sicbs:true,sihhs:true,sihds:true,isDD:false},si810094c:{b:[78,650,298,745],uid:810094,sr:cp.fd,ip:'dr/si810094.png',dn:'si810094',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Weiter ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#171717',p0:[[0],[1,92.8,650.00],[3,84.63,650.00,78,656.63,78,664.8],[2,78,730.19],[3,78,738.37,84.63,745,92.8,745],[2,283.19,745],[3,291.37,745,298,738.37,298,730.19],[2,298,664.8],[3,298,656.63,291.37,650.00,283.19,650.00],[2,92.8,650.00],[4]],svg:false,vbwr:[74,646,302,749],vb:[74,646,302,749]},Slide129773:{lb:'',id:129773,from:599911,to:899850,iols:0,i360qs:false,propTxtScaling:false,minFontSizeScaling:14,useng:true,transition:{type:0},mmot:false,mdi:'Slide129773c',st:'Normal Slide',ccProperties:{382:{pos:7,x:35,y:88}},audCC:[],vidCC:[],accstr:' ',si:[{n:'Image_243',t:15},{n:'Image_999',t:15},{n:'Text_Caption_224',t:19},{n:'Text_Caption_169',t:19},{n:'Image_1007',t:15},{n:'Question_1_225',t:19},{n:'Answer_1122',t:612},{n:'si810073',t:612},{n:'si810094',t:612}],iph:[],v:false,bc:'#ffffff',JSONTT_0:[],JSONTT_6:[],qs:''},Slide129773c:{b:[0,0,0,0],sr:cp.fd,uid:129773,dn:'Slide129773',visible:'1'},Image_1000:{type:15,from:899851,to:1199880,rp:0,rpa:0,mdi:'Image_1000c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797263]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1000c:{b:[-4,-2,384,792],uid:797263,sr:cp.fd,ip:'dr/797134_388_794.png',dn:'Image_1000',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-2,384,792],vb:[-4,-2,384,792]},Image_1002:{type:15,from:899851,to:1199880,rp:0,rpa:0,mdi:'Image_1002c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797290]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1002c:{b:[-6,760,35,792],uid:797290,sr:cp.fd,ip:'dr/797146_41_32.png',dn:'Image_1002',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-6,760,35,792],vb:[-6,760,35,792]},Image_1003:{type:15,from:899851,to:1199880,rp:0,rpa:0,mdi:'Image_1003c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797302]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1003c:{b:[290,-4,384,103],uid:797302,sr:cp.fd,ip:'dr/797170_94_107.png',dn:'Image_1003',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[290,-4,384,103],vb:[290,-4,384,103]},Timer1outof8v2_4:{type:133,from:899851,to:947760,rp:0,rpa:0,mdi:'Timer1outof8v2_4c',retainState:false,immo:false,apsn:'Slide52766',iflbx:false,ipflbx:true,trin:0,trout:0,isDD:false},Timer1outof8v2_4c:{b:[276,451,359,514],uid:356208,dn:'Timer1outof8v2_4',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Widget ',traccstr:'',ti:2500,acclng:'',wp:'<object><property id="imin"><string>04</string></property><property id="insidequiz"><string>false</string></property><property id="isec"><string>00</string></property><property id="bgSelectedColorHex"><string>003ba4</string></property><property id="variable1"><string></string></property><property id="bgSelectedColor"><number>15268</number></property><property id="slide"><string></string></property><property id="bgsel"><string>false</string></property><property id="txtSelectedColor"><number>3955594</number></property><property id="txtSelectedColorHex"><string>3c5b8a</string></property><property id="timeway"><string>down</string></property><property id="mess"><string>Zeit abgelaufen! Versuchen Sie es noch einmal!</string></property></object>',iiw:false,iqw:false,id:356208,wc:'timer_use',wu:'wr/w_356208/Widget_356208.htm',sn:'Slide52766',a:1,vbwr:[276,451,359,514],vb:[276,451,359,514]},Try_again:{type:19,from:899851,to:1199889,rp:0,rpa:0,mdi:'Try_againc',retainState:false,immo:false,apsn:'Slide52766',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[738674]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Try_againc:{b:[113,445,267,507],uid:738674,sr:cp.fd,ip:'dr/Try_again.png',dn:'Try_again',visible:0,effectiveVi:0,JSONEffectData:false,accstr:'Bitte versuche es nochmal! ',traccstr:'',ti:-1,acclng:'',vbwr:[113,445,267,507],vb:[113,445,267,507]},Nice_Pair:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'Nice_Pairc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[745719]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Nice_Pairc:{b:[118,451,261,512],uid:745719,sr:cp.fd,ip:'dr/Nice_Pair.png',dn:'Nice_Pair',visible:0,effectiveVi:0,JSONEffectData:false,accstr:'Schönes Paar! ',traccstr:'',ti:-1,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,118,451],[2,118,512],[2,261,512],[2,261,451],[2,118,451],[4]],svg:false,vbwr:[118,451,261,512],vb:[118,451,261,512]},A:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Ac',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+if(!window.cp)window.cp = function(str){return document.getElementById(str)};cp.CPProjInit = function(){if(cp && cp.model && cp.model.data) return; cp.model = {}; cp.poolResources = {}; cp.D = cp.model.data = {pref:{acc:0,rkt:0,hsr:1},Image_990:{type:15,from:1,to:299940,rp:0,rpa:0,mdi:'Image_990c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797138]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_990c:{b:[-4,-4,384,790],uid:797138,sr:cp.fd,ip:'dr/797134_388_794.png',dn:'Image_990',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-4,384,790],vb:[-4,-4,384,790]},Image_994:{type:15,from:1,to:299940,rp:0,rpa:0,mdi:'Image_994c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797186]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_994c:{b:[174,495,425,799],uid:797186,sr:cp.fd,ip:'dr/797182_251_304.png',dn:'Image_994',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[174,495,425,799],vb:[174,495,425,799]},Image_991:{type:15,from:1,to:299940,rp:0,rpa:0,mdi:'Image_991c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797150]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_991c:{b:[-6,697,118,792],uid:797150,sr:cp.fd,ip:'dr/797146_124_95.png',dn:'Image_991',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-6,697,118,792],vb:[-6,697,118,792]},Image_993:{type:15,from:1,to:299940,rp:0,rpa:0,mdi:'Image_993c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797174]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_993c:{b:[214,-4,384,189],uid:797174,sr:cp.fd,ip:'dr/797170_170_193.png',dn:'Image_993',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[214,-4,384,189],vb:[214,-4,384,189]},Image_1015:{type:15,from:1,to:299940,rp:0,rpa:0,mdi:'Image_1015c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[802716]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1015c:{b:[-4,-4,384,790],uid:802716,sr:cp.fd,ip:'dr/797134_388_794.png',dn:'Image_1015',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-4,384,790],vb:[-4,-4,384,790]},Answer_1107:{type:612,from:10,to:264,rp:0,rpa:0,mdi:'Answer_1107c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:103,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[802786]},{stn:'RollOver',stt:2,stsi:[802807]},{stn:'Down',stt:1,stsi:[802828]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:true,sihds:true,stc:['Answer_1107','si802807','si802828'],isDD:false,xorig:0.5,yorig:0.5,sf:10},Answer_1107c:{b:[79,555,299,650],uid:802786,sr:cp.fd,ip:'dr/Answer_1107.png',dn:'Answer_1107',visible:1,effectiveVi:1,JSONEffectData:true,accstr:'Starten ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:0,ss:0,fa:100,bc:'#000000',p0:[[0],[1,93.8,555],[3,85.63,555,79,561.63,79,569.8],[2,79,635.19],[3,79,643.37,85.63,650.00,93.8,650.00],[2,284.19,650.00],[3,292.37,650.00,299,643.37,299,635.19],[2,299,569.8],[3,299,561.63,292.37,555,284.19,555],[2,93.8,555],[4]],svg:false,vbwr:[79,555,299,650],vb:[79,555,299,650]},si802807:{type:612,from:10,to:264,rp:0,rpa:0,mdi:'si802807c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:103,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1107',stl:[{stn:'Normal',stt:0,stsi:[802807]}],stis:0,bstiid:802786,sipst:2,sicbs:true,sihhs:true,sihds:true,isDD:false,xorig:0.5,yorig:0.5,sf:10},si802807c:{b:[79,555,299,650],uid:802807,sr:cp.fd,ip:'dr/si802807.png',dn:'si802807',visible:0,effectiveVi:1,JSONEffectData:true,accstr:'Starten ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#737373',p0:[[0],[1,93.8,555],[3,85.63,555,79,561.63,79,569.8],[2,79,635.19],[3,79,643.37,85.63,650.00,93.8,650.00],[2,284.19,650.00],[3,292.37,650.00,299,643.37,299,635.19],[2,299,569.8],[3,299,561.63,292.37,555,284.19,555],[2,93.8,555],[4]],svg:false,vbwr:[75,551,303,654],vb:[75,551,303,654]},si802828:{type:612,from:10,to:264,rp:0,rpa:0,mdi:'si802828c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:103,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1107',stl:[{stn:'Normal',stt:0,stsi:[802828]}],stis:0,bstiid:802786,sipst:1,sicbs:true,sihhs:true,sihds:true,isDD:false,xorig:0.5,yorig:0.5,sf:10},si802828c:{b:[79,555,299,650],uid:802828,sr:cp.fd,ip:'dr/si802828.png',dn:'si802828',visible:0,effectiveVi:1,JSONEffectData:true,accstr:'Starten ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#171717',p0:[[0],[1,93.8,555],[3,85.63,555,79,561.63,79,569.8],[2,79,635.19],[3,79,643.37,85.63,650.00,93.8,650.00],[2,284.19,650.00],[3,292.37,650.00,299,643.37,299,635.19],[2,299,569.8],[3,299,561.63,292.37,555,284.19,555],[2,93.8,555],[4]],svg:false,vbwr:[75,551,303,654],vb:[75,551,303,654]},Question_1_221:{type:19,from:1,to:299940,rp:0,rpa:0,mdi:'Question_1_221c',retainState:false,immo:false,apsn:'Slide113073',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[802838]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Question_1_221c:{b:[-5,-5,384,122],uid:802838,sr:cp.fd,ip:'dr/Question_1_221.png',dn:'Question_1_221',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Samsung Pro Match Card Minispiel ',traccstr:'',ti:-1,acclng:'',vbwr:[-5,-5,384,122],vb:[-5,-5,384,122]},Answer_1108:{type:612,from:10,to:264,rp:0,rpa:0,mdi:'Answer_1108c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.runJavascript(\'parent.window.postMessage(\\\'closeDialog\\\', \\\'*\\\');\\nparent.window.API.LMSFinish("");\\nSCORM_CallLMSCommit();\\nLMSFinish();\',\'_self\');cp.actionChoiceContinueMovie();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:103,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[802908]},{stn:'RollOver',stt:2,stsi:[802929]},{stn:'Down',stt:1,stsi:[802950]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:true,sihds:true,stc:['Answer_1108','si802929','si802950'],isDD:false,xorig:0.5,yorig:0.5,sf:10},Answer_1108c:{b:[79,674,299,769],uid:802908,sr:cp.fd,ip:'dr/Answer_1108.png',dn:'Answer_1108',visible:1,effectiveVi:1,JSONEffectData:true,accstr:'Beenden ',traccstr:'',ti:2500,acclng:'',sc:'#ffffff',sw:0,ss:0,fa:100,bc:'#000000',p0:[[0],[1,93.8,674],[3,85.63,674,79,680.63,79,688.8],[2,79,754.19],[3,79,762.37,85.63,769,93.8,769],[2,284.19,769],[3,292.37,769,299,762.37,299,754.19],[2,299,688.8],[3,299,680.63,292.37,674,284.19,674],[2,93.8,674],[4]],svg:false,vbwr:[79,674,299,769],vb:[79,674,299,769]},si802929:{type:612,from:10,to:264,rp:0,rpa:0,mdi:'si802929c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.runJavascript(\'parent.window.postMessage(\\\'closeDialog\\\', \\\'*\\\');\\nparent.window.API.LMSFinish("");\\nSCORM_CallLMSCommit();\\nLMSFinish();\',\'_self\');cp.actionChoiceContinueMovie();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:103,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1108',stl:[{stn:'Normal',stt:0,stsi:[802929]}],stis:0,bstiid:802908,sipst:2,sicbs:true,sihhs:true,sihds:true,isDD:false,xorig:0.5,yorig:0.5,sf:10},si802929c:{b:[79,674,299,769],uid:802929,sr:cp.fd,ip:'dr/si802929.png',dn:'si802929',visible:0,effectiveVi:1,JSONEffectData:true,accstr:'Beenden ',traccstr:'',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#737373',p0:[[0],[1,93.8,674],[3,85.63,674,79,680.63,79,688.8],[2,79,754.19],[3,79,762.37,85.63,769,93.8,769],[2,284.19,769],[3,292.37,769,299,762.37,299,754.19],[2,299,688.8],[3,299,680.63,292.37,674,284.19,674],[2,93.8,674],[4]],svg:false,vbwr:[75,670,303,773],vb:[75,670,303,773]},si802950:{type:612,from:10,to:264,rp:0,rpa:0,mdi:'si802950c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.runJavascript(\'parent.window.postMessage(\\\'closeDialog\\\', \\\'*\\\');\\nparent.window.API.LMSFinish("");\\nSCORM_CallLMSCommit();\\nLMSFinish();\',\'_self\');cp.actionChoiceContinueMovie();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:103,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1108',stl:[{stn:'Normal',stt:0,stsi:[802950]}],stis:0,bstiid:802908,sipst:1,sicbs:true,sihhs:true,sihds:true,isDD:false,xorig:0.5,yorig:0.5,sf:10},si802950c:{b:[79,674,299,769],uid:802950,sr:cp.fd,ip:'dr/si802950.png',dn:'si802950',visible:0,effectiveVi:1,JSONEffectData:true,accstr:'Beenden ',traccstr:'',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#171717',p0:[[0],[1,93.8,674],[3,85.63,674,79,680.63,79,688.8],[2,79,754.19],[3,79,762.37,85.63,769,93.8,769],[2,284.19,769],[3,292.37,769,299,762.37,299,754.19],[2,299,688.8],[3,299,680.63,292.37,674,284.19,674],[2,93.8,674],[4]],svg:false,vbwr:[75,670,303,773],vb:[75,670,303,773]},Image_1016:{type:15,from:31,to:299940,rp:0,rpa:0,mdi:'Image_1016c',retainState:false,immo:false,apsn:'Slide113073',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:15,trout:0,stl:[{stn:'Normal',stt:0,stsi:[802963]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1016c:{b:[0,119,382,501],uid:802963,sr:cp.fd,ip:'dr/802954_382_382.png',dn:'Image_1016',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[0,119,382,501],vb:[0,119,382,501]},Slide113073:{lb:'',id:113073,from:1,to:299940,iols:0,i360qs:false,propTxtScaling:false,minFontSizeScaling:14,useng:true,transition:{type:0},mmot:false,mdi:'Slide113073c',st:'Normal Slide',ccProperties:{382:{pos:7,x:35,y:88}},audCC:[],vidCC:[],accstr:' ',si:[{n:'Image_990',t:15},{n:'Image_994',t:15},{n:'Image_991',t:15},{n:'Image_993',t:15},{n:'Image_1015',t:15},{n:'Answer_1107',t:612},{n:'si802807',t:612},{n:'si802828',t:612},{n:'Question_1_221',t:19},{n:'Answer_1108',t:612},{n:'si802929',t:612},{n:'si802950',t:612},{n:'Image_1016',t:15}],iph:[],v:false,bc:'#ffffff',JSONTT_0:[],JSONTT_6:[],qs:'',g4:{a1:[[333,'Answer_1107alphaMultiplier'],[333,'Answer_1107x'],[333,'Answer_1107y'],[333,'si802807alphaMultiplier'],[333,'si802807x'],[333,'si802807y'],[333,'si802828alphaMultiplier'],[333,'si802828x'],[333,'si802828y'],[333,'Answer_1108alphaMultiplier'],[333,'Answer_1108x'],[333,'Answer_1108y'],[333,'si802929alphaMultiplier'],[333,'si802929x'],[333,'si802929y'],[333,'si802950alphaMultiplier'],[333,'si802950x'],[333,'si802950y']],c3:{},a2:{Answer_1107alphaMultiplier:{a6:1966,j2:[0,0],a4:0,a3:'Answer_1107',c0:14,b6:[0,0,100,1],b4:[]},Answer_1107x:{a6:1966,j2:[0,0],a4:0,a3:'Answer_1107',c0:12,b6:[0,0,100,0],b4:[]},Answer_1107y:{a6:1966,j2:[0,0],a4:0,a3:'Answer_1107',c0:13,b6:[0,0.47,100,0],b4:[]},si802807alphaMultiplier:{a6:1966,j2:[0,0],a4:0,a3:'si802807',c0:14,b6:[0,0,100,1],b4:[]},si802807x:{a6:1966,j2:[0,0],a4:0,a3:'si802807',c0:12,b6:[0,0,100,0],b4:[]},si802807y:{a6:1966,j2:[0,0],a4:0,a3:'si802807',c0:13,b6:[0,0.47,100,0],b4:[]},si802828alphaMultiplier:{a6:1966,j2:[0,0],a4:0,a3:'si802828',c0:14,b6:[0,0,100,1],b4:[]},si802828x:{a6:1966,j2:[0,0],a4:0,a3:'si802828',c0:12,b6:[0,0,100,0],b4:[]},si802828y:{a6:1966,j2:[0,0],a4:0,a3:'si802828',c0:13,b6:[0,0.47,100,0],b4:[]},Answer_1108alphaMultiplier:{a6:1966,j2:[0,0],a4:0,a3:'Answer_1108',c0:14,b6:[0,0,100,1],b4:[]},Answer_1108x:{a6:1966,j2:[0,0],a4:0,a3:'Answer_1108',c0:12,b6:[0,0,100,0],b4:[]},Answer_1108y:{a6:1966,j2:[0,0],a4:0,a3:'Answer_1108',c0:13,b6:[0,0.47,100,0],b4:[]},si802929alphaMultiplier:{a6:1966,j2:[0,0],a4:0,a3:'si802929',c0:14,b6:[0,0,100,1],b4:[]},si802929x:{a6:1966,j2:[0,0],a4:0,a3:'si802929',c0:12,b6:[0,0,100,0],b4:[]},si802929y:{a6:1966,j2:[0,0],a4:0,a3:'si802929',c0:13,b6:[0,0.47,100,0],b4:[]},si802950alphaMultiplier:{a6:1966,j2:[0,0],a4:0,a3:'si802950',c0:14,b6:[0,0,100,1],b4:[]},si802950x:{a6:1966,j2:[0,0],a4:0,a3:'si802950',c0:12,b6:[0,0,100,0],b4:[]},si802950y:{a6:1966,j2:[0,0],a4:0,a3:'si802950',c0:13,b6:[0,0.47,100,0],b4:[]}}}},Slide113073c:{b:[0,0,0,0],sr:cp.fd,uid:113073,dn:'Slide113073',visible:'1'},Image_996:{type:15,from:299941,to:599910,rp:0,rpa:0,mdi:'Image_996c',retainState:false,immo:false,apsn:'Slide13453',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797217]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_996c:{b:[-4,-4,384,790],uid:797217,sr:cp.fd,ip:'dr/797134_388_794.png',dn:'Image_996',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-4,384,790],vb:[-4,-4,384,790]},Image_995:{type:15,from:299941,to:599910,rp:0,rpa:0,mdi:'Image_995c',retainState:false,immo:false,apsn:'Slide13453',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797198]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_995c:{b:[302,651,384,794],uid:797198,sr:cp.fd,ip:'dr/797194_82_143.png',dn:'Image_995',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[302,651,384,794],vb:[302,651,384,794]},Text_Caption_222:{type:19,from:299941,to:599910,rp:0,rpa:0,mdi:'Text_Caption_222c',retainState:false,immo:false,apsn:'Slide13453',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[802974]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Text_Caption_222c:{b:[56,397,321,650],uid:802974,sr:cp.fd,ip:'dr/Text_Caption_222.png',dn:'Text_Caption_222',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Decke alle 8 Kartenpaare auf und gewinne das Spiel – Viel Erfolg! ',traccstr:'',ti:-1,acclng:'',vbwr:[56,397,321,650],vb:[56,397,321,650]},Answer_1109:{type:612,from:299941,to:300183,rp:0,rpa:0,mdi:'Answer_1109c',retainState:false,immo:false,apsn:'Slide13453',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:300034,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803012]},{stn:'RollOver',stt:2,stsi:[803033]},{stn:'Down',stt:1,stsi:[803054]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:true,sihds:true,stc:['Answer_1109','si803033','si803054'],isDD:false},Answer_1109c:{b:[78,650,298,745],uid:803012,sr:cp.fd,ip:'dr/Answer_1109.png',dn:'Answer_1109',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Weiter ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:0,ss:0,fa:100,bc:'#000000',p0:[[0],[1,92.8,650.00],[3,84.63,650.00,78,656.63,78,664.8],[2,78,730.19],[3,78,738.37,84.63,745,92.8,745],[2,283.19,745],[3,291.37,745,298,738.37,298,730.19],[2,298,664.8],[3,298,656.63,291.37,650.00,283.19,650.00],[2,92.8,650.00],[4]],svg:false,vbwr:[78,650,298,745],vb:[78,650,298,745]},si803033:{type:612,from:299941,to:300183,rp:0,rpa:0,mdi:'si803033c',retainState:false,immo:false,apsn:'Slide13453',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:300034,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1109',stl:[{stn:'Normal',stt:0,stsi:[803033]}],stis:0,bstiid:803012,sipst:2,sicbs:true,sihhs:true,sihds:true,isDD:false},si803033c:{b:[78,650,298,745],uid:803033,sr:cp.fd,ip:'dr/si803033.png',dn:'si803033',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Weiter ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#737373',p0:[[0],[1,92.8,650.00],[3,84.63,650.00,78,656.63,78,664.8],[2,78,730.19],[3,78,738.37,84.63,745,92.8,745],[2,283.19,745],[3,291.37,745,298,738.37,298,730.19],[2,298,664.8],[3,298,656.63,291.37,650.00,283.19,650.00],[2,92.8,650.00],[4]],svg:false,vbwr:[74,646,302,749],vb:[74,646,302,749]},si803054:{type:612,from:299941,to:300183,rp:0,rpa:0,mdi:'si803054c',retainState:false,immo:false,apsn:'Slide13453',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:300034,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1109',stl:[{stn:'Normal',stt:0,stsi:[803054]}],stis:0,bstiid:803012,sipst:1,sicbs:true,sihhs:true,sihds:true,isDD:false},si803054c:{b:[78,650,298,745],uid:803054,sr:cp.fd,ip:'dr/si803054.png',dn:'si803054',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Weiter ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#171717',p0:[[0],[1,92.8,650.00],[3,84.63,650.00,78,656.63,78,664.8],[2,78,730.19],[3,78,738.37,84.63,745,92.8,745],[2,283.19,745],[3,291.37,745,298,738.37,298,730.19],[2,298,664.8],[3,298,656.63,291.37,650.00,283.19,650.00],[2,92.8,650.00],[4]],svg:false,vbwr:[74,646,302,749],vb:[74,646,302,749]},Question_1_223:{type:19,from:299941,to:599910,rp:0,rpa:0,mdi:'Question_1_223c',retainState:false,immo:false,apsn:'Slide13453',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803064]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Question_1_223c:{b:[-5,-5,384,122],uid:803064,sr:cp.fd,ip:'dr/Question_1_223.png',dn:'Question_1_223',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Übersicht ',traccstr:'',ti:-1,acclng:'',vbwr:[-5,-5,384,122],vb:[-5,-5,384,122]},Slide13453:{lb:'',id:13453,from:299941,to:599910,iols:0,i360qs:false,propTxtScaling:false,minFontSizeScaling:14,useng:true,transition:{type:0},mmot:false,mdi:'Slide13453c',st:'Normal Slide',ccProperties:{382:{pos:7,x:35,y:88}},audCC:[],vidCC:[],accstr:' ',si:[{n:'Image_996',t:15},{n:'Image_995',t:15},{n:'Text_Caption_222',t:19},{n:'Answer_1109',t:612},{n:'si803033',t:612},{n:'si803054',t:612},{n:'Question_1_223',t:19}],iph:[],v:false,bc:'#ffffff',JSONTT_0:[],JSONTT_6:[],qs:''},Slide13453c:{b:[0,0,0,0],sr:cp.fd,uid:13453,dn:'Slide13453',visible:'1'},Image_243:{type:15,from:599911,to:899850,rp:0,rpa:0,mdi:'Image_243c',retainState:false,immo:false,apsn:'Slide129773',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[129596]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_243c:{b:[-2,-4,386,792],uid:129596,sr:cp.fd,ip:'dr/124875_388_796.png',dn:'Image_243',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-2,-4,386,792],vb:[-2,-4,386,792]},Image_999:{type:15,from:599911,to:899850,rp:0,rpa:0,mdi:'Image_999c',retainState:false,immo:false,apsn:'Slide129773',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797251]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_999c:{b:[-4,-4,384,790],uid:797251,sr:cp.fd,ip:'dr/797134_388_794.png',dn:'Image_999',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-4,384,790],vb:[-4,-4,384,790]},Text_Caption_224:{type:19,from:599911,to:899850,rp:0,rpa:0,mdi:'Text_Caption_224c',retainState:false,immo:false,apsn:'Slide129773',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803075]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Text_Caption_224c:{b:[-4,155,384,588],uid:803075,sr:cp.fd,ip:'dr/Text_Caption_224.png',dn:'Text_Caption_224',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam? Nullam quis risus eget urna mollis ornare vel eu leo. Suspendisse potenti in faucibus orci luctus et ultrices posuere cubilia curae.        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec ullamcorper nulla non metus auctor fringilla in vitae nunc. Curabitur blandit tempus porttitor! ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,155,384,588],vb:[-4,155,384,588]},Text_Caption_169:{type:19,from:599911,to:899850,rp:0,rpa:0,mdi:'Text_Caption_169c',retainState:false,immo:false,apsn:'Slide129773',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[468952]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Text_Caption_169c:{b:[100,311,282,420],uid:468952,sr:cp.fd,ip:'dr/Text_Caption_169.png',dn:'Text_Caption_169',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'(Timer) 04:00 ',traccstr:'',ti:-1,acclng:'',vbwr:[100,311,282,420],vb:[100,311,282,420]},Image_1007:{type:15,from:599911,to:600000,rp:0,rpa:0,mdi:'Image_1007c',retainState:false,immo:false,apsn:'Slide129773',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797341]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1007c:{b:[-3,-4,72,44],uid:797341,sr:cp.fd,ip:'dr/797338_75_48.png',dn:'Image_1007',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-3,-4,72,44],vb:[-3,-4,72,44]},Question_1_225:{type:19,from:599911,to:899850,rp:0,rpa:0,mdi:'Question_1_225c',retainState:false,immo:false,apsn:'Slide129773',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803085]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Question_1_225c:{b:[-4,-4,385,122],uid:803085,sr:cp.fd,ip:'dr/Question_1_225.png',dn:'Question_1_225',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'So wird gespielt ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-4,385,122],vb:[-4,-4,385,122]},Answer_1122:{type:612,from:599911,to:600153,rp:0,rpa:0,mdi:'Answer_1122c',retainState:false,immo:false,apsn:'Slide129773',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:600004,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[810052]},{stn:'RollOver',stt:2,stsi:[810073]},{stn:'Down',stt:1,stsi:[810094]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:true,sihds:true,stc:['Answer_1122','si810073','si810094'],isDD:false},Answer_1122c:{b:[78,650,298,745],uid:810052,sr:cp.fd,ip:'dr/Answer_1122.png',dn:'Answer_1122',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Weiter ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:0,ss:0,fa:100,bc:'#000000',p0:[[0],[1,92.8,650.00],[3,84.63,650.00,78,656.63,78,664.8],[2,78,730.19],[3,78,738.37,84.63,745,92.8,745],[2,283.19,745],[3,291.37,745,298,738.37,298,730.19],[2,298,664.8],[3,298,656.63,291.37,650.00,283.19,650.00],[2,92.8,650.00],[4]],svg:false,vbwr:[78,650,298,745],vb:[78,650,298,745]},si810073:{type:612,from:599911,to:600153,rp:0,rpa:0,mdi:'si810073c',retainState:false,immo:false,apsn:'Slide129773',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:600004,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1122',stl:[{stn:'Normal',stt:0,stsi:[810073]}],stis:0,bstiid:810052,sipst:2,sicbs:true,sihhs:true,sihds:true,isDD:false},si810073c:{b:[78,650,298,745],uid:810073,sr:cp.fd,ip:'dr/si810073.png',dn:'si810073',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Weiter ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#737373',p0:[[0],[1,92.8,650.00],[3,84.63,650.00,78,656.63,78,664.8],[2,78,730.19],[3,78,738.37,84.63,745,92.8,745],[2,283.19,745],[3,291.37,745,298,738.37,298,730.19],[2,298,664.8],[3,298,656.63,291.37,650.00,283.19,650.00],[2,92.8,650.00],[4]],svg:false,vbwr:[74,646,302,749],vb:[74,646,302,749]},si810094:{type:612,from:599911,to:600153,rp:0,rpa:0,mdi:'si810094c',retainState:false,immo:false,apsn:'Slide129773',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:600004,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1122',stl:[{stn:'Normal',stt:0,stsi:[810094]}],stis:0,bstiid:810052,sipst:1,sicbs:true,sihhs:true,sihds:true,isDD:false},si810094c:{b:[78,650,298,745],uid:810094,sr:cp.fd,ip:'dr/si810094.png',dn:'si810094',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Weiter ',traccstr:' Trigger this button to go to the next slide',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#171717',p0:[[0],[1,92.8,650.00],[3,84.63,650.00,78,656.63,78,664.8],[2,78,730.19],[3,78,738.37,84.63,745,92.8,745],[2,283.19,745],[3,291.37,745,298,738.37,298,730.19],[2,298,664.8],[3,298,656.63,291.37,650.00,283.19,650.00],[2,92.8,650.00],[4]],svg:false,vbwr:[74,646,302,749],vb:[74,646,302,749]},Slide129773:{lb:'',id:129773,from:599911,to:899850,iols:0,i360qs:false,propTxtScaling:false,minFontSizeScaling:14,useng:true,transition:{type:0},mmot:false,mdi:'Slide129773c',st:'Normal Slide',ccProperties:{382:{pos:7,x:35,y:88}},audCC:[],vidCC:[],accstr:' ',si:[{n:'Image_243',t:15},{n:'Image_999',t:15},{n:'Text_Caption_224',t:19},{n:'Text_Caption_169',t:19},{n:'Image_1007',t:15},{n:'Question_1_225',t:19},{n:'Answer_1122',t:612},{n:'si810073',t:612},{n:'si810094',t:612}],iph:[],v:false,bc:'#ffffff',JSONTT_0:[],JSONTT_6:[],qs:''},Slide129773c:{b:[0,0,0,0],sr:cp.fd,uid:129773,dn:'Slide129773',visible:'1'},Image_1000:{type:15,from:899851,to:1199880,rp:0,rpa:0,mdi:'Image_1000c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797263]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1000c:{b:[-4,-2,384,792],uid:797263,sr:cp.fd,ip:'dr/797134_388_794.png',dn:'Image_1000',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-2,384,792],vb:[-4,-2,384,792]},Image_1002:{type:15,from:899851,to:1199880,rp:0,rpa:0,mdi:'Image_1002c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797290]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1002c:{b:[-6,760,35,792],uid:797290,sr:cp.fd,ip:'dr/797146_41_32.png',dn:'Image_1002',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-6,760,35,792],vb:[-6,760,35,792]},Image_1003:{type:15,from:899851,to:1199880,rp:0,rpa:0,mdi:'Image_1003c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797302]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1003c:{b:[319,-4,384,69],uid:797302,sr:cp.fd,ip:'dr/797170_65_73.png',dn:'Image_1003',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[319,-4,384,69],vb:[319,-4,384,69]},Timer1outof8v2_4:{type:133,from:899851,to:947760,rp:0,rpa:0,mdi:'Timer1outof8v2_4c',retainState:false,immo:false,apsn:'Slide52766',iflbx:false,ipflbx:true,trin:0,trout:0,isDD:false},Timer1outof8v2_4c:{b:[276,451,359,514],uid:356208,dn:'Timer1outof8v2_4',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Widget ',traccstr:'',ti:2500,acclng:'',wp:'<object><property id="txtSelectedColor"><number>3955594</number></property><property id="txtSelectedColorHex"><string>3c5b8a</string></property><property id="isec"><string>00</string></property><property id="insidequiz"><string>false</string></property><property id="bgSelectedColorHex"><string>003ba4</string></property><property id="variable1"><string></string></property><property id="slide"><string>1</string></property><property id="timeway"><string>down</string></property><property id="mess"><string>Zeit abgelaufen! Versuchen Sie es noch einmal!</string></property><property id="bgSelectedColor"><number>15268</number></property><property id="imin"><string>05</string></property><property id="bgsel"><string>false</string></property></object>',iiw:false,iqw:false,id:356208,wc:'timer_use',wu:'wr/w_356208/Widget_356208.htm',sn:'Slide52766',a:1,vbwr:[276,451,359,514],vb:[276,451,359,514]},Try_again:{type:19,from:899851,to:1199889,rp:0,rpa:0,mdi:'Try_againc',retainState:false,immo:false,apsn:'Slide52766',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[738674]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Try_againc:{b:[113,445,267,507],uid:738674,sr:cp.fd,ip:'dr/Try_again.png',dn:'Try_again',visible:0,effectiveVi:0,JSONEffectData:false,accstr:'Bitte versuche es nochmal! ',traccstr:'',ti:-1,acclng:'',vbwr:[113,445,267,507],vb:[113,445,267,507]},Nice_Pair:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'Nice_Pairc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[745719]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Nice_Pairc:{b:[118,451,261,512],uid:745719,sr:cp.fd,ip:'dr/Nice_Pair.png',dn:'Nice_Pair',visible:0,effectiveVi:0,JSONEffectData:false,accstr:'Schönes Paar! ',traccstr:'',ti:-1,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,118,451],[2,118,512],[2,261,512],[2,261,451],[2,118,451],[4]],svg:false,vbwr:[118,451,261,512],vb:[118,451,261,512]},Card_A:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Card_Ac',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[778605]},{stn:'A',stt:9,stsi:[778645]},{stn:'B',stt:9,stsi:[778652]},{stn:'C',stt:9,stsi:[778659]},{stn:'D',stt:9,stsi:[778666]},{stn:'E',stt:9,stsi:[778673]},{stn:'F',stt:9,stsi:[778680]},{stn:'G',stt:9,stsi:[778687]},{stn:'H',stt:9,stsi:[778694]},{stn:'I',stt:9,stsi:[778701]},{stn:'J',stt:9,stsi:[778708]},{stn:'K',stt:9,stsi:[778715]},{stn:'L',stt:9,stsi:[778722]},{stn:'M',stt:9,stsi:[778729]},{stn:'N',stt:9,stsi:[778736]},{stn:'O',stt:9,stsi:[778743]},{stn:'P',stt:9,stsi:[778750]},{stn:'Q',stt:9,stsi:[778757]},{stn:'R',stt:9,stsi:[778764]},{stn:'S',stt:9,stsi:[778771]},{stn:'T',stt:9,stsi:[778778]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['Card_A','si778645','si778652','si778659','si778666','si778673','si778680','si778687','si778694','si778701','si778708','si778715','si778722','si778729','si778736','si778743','si778750','si778757','si778764','si778771','si778778'],isDD:false},Card_Ac:{b:[6,516,188,769],uid:778605,sr:cp.fd,ip:'dr/801537_182_253.png',dn:'Card_A',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778645:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778645c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778645]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778645c:{b:[6,516,188,769],uid:778645,sr:cp.fd,ip:'dr/803799_182_253.png',dn:'si778645',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778652:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778652c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778652]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778652c:{b:[6,516,188,768],uid:778652,sr:cp.fd,ip:'dr/809663_182_252.png',dn:'si778652',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778659:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778659c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778659]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778659c:{b:[6,516,188,769],uid:778659,sr:cp.fd,ip:'dr/803771_182_253.png',dn:'si778659',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778666:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778666c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778666]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778666c:{b:[6,516,188,768],uid:778666,sr:cp.fd,ip:'dr/809667_182_252.png',dn:'si778666',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778673:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778673c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778673]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778673c:{b:[6,516,188,769],uid:778673,sr:cp.fd,ip:'dr/803775_182_253.png',dn:'si778673',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778680:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778680c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778680]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778680c:{b:[6,516,188,768],uid:778680,sr:cp.fd,ip:'dr/809671_182_252.png',dn:'si778680',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778687:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778687c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778687]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778687c:{b:[6,516,188,769],uid:778687,sr:cp.fd,ip:'dr/803779_182_253.png',dn:'si778687',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778694:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778694c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778694]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778694c:{b:[6,516,188,768],uid:778694,sr:cp.fd,ip:'dr/809675_182_252.png',dn:'si778694',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778701:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778701c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778701]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778701c:{b:[6,516,188,769],uid:778701,sr:cp.fd,ip:'dr/803783_182_253.png',dn:'si778701',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778708:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778708c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778708]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778708c:{b:[6,516,188,768],uid:778708,sr:cp.fd,ip:'dr/809679_182_252.png',dn:'si778708',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778715:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778715c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778715]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778715c:{b:[6,516,188,769],uid:778715,sr:cp.fd,ip:'dr/803787_182_253.png',dn:'si778715',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778722:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778722c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778722]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778722c:{b:[6,516,188,768],uid:778722,sr:cp.fd,ip:'dr/809683_182_252.png',dn:'si778722',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778729:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778729c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778729]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778729c:{b:[6,516,188,769],uid:778729,sr:cp.fd,ip:'dr/803791_182_253.png',dn:'si778729',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778736:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778736c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778736]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778736c:{b:[6,516,188,768],uid:778736,sr:cp.fd,ip:'dr/809687_182_252.png',dn:'si778736',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778743:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778743c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778743]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778743c:{b:[6,516,188,769],uid:778743,sr:cp.fd,ip:'dr/803795_182_253.png',dn:'si778743',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778750:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778750c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778750]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778750c:{b:[6,516,188,768],uid:778750,sr:cp.fd,ip:'dr/809691_182_252.png',dn:'si778750',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778757:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778757c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778757]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778757c:{b:[6,516,142,733],uid:778757,sr:cp.fd,ip:'dr/778848_136_217.png',dn:'si778757',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,142,733],vb:[6,516,142,733]},si778764:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778764c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778764]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778764c:{b:[6,516,142,733],uid:778764,sr:cp.fd,ip:'dr/778852_136_217.png',dn:'si778764',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,142,733],vb:[6,516,142,733]},si778771:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778771c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778771]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778771c:{b:[6,516,142,733],uid:778771,sr:cp.fd,ip:'dr/778856_136_217.png',dn:'si778771',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,142,733],vb:[6,516,142,733]},si778778:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778778c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778778]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778778c:{b:[6,516,142,733],uid:778778,sr:cp.fd,ip:'dr/778860_136_217.png',dn:'si778778',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,142,733],vb:[6,516,142,733]},Card_B:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Card_Bc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[778897]},{stn:'A',stt:9,stsi:[778909]},{stn:'B',stt:9,stsi:[778921]},{stn:'C',stt:9,stsi:[778933]},{stn:'D',stt:9,stsi:[778945]},{stn:'E',stt:9,stsi:[778957]},{stn:'F',stt:9,stsi:[778969]},{stn:'G',stt:9,stsi:[778981]},{stn:'H',stt:9,stsi:[778993]},{stn:'I',stt:9,stsi:[779005]},{stn:'J',stt:9,stsi:[779017]},{stn:'K',stt:9,stsi:[779029]},{stn:'L',stt:9,stsi:[779041]},{stn:'M',stt:9,stsi:[779053]},{stn:'N',stt:9,stsi:[779065]},{stn:'O',stt:9,stsi:[779077]},{stn:'P',stt:9,stsi:[779089]},{stn:'Q',stt:9,stsi:[779101]},{stn:'R',stt:9,stsi:[779113]},{stn:'S',stt:9,stsi:[779125]},{stn:'T',stt:9,stsi:[779137]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['Card_B','si778909','si778921','si778933','si778945','si778957','si778969','si778981','si778993','si779005','si779017','si779029','si779041','si779053','si779065','si779077','si779089','si779101','si779113','si779125','si779137'],isDD:false},Card_Bc:{b:[192,516,374,769],uid:778897,sr:cp.fd,ip:'dr/801541_182_253.png',dn:'Card_B',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si778909:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778909c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778909]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778909c:{b:[192,516,374,768],uid:778909,sr:cp.fd,ip:'dr/803799_182_252.png',dn:'si778909',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si778921:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778921c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778921]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778921c:{b:[192,516,373,768],uid:778921,sr:cp.fd,ip:'dr/809663_181_252.png',dn:'si778921',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,373,768],vb:[192,516,373,768]},si778933:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778933c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778933]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778933c:{b:[192,516,374,769],uid:778933,sr:cp.fd,ip:'dr/803771_182_253.png',dn:'si778933',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si778945:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778945c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778945]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778945c:{b:[192,516,374,768],uid:778945,sr:cp.fd,ip:'dr/809667_182_252.png',dn:'si778945',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si778957:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778957c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778957]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778957c:{b:[192,516,374,769],uid:778957,sr:cp.fd,ip:'dr/803775_182_253.png',dn:'si778957',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si778969:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778969c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778969]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778969c:{b:[192,516,374,768],uid:778969,sr:cp.fd,ip:'dr/809671_182_252.png',dn:'si778969',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si778981:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778981c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778981]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778981c:{b:[192,516,374,769],uid:778981,sr:cp.fd,ip:'dr/803779_182_253.png',dn:'si778981',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si778993:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778993c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778993]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778993c:{b:[192,516,374,768],uid:778993,sr:cp.fd,ip:'dr/809675_182_252.png',dn:'si778993',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si779005:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779005c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779005]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779005c:{b:[192,516,374,769],uid:779005,sr:cp.fd,ip:'dr/803783_182_253.png',dn:'si779005',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si779017:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779017c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779017]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779017c:{b:[192,516,374,768],uid:779017,sr:cp.fd,ip:'dr/809679_182_252.png',dn:'si779017',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si779029:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779029c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779029]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779029c:{b:[192,516,374,769],uid:779029,sr:cp.fd,ip:'dr/803787_182_253.png',dn:'si779029',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si779041:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779041c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779041]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779041c:{b:[192,516,374,768],uid:779041,sr:cp.fd,ip:'dr/809683_182_252.png',dn:'si779041',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si779053:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779053c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779053]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779053c:{b:[192,516,374,769],uid:779053,sr:cp.fd,ip:'dr/803791_182_253.png',dn:'si779053',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si779065:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779065c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779065]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779065c:{b:[192,516,374,768],uid:779065,sr:cp.fd,ip:'dr/809687_182_252.png',dn:'si779065',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si779077:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779077c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779077]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779077c:{b:[192,516,374,769],uid:779077,sr:cp.fd,ip:'dr/803795_182_253.png',dn:'si779077',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si779089:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779089c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779089]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779089c:{b:[192,516,374,768],uid:779089,sr:cp.fd,ip:'dr/809691_182_252.png',dn:'si779089',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si779101:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779101c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779101]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779101c:{b:[192,516,328,733],uid:779101,sr:cp.fd,ip:'dr/778848_136_217.png',dn:'si779101',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,328,733],vb:[192,516,328,733]},si779113:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779113c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779113]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779113c:{b:[192,516,328,733],uid:779113,sr:cp.fd,ip:'dr/778852_136_217.png',dn:'si779113',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,328,733],vb:[192,516,328,733]},si779125:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779125c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779125]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779125c:{b:[192,516,328,733],uid:779125,sr:cp.fd,ip:'dr/778856_136_217.png',dn:'si779125',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,328,733],vb:[192,516,328,733]},si779137:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779137c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779137]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779137c:{b:[192,516,328,733],uid:779137,sr:cp.fd,ip:'dr/778860_136_217.png',dn:'si779137',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,328,733],vb:[192,516,328,733]},A:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Ac',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B1");\
@@ -121,9 +121,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:0,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[765827]},{stn:'Face',stt:9,stsi:[765913]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['A','si765913'],isDD:false},Ac:{b:[6,89,90,173],uid:765827,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'A',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,89,90,173],vb:[6,89,90,173]},si765913:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si765913c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:0,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[765827]},{stn:'Face',stt:9,stsi:[765913]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['A','si765913'],isDD:false},Ac:{b:[194,89,278,173],uid:765827,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'A',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,89,278,173],vb:[194,89,278,173]},si765913:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si765913c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B1");\
@@ -246,3759 +246,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'A',stl:[{stn:'Normal',stt:0,stsi:[765913]}],stis:0,bstiid:765827,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si765913c:{b:[6,89,90,173],uid:765913,sr:cp.fd,ip:'dr/803835_84_84.png',dn:'si765913',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,89,90,173],vb:[6,89,90,173]},B:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Bc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B2");\
-cp.show("B_Face");\
-cp.changeState("Card_A","B");\
-window.Solution1=( isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'number\') )? window.Solution1 : ( (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution1\')+cp.ho(\'1\')):Number(cp.ho(\'Solution1\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution1=( isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'number\') )? window.Solution1 : ( (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution1\')+cp.ho(\'1\')):Number(cp.ho(\'Solution1\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("B_Face");\
-cp.changeState("Card_B","B");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution1\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","B");\
-cp.show("B2");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("A_B_MATCHED_1");\
-cp.show("A_B_MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[765652]},{stn:'Face',stt:9,stsi:[765738]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B','si765738'],isDD:false},Bc:{b:[101,88,185,172],uid:765652,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'B',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,88,185,172],vb:[101,88,185,172]},si765738:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si765738c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B2");\
-cp.show("B_Face");\
-cp.changeState("Card_A","B");\
-window.Solution1=( isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'number\') )? window.Solution1 : ( (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution1\')+cp.ho(\'1\')):Number(cp.ho(\'Solution1\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution1=( isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'number\') )? window.Solution1 : ( (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution1\')+cp.ho(\'1\')):Number(cp.ho(\'Solution1\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("B_Face");\
-cp.changeState("Card_B","B");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution1\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","B");\
-cp.show("B2");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("A_B_MATCHED_1");\
-cp.show("A_B_MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'B',stl:[{stn:'Normal',stt:0,stsi:[765738]}],stis:0,bstiid:765652,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si765738c:{b:[101,88,185,172],uid:765738,sr:cp.fd,ip:'dr/809695_84_84.png',dn:'si765738',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,88,185,172],vb:[101,88,185,172]},C:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Cc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B3");\
-cp.show("C_FACE");\
-cp.changeState("Card_A","C");\
-window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("C_FACE");\
-cp.changeState("Card_B","C");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution2\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","C");\
-cp.show("B3");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("C_D_MATCHED_1");\
-cp.show("C_D_MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[760128]},{stn:'Face',stt:9,stsi:[762511]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['C','si762511'],isDD:false},Cc:{b:[193,89,277,173],uid:760128,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'C',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,89,277,173],vb:[193,89,277,173]},si762511:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si762511c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B3");\
-cp.show("C_FACE");\
-cp.changeState("Card_A","C");\
-window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("C_FACE");\
-cp.changeState("Card_B","C");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution2\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","C");\
-cp.show("B3");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("C_D_MATCHED_1");\
-cp.show("C_D_MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'C',stl:[{stn:'Normal',stt:0,stsi:[762511]}],stis:0,bstiid:760128,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si762511c:{b:[193,89,277,173],uid:762511,sr:cp.fd,ip:'dr/803843_84_84.png',dn:'si762511',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,89,277,173],vb:[193,89,277,173]},D:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Dc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B4");\
-cp.show("D_FACE");\
-cp.changeState("Card_A","D");\
-window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("D_FACE");\
-cp.changeState("Card_B","D");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution2\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","D");\
-cp.show("B4");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("C_D_MATCHED_1");\
-cp.show("C_D_MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[766002]},{stn:'Face',stt:9,stsi:[766088]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['D','si766088'],isDD:false},Dc:{b:[288,88,372,172],uid:766002,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'D',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,88,372,172],vb:[288,88,372,172]},si766088:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si766088c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B4");\
-cp.show("D_FACE");\
-cp.changeState("Card_A","D");\
-window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("D_FACE");\
-cp.changeState("Card_B","D");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution2\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","D");\
-cp.show("B4");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("C_D_MATCHED_1");\
-cp.show("C_D_MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'D',stl:[{stn:'Normal',stt:0,stsi:[766088]}],stis:0,bstiid:766002,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si766088c:{b:[288,88,372,172],uid:766088,sr:cp.fd,ip:'dr/809699_84_84.png',dn:'si766088',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,88,372,172],vb:[288,88,372,172]},E:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Ec',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B5");\
-cp.show("E_FACE");\
-cp.changeState("Card_A","E");\
-window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("E_FACE");\
-cp.changeState("Card_B","E");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution3\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","E");\
-cp.show("B5");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("E_F_MATCHED_1");\
-cp.show("E_F_MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[766177]},{stn:'Face',stt:9,stsi:[766263]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['E','si766263'],isDD:false},Ec:{b:[6,182,90,266],uid:766177,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'E',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,182,90,266],vb:[6,182,90,266]},si766263:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si766263c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B5");\
-cp.show("E_FACE");\
-cp.changeState("Card_A","E");\
-window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("E_FACE");\
-cp.changeState("Card_B","E");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution3\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","E");\
-cp.show("B5");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("E_F_MATCHED_1");\
-cp.show("E_F_MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'E',stl:[{stn:'Normal',stt:0,stsi:[766263]}],stis:0,bstiid:766177,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si766263c:{b:[6,182,90,266],uid:766263,sr:cp.fd,ip:'dr/803851_84_84.png',dn:'si766263',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,182,90,266],vb:[6,182,90,266]},F:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Fc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B6");\
-cp.show("F_FACE");\
-cp.changeState("Card_A","F");\
-window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("F_FACE");\
-cp.changeState("Card_B","F");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution3\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","F");\
-cp.show("B6");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("E_F_MATCHED_1");\
-cp.show("E_F_MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[766702]},{stn:'Face',stt:9,stsi:[766788]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['F','si766788'],isDD:false},Fc:{b:[101,182,185,266],uid:766702,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'F',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,182,185,266],vb:[101,182,185,266]},si766788:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si766788c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B6");\
-cp.show("F_FACE");\
-cp.changeState("Card_A","F");\
-window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("F_FACE");\
-cp.changeState("Card_B","F");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution3\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","F");\
-cp.show("B6");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("E_F_MATCHED_1");\
-cp.show("E_F_MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'F',stl:[{stn:'Normal',stt:0,stsi:[766788]}],stis:0,bstiid:766702,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si766788c:{b:[101,182,185,266],uid:766788,sr:cp.fd,ip:'dr/809703_84_84.png',dn:'si766788',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,182,185,266],vb:[101,182,185,266]},G:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Gc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B7");\
-cp.show("G_FACE");\
-cp.changeState("Card_A","G");\
-window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("G_FACE");\
-cp.changeState("Card_B","G");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution4\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","G");\
-cp.show("B7");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("G___H__MATCHED_1");\
-cp.show("G___H__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[766527]},{stn:'Face',stt:9,stsi:[766613]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['G','si766613'],isDD:false},Gc:{b:[193,182,277,266],uid:766527,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'G',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,182,277,266],vb:[193,182,277,266]},si766613:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si766613c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B7");\
-cp.show("G_FACE");\
-cp.changeState("Card_A","G");\
-window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("G_FACE");\
-cp.changeState("Card_B","G");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution4\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","G");\
-cp.show("B7");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("G___H__MATCHED_1");\
-cp.show("G___H__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'G',stl:[{stn:'Normal',stt:0,stsi:[766613]}],stis:0,bstiid:766527,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si766613c:{b:[193,182,277,266],uid:766613,sr:cp.fd,ip:'dr/803855_84_84.png',dn:'si766613',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,182,277,266],vb:[193,182,277,266]},H:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Hc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B8");\
-cp.show("H_FACE");\
-cp.changeState("Card_A","H");\
-window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("H_FACE");\
-cp.changeState("Card_B","H");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution4\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","H");\
-cp.show("B8");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("G___H__MATCHED_1");\
-cp.show("G___H__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[766352]},{stn:'Face',stt:9,stsi:[766438]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['H','si766438'],isDD:false},Hc:{b:[288,182,372,266],uid:766352,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'H',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,182,372,266],vb:[288,182,372,266]},si766438:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si766438c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B8");\
-cp.show("H_FACE");\
-cp.changeState("Card_A","H");\
-window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("H_FACE");\
-cp.changeState("Card_B","H");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution4\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","H");\
-cp.show("B8");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("G___H__MATCHED_1");\
-cp.show("G___H__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'H',stl:[{stn:'Normal',stt:0,stsi:[766438]}],stis:0,bstiid:766352,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si766438c:{b:[288,182,372,266],uid:766438,sr:cp.fd,ip:'dr/809707_84_84.png',dn:'si766438',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,182,372,266],vb:[288,182,372,266]},I:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Ic',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B9");\
-cp.show("I_FACE");\
-cp.changeState("Card_A","I");\
-window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("I_FACE");\
-cp.changeState("Card_B","I");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution5\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","I");\
-cp.show("B9");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("I___J__MATCHED_1");\
-cp.show("I___J__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[766877]},{stn:'Face',stt:9,stsi:[766963]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['I','si766963'],isDD:false},Ic:{b:[6,276,90,360],uid:766877,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'I',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,276,90,360],vb:[6,276,90,360]},si766963:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si766963c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B9");\
-cp.show("I_FACE");\
-cp.changeState("Card_A","I");\
-window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("I_FACE");\
-cp.changeState("Card_B","I");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution5\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","I");\
-cp.show("B9");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("I___J__MATCHED_1");\
-cp.show("I___J__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'I',stl:[{stn:'Normal',stt:0,stsi:[766963]}],stis:0,bstiid:766877,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si766963c:{b:[6,276,90,360],uid:766963,sr:cp.fd,ip:'dr/803863_84_84.png',dn:'si766963',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,276,90,360],vb:[6,276,90,360]},J:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Jc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B10");\
-cp.show("J_FACE");\
-cp.changeState("Card_A","J");\
-window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("J_FACE");\
-cp.changeState("Card_B","J");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution5\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","J");\
-cp.show("B10");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("I___J__MATCHED_1");\
-cp.show("I___J__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[767052]},{stn:'Face',stt:9,stsi:[767138]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['J','si767138'],isDD:false},Jc:{b:[101,276,185,360],uid:767052,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'J',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,276,185,360],vb:[101,276,185,360]},si767138:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si767138c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B10");\
-cp.show("J_FACE");\
-cp.changeState("Card_A","J");\
-window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("J_FACE");\
-cp.changeState("Card_B","J");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution5\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","J");\
-cp.show("B10");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("I___J__MATCHED_1");\
-cp.show("I___J__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'J',stl:[{stn:'Normal',stt:0,stsi:[767138]}],stis:0,bstiid:767052,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si767138c:{b:[101,276,185,360],uid:767138,sr:cp.fd,ip:'dr/809711_84_84.png',dn:'si767138',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,276,185,360],vb:[101,276,185,360]},K:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Kc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B11");\
-cp.show("K_FACE");\
-cp.changeState("Card_A","K");\
-window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("K_FACE");\
-cp.changeState("Card_B","K");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution6\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","K");\
-cp.show("B11");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("K___L__MATCHED_1");\
-cp.show("K___L__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[767577]},{stn:'Face',stt:9,stsi:[767663]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['K','si767663'],isDD:false},Kc:{b:[193,276,277,360],uid:767577,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'K',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,276,277,360],vb:[193,276,277,360]},si767663:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si767663c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B11");\
-cp.show("K_FACE");\
-cp.changeState("Card_A","K");\
-window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("K_FACE");\
-cp.changeState("Card_B","K");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution6\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","K");\
-cp.show("B11");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("K___L__MATCHED_1");\
-cp.show("K___L__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'K',stl:[{stn:'Normal',stt:0,stsi:[767663]}],stis:0,bstiid:767577,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si767663c:{b:[193,276,277,360],uid:767663,sr:cp.fd,ip:'dr/803871_84_84.png',dn:'si767663',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,276,277,360],vb:[193,276,277,360]},L:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Lc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B12");\
-cp.show("L_FACE");\
-cp.changeState("Card_A","L");\
-window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("L_FACE");\
-cp.changeState("Card_B","L");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution6\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","L");\
-cp.show("B12");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("K___L__MATCHED_1");\
-cp.show("K___L__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[767402]},{stn:'Face',stt:9,stsi:[767488]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['L','si767488'],isDD:false},Lc:{b:[288,276,372,360],uid:767402,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'L',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,276,372,360],vb:[288,276,372,360]},si767488:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si767488c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B12");\
-cp.show("L_FACE");\
-cp.changeState("Card_A","L");\
-window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("L_FACE");\
-cp.changeState("Card_B","L");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution6\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","L");\
-cp.show("B12");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("K___L__MATCHED_1");\
-cp.show("K___L__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'L',stl:[{stn:'Normal',stt:0,stsi:[767488]}],stis:0,bstiid:767402,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si767488c:{b:[288,276,372,360],uid:767488,sr:cp.fd,ip:'dr/809715_84_84.png',dn:'si767488',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,276,372,360],vb:[288,276,372,360]},M:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Mc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B14");\
-cp.show("M_FACE");\
-cp.changeState("Card_A","N");\
-window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("M_FACE");\
-cp.changeState("Card_B","N");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution7\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","N");\
-cp.show("B14");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("M___N__MATCHED_1");\
-cp.show("M___N__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[767227]},{stn:'Face',stt:9,stsi:[767313]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['M','si767313'],isDD:false},Mc:{b:[101,370,185,454],uid:767227,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'M',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,370,185,454],vb:[101,370,185,454]},si767313:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si767313c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B14");\
-cp.show("M_FACE");\
-cp.changeState("Card_A","N");\
-window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("M_FACE");\
-cp.changeState("Card_B","N");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution7\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","N");\
-cp.show("B14");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("M___N__MATCHED_1");\
-cp.show("M___N__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'M',stl:[{stn:'Normal',stt:0,stsi:[767313]}],stis:0,bstiid:767227,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si767313c:{b:[101,370,185,454],uid:767313,sr:cp.fd,ip:'dr/809719_84_84.png',dn:'si767313',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,370,185,454],vb:[101,370,185,454]},N:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Nc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B13");\
-cp.show("N_FACE");\
-cp.changeState("Card_A","M");\
-window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("N_FACE");\
-cp.changeState("Card_B","M");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution7\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","M");\
-cp.show("B13");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("M___N__MATCHED_1");\
-cp.show("M___N__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[767752]},{stn:'Face',stt:9,stsi:[767838]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['N','si767838'],isDD:false},Nc:{b:[6,370,92,455],uid:767752,sr:cp.fd,ip:'dr/813792_86_85.png',dn:'N',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,370,92,455],vb:[6,370,92,455]},si767838:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si767838c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B13");\
-cp.show("N_FACE");\
-cp.changeState("Card_A","M");\
-window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("N_FACE");\
-cp.changeState("Card_B","M");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution7\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","M");\
-cp.show("B13");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("M___N__MATCHED_1");\
-cp.show("M___N__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'N',stl:[{stn:'Normal',stt:0,stsi:[767838]}],stis:0,bstiid:767752,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si767838c:{b:[6,370,92,455],uid:767838,sr:cp.fd,ip:'dr/803879_86_85.png',dn:'si767838',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,370,92,455],vb:[6,370,92,455]},O:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Oc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B15");\
-cp.show("O_FACE");\
-cp.changeState("Card_A","O");\
-window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("O_FACE");\
-cp.changeState("Card_B","O");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution8\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","O");\
-cp.show("B15");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("O___P__MATCHED_1");\
-cp.show("O___P__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[767927]},{stn:'Face',stt:9,stsi:[768013]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['O','si768013'],isDD:false},Oc:{b:[193,370,277,454],uid:767927,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'O',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,370,277,454],vb:[193,370,277,454]},si768013:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si768013c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B15");\
-cp.show("O_FACE");\
-cp.changeState("Card_A","O");\
-window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("O_FACE");\
-cp.changeState("Card_B","O");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution8\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","O");\
-cp.show("B15");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("O___P__MATCHED_1");\
-cp.show("O___P__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'O',stl:[{stn:'Normal',stt:0,stsi:[768013]}],stis:0,bstiid:767927,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si768013c:{b:[193,370,277,454],uid:768013,sr:cp.fd,ip:'dr/803891_84_84.png',dn:'si768013',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,370,277,454],vb:[193,370,277,454]},P:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Pc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B16");\
-cp.show("P_FACE");\
-cp.changeState("Card_A","P");\
-window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("P_FACE");\
-cp.changeState("Card_B","P");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution8\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","P");\
-cp.show("B16");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("O___P__MATCHED_1");\
-cp.show("O___P__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[768463]},{stn:'Face',stt:9,stsi:[768549]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['P','si768549'],isDD:false},Pc:{b:[288,370,372,454],uid:768463,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'P',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,370,372,454],vb:[288,370,372,454]},si768549:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si768549c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'1\');\
-cp.show("B16");\
-cp.show("P_FACE");\
-cp.changeState("Card_A","P");\
-window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
-window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));\
-cp.show("blocker");\
-cp.show("P_FACE");\
-cp.changeState("Card_B","P");}\
-;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution8\') == cp.ho(\'2\')))\
-{\
-cp.changeState("Card_B","P");\
-cp.show("B16");\
-window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
-cp.show("Nice_Pair");\
-window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
-var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
-cp.show("O___P__MATCHED_1");\
-cp.show("O___P__MATCHED_2");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
-{\
-cp.show("blocker");\
-window.Success=cp.ho(\'0\');\
-cp.show("Try_again");\
-var timeoutId = setTimeout(function(){cp.hide("blocker");\
-cp.hide("Try_again");\
-cp.hide("B1");\
-cp.hide("B2");\
-cp.hide("B3");\
-cp.hide("B4");\
-cp.hide("B5");\
-cp.hide("B6");\
-cp.hide("B7");\
-cp.hide("B8");\
-cp.hide("B9");\
-cp.hide("B10");\
-cp.hide("B11");\
-cp.hide("B12");\
-cp.hide("B13");\
-cp.hide("B14");\
-cp.hide("B15");\
-cp.hide("B16");\
-cp.hide("B17");\
-cp.hide("B18");\
-cp.hide("B19");\
-cp.hide("B20");\
-cp.changeState("A","Normal");\
-cp.changeState("B","Normal");\
-cp.changeState("C","Normal");\
-cp.changeState("D","Normal");\
-cp.changeState("E","Normal");\
-cp.changeState("F","Normal");\
-cp.changeState("G","Normal");\
-cp.changeState("H","Normal");\
-cp.changeState("I","Normal");\
-cp.changeState("J","Normal");\
-cp.changeState("K","Normal");\
-cp.changeState("L","Normal");\
-cp.changeState("M","Normal");\
-cp.changeState("N","Normal");\
-cp.changeState("O","Normal");\
-cp.changeState("P","Normal");\
-cp.changeState("Q","Normal");\
-cp.changeState("R","Normal");\
-cp.changeState("S","Normal");\
-cp.changeState("T","Normal");\
-cp.changeState("Card_A","Normal");\
-cp.changeState("Card_B","Normal");\
-cp.hide("A_Face");\
-cp.hide("B_Face");\
-cp.hide("C_FACE");\
-cp.hide("D_FACE");\
-cp.hide("E_FACE");\
-cp.hide("F_FACE");\
-cp.hide("G_FACE");\
-cp.hide("H_FACE");\
-cp.hide("I_FACE");\
-cp.hide("J_FACE");\
-cp.hide("K_FACE");\
-cp.hide("L_FACE");\
-cp.hide("M_FACE");\
-cp.hide("N_FACE");\
-cp.hide("O_FACE");\
-cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
-{\
-window.FirstAnswer=cp.ho(\'0\');\
-window.SecondAnswer=cp.ho(\'0\');\
-window.Solution1=cp.ho(\'0\');\
-window.Solution2=cp.ho(\'0\');\
-window.Solution3=cp.ho(\'0\');\
-window.Solution4=cp.ho(\'0\');\
-window.Solution5=cp.ho(\'0\');\
-window.Solution6=cp.ho(\'0\');\
-window.Solution7=cp.ho(\'0\');\
-window.Solution8=cp.ho(\'0\');\
-window.Solution9=cp.ho(\'0\');\
-window.Solution10=cp.ho(\'0\');\
-window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
-{\
-cp.show("Winner");\
-var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'P',stl:[{stn:'Normal',stt:0,stsi:[768549]}],stis:0,bstiid:768463,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si768549c:{b:[288,370,372,454],uid:768549,sr:cp.fd,ip:'dr/809723_84_84.png',dn:'si768549',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,370,372,454],vb:[288,370,372,454]},A_Face:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'A_Facec',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'A',stl:[{stn:'Normal',stt:0,stsi:[765913]}],stis:0,bstiid:765827,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si765913c:{b:[194,89,278,173],uid:765913,sr:cp.fd,ip:'dr/803835_84_84.png',dn:'si765913',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,89,278,173],vb:[194,89,278,173]},A_Face:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'A_Facec',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B1");\
@@ -4121,9 +371,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:0,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[810212]},{stn:'Face',stt:9,stsi:[810326]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['A_Face','si810326'],isDD:false},A_Facec:{b:[6,89,90,173],uid:810212,sr:cp.fd,ip:'dr/803835_84_84.png',dn:'A_Face',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,89,90,173],vb:[6,89,90,173]},si810326:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si810326c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:0,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[810212]},{stn:'Face',stt:9,stsi:[810326]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['A_Face','si810326'],isDD:false},A_Facec:{b:[194,89,278,173],uid:810212,sr:cp.fd,ip:'dr/803835_84_84.png',dn:'A_Face',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,89,278,173],vb:[194,89,278,173]},si810326:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si810326c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B1");\
@@ -4246,9 +496,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'A_Face',stl:[{stn:'Normal',stt:0,stsi:[810326]}],stis:0,bstiid:810212,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si810326c:{b:[6,89,90,173],uid:810326,sr:cp.fd,ip:'dr/803835_84_84.png',dn:'si810326',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,89,90,173],vb:[6,89,90,173]},B_Face:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'B_Facec',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'A_Face',stl:[{stn:'Normal',stt:0,stsi:[810326]}],stis:0,bstiid:810212,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si810326c:{b:[194,89,278,173],uid:810326,sr:cp.fd,ip:'dr/803835_84_84.png',dn:'si810326',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,89,278,173],vb:[194,89,278,173]},B1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[753531]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B1'],isDD:false},B1c:{b:[189,85,281,172],uid:753531,sr:cp.fd,ip:'dr/B1.png',dn:'B1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,189,85],[2,189,172],[2,281,172],[2,281,85],[2,189,85],[4]],svg:false,vbwr:[189,85,281,172],vb:[189,85,281,172]},A_B_MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'A_B_MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[770270,801545]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['A_B_MATCHED_2'],isDD:false},A_B_MATCHED_2c:{b:[190,86,280,173],uid:770270,sr:cp.fd,ip:'dr/A_B_MATCHED_2.png',dn:'A_B_MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,190.00,86],[2,190.00,173],[2,280.00,173],[2,280.00,86],[2,190.00,86],[4]],svg:false,vbwr:[190,86,280,173],vb:[190,86,280,173]},Image_1014:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1014c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[801545]}],stis:0,bstiid:770270,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1014c:{b:[194,88,280,174],uid:801545,sr:cp.fd,ip:'dr/804895_86_86.png',dn:'Image_1014',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[194,88,280,174],vb:[194,88,280,174]},B:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Bc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B2");\
@@ -4371,9 +621,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[810443]},{stn:'Face',stt:9,stsi:[810557]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B_Face','si810557'],isDD:false},B_Facec:{b:[101,88,185,172],uid:810443,sr:cp.fd,ip:'dr/809695_84_84.png',dn:'B_Face',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,88,185,172],vb:[101,88,185,172]},si810557:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si810557c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[765652]},{stn:'Face',stt:9,stsi:[765738]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B','si765738'],isDD:false},Bc:{b:[194,182,278,266],uid:765652,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'B',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,182,278,266],vb:[194,182,278,266]},si765738:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si765738c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B2");\
@@ -4496,9 +746,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'B_Face',stl:[{stn:'Normal',stt:0,stsi:[810557]}],stis:0,bstiid:810443,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si810557c:{b:[101,88,185,172],uid:810557,sr:cp.fd,ip:'dr/809695_84_84.png',dn:'si810557',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,88,185,172],vb:[101,88,185,172]},C_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'C_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'B',stl:[{stn:'Normal',stt:0,stsi:[765738]}],stis:0,bstiid:765652,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si765738c:{b:[194,182,278,266],uid:765738,sr:cp.fd,ip:'dr/809695_84_84.png',dn:'si765738',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,182,278,266],vb:[194,182,278,266]},B_Face:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'B_Facec',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B2");\
+cp.show("B_Face");\
+cp.changeState("Card_A","B");\
+window.Solution1=( isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'number\') )? window.Solution1 : ( (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution1\')+cp.ho(\'1\')):Number(cp.ho(\'Solution1\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution1=( isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'number\') )? window.Solution1 : ( (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution1\')+cp.ho(\'1\')):Number(cp.ho(\'Solution1\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("B_Face");\
+cp.changeState("Card_B","B");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution1\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","B");\
+cp.show("B2");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("A_B_MATCHED_1");\
+cp.show("A_B_MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[810443]},{stn:'Face',stt:9,stsi:[810557]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B_Face','si810557'],isDD:false},B_Facec:{b:[194,182,278,266],uid:810443,sr:cp.fd,ip:'dr/809695_84_84.png',dn:'B_Face',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,182,278,266],vb:[194,182,278,266]},si810557:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si810557c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B2");\
+cp.show("B_Face");\
+cp.changeState("Card_A","B");\
+window.Solution1=( isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'number\') )? window.Solution1 : ( (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution1\')+cp.ho(\'1\')):Number(cp.ho(\'Solution1\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution1=( isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'number\') )? window.Solution1 : ( (cp.ho(\'Solution1\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution1\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution1\')+cp.ho(\'1\')):Number(cp.ho(\'Solution1\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("B_Face");\
+cp.changeState("Card_B","B");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution1\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","B");\
+cp.show("B2");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("A_B_MATCHED_1");\
+cp.show("A_B_MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'B_Face',stl:[{stn:'Normal',stt:0,stsi:[810557]}],stis:0,bstiid:810443,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si810557c:{b:[194,182,278,266],uid:810557,sr:cp.fd,ip:'dr/809695_84_84.png',dn:'si810557',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,182,278,266],vb:[194,182,278,266]},B2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[753576]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B2'],isDD:false},B2c:{b:[196,177,284,268],uid:753576,sr:cp.fd,ip:'dr/B2.png',dn:'B2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,196,177],[2,196,268],[2,284,268],[2,284,177],[2,196,177],[4]],svg:false,vbwr:[196,177,284,268],vb:[196,177,284,268]},A_B_MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'A_B_MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[732402,800952]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['A_B_MATCHED_1'],isDD:false},A_B_MATCHED_1c:{b:[197,182,277,269],uid:732402,sr:cp.fd,ip:'dr/A_B_MATCHED_1.png',dn:'A_B_MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,197,182],[2,197,269],[2,277,269],[2,277,182],[2,197,182],[4]],svg:false,vbwr:[197,182,277,269],vb:[197,182,277,269]},Image_1013:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1013c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[800952]}],stis:0,bstiid:732402,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1013c:{b:[194,182,280,267],uid:800952,sr:cp.fd,ip:'dr/826819_86_85.png',dn:'Image_1013',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[194,182,280,267],vb:[194,182,280,267]},C:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Cc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B3");\
@@ -4621,9 +1121,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[810674]},{stn:'Face',stt:9,stsi:[810788]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['C_FACE','si810788'],isDD:false},C_FACEc:{b:[193,89,277,173],uid:810674,sr:cp.fd,ip:'dr/803843_84_84.png',dn:'C_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,89,277,173],vb:[193,89,277,173]},si810788:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si810788c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[760128]},{stn:'Face',stt:9,stsi:[762511]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['C','si762511'],isDD:false},Cc:{b:[102,182,186,266],uid:760128,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'C',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,182,186,266],vb:[102,182,186,266]},si762511:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si762511c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B3");\
@@ -4746,9 +1246,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'C_FACE',stl:[{stn:'Normal',stt:0,stsi:[810788]}],stis:0,bstiid:810674,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si810788c:{b:[193,89,277,173],uid:810788,sr:cp.fd,ip:'dr/803843_84_84.png',dn:'si810788',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,89,277,173],vb:[193,89,277,173]},D_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'D_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'C',stl:[{stn:'Normal',stt:0,stsi:[762511]}],stis:0,bstiid:760128,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si762511c:{b:[102,182,186,266],uid:762511,sr:cp.fd,ip:'dr/803843_84_84.png',dn:'si762511',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,182,186,266],vb:[102,182,186,266]},C_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'C_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B3");\
+cp.show("C_FACE");\
+cp.changeState("Card_A","C");\
+window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("C_FACE");\
+cp.changeState("Card_B","C");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution2\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","C");\
+cp.show("B3");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("C_D_MATCHED_1");\
+cp.show("C_D_MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[810674]},{stn:'Face',stt:9,stsi:[810788]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['C_FACE','si810788'],isDD:false},C_FACEc:{b:[102,182,186,266],uid:810674,sr:cp.fd,ip:'dr/803843_84_84.png',dn:'C_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,182,186,266],vb:[102,182,186,266]},si810788:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si810788c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B3");\
+cp.show("C_FACE");\
+cp.changeState("Card_A","C");\
+window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("C_FACE");\
+cp.changeState("Card_B","C");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution2\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","C");\
+cp.show("B3");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("C_D_MATCHED_1");\
+cp.show("C_D_MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'C_FACE',stl:[{stn:'Normal',stt:0,stsi:[810788]}],stis:0,bstiid:810674,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si810788c:{b:[102,182,186,266],uid:810788,sr:cp.fd,ip:'dr/803843_84_84.png',dn:'si810788',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,182,186,266],vb:[102,182,186,266]},B3:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B3c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[753609]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B3'],isDD:false},B3c:{b:[101,176,189,267],uid:753609,sr:cp.fd,ip:'dr/B3.png',dn:'B3',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,101,176],[2,101,267],[2,189,267],[2,189,176],[2,101,176],[4]],svg:false,vbwr:[101,176,189,267],vb:[101,176,189,267]},C_D_MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'C_D_MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[771109,804907]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['C_D_MATCHED_1'],isDD:false},C_D_MATCHED_1c:{b:[100,175,186,260],uid:771109,sr:cp.fd,ip:'dr/C_D_MATCHED_1.png',dn:'C_D_MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,100.00,175],[2,100.00,260.00],[2,186,260.00],[2,186,175],[2,100.00,175],[4]],svg:false,vbwr:[100,175,186,260],vb:[100,175,186,260]},Image_1017:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1017c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[804907]}],stis:0,bstiid:771109,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1017c:{b:[103,182,187,266],uid:804907,sr:cp.fd,ip:'dr/804903_84_84.png',dn:'Image_1017',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[103,182,187,266],vb:[103,182,187,266]},D:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Dc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B4");\
@@ -4871,9 +1621,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[810905]},{stn:'Face',stt:9,stsi:[811019]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['D_FACE','si811019'],isDD:false},D_FACEc:{b:[288,88,372,172],uid:810905,sr:cp.fd,ip:'dr/809699_84_84.png',dn:'D_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,88,372,172],vb:[288,88,372,172]},si811019:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si811019c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[766002]},{stn:'Face',stt:9,stsi:[766088]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['D','si766088'],isDD:false},Dc:{b:[102,276,186,360],uid:766002,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'D',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,276,186,360],vb:[102,276,186,360]},si766088:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si766088c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B4");\
@@ -4996,9 +1746,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'D_FACE',stl:[{stn:'Normal',stt:0,stsi:[811019]}],stis:0,bstiid:810905,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si811019c:{b:[288,88,372,172],uid:811019,sr:cp.fd,ip:'dr/809699_84_84.png',dn:'si811019',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,88,372,172],vb:[288,88,372,172]},E_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'E_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'D',stl:[{stn:'Normal',stt:0,stsi:[766088]}],stis:0,bstiid:766002,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si766088c:{b:[102,276,186,360],uid:766088,sr:cp.fd,ip:'dr/809699_84_84.png',dn:'si766088',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,276,186,360],vb:[102,276,186,360]},D_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'D_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B4");\
+cp.show("D_FACE");\
+cp.changeState("Card_A","D");\
+window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("D_FACE");\
+cp.changeState("Card_B","D");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution2\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","D");\
+cp.show("B4");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("C_D_MATCHED_1");\
+cp.show("C_D_MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[810905]},{stn:'Face',stt:9,stsi:[811019]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['D_FACE','si811019'],isDD:false},D_FACEc:{b:[102,276,186,360],uid:810905,sr:cp.fd,ip:'dr/809699_84_84.png',dn:'D_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,276,186,360],vb:[102,276,186,360]},si811019:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si811019c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B4");\
+cp.show("D_FACE");\
+cp.changeState("Card_A","D");\
+window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution2=( isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'number\') )? window.Solution2 : ( (cp.ho(\'Solution2\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution2\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution2\')+cp.ho(\'1\')):Number(cp.ho(\'Solution2\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("D_FACE");\
+cp.changeState("Card_B","D");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution2\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","D");\
+cp.show("B4");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("C_D_MATCHED_1");\
+cp.show("C_D_MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'D_FACE',stl:[{stn:'Normal',stt:0,stsi:[811019]}],stis:0,bstiid:810905,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si811019c:{b:[102,276,186,360],uid:811019,sr:cp.fd,ip:'dr/809699_84_84.png',dn:'si811019',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,276,186,360],vb:[102,276,186,360]},B4:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B4c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[753642]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B4'],isDD:false},B4c:{b:[103,273,185,360],uid:753642,sr:cp.fd,ip:'dr/B4.png',dn:'B4',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,103,273],[2,103,360.00],[2,185,360.00],[2,185,273],[2,103,273],[4]],svg:false,vbwr:[103,273,185,360],vb:[103,273,185,360]},C_D_MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'C_D_MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[771188,805304]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['C_D_MATCHED_2'],isDD:false},C_D_MATCHED_2c:{b:[102,273,188,358],uid:771188,sr:cp.fd,ip:'dr/C_D_MATCHED_2.png',dn:'C_D_MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,102,273],[2,102,358],[2,188,358],[2,188,273],[2,102,273],[4]],svg:false,vbwr:[102,273,188,358],vb:[102,273,188,358]},Image_1018:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1018c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805304]}],stis:0,bstiid:771188,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1018c:{b:[102,276,188,361],uid:805304,sr:cp.fd,ip:'dr/826823_86_85.png',dn:'Image_1018',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[102,276,188,361],vb:[102,276,188,361]},E:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Ec',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B5");\
@@ -5121,9 +2121,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[811136]},{stn:'Face',stt:9,stsi:[811250]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['E_FACE','si811250'],isDD:false},E_FACEc:{b:[6,182,90,266],uid:811136,sr:cp.fd,ip:'dr/803851_84_84.png',dn:'E_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,182,90,266],vb:[6,182,90,266]},si811250:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si811250c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[766177]},{stn:'Face',stt:9,stsi:[766263]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['E','si766263'],isDD:false},Ec:{b:[7,182,91,266],uid:766177,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'E',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,182,91,266],vb:[7,182,91,266]},si766263:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si766263c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B5");\
@@ -5246,9 +2246,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'E_FACE',stl:[{stn:'Normal',stt:0,stsi:[811250]}],stis:0,bstiid:811136,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si811250c:{b:[6,182,90,266],uid:811250,sr:cp.fd,ip:'dr/803851_84_84.png',dn:'si811250',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,182,90,266],vb:[6,182,90,266]},F_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'F_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'E',stl:[{stn:'Normal',stt:0,stsi:[766263]}],stis:0,bstiid:766177,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si766263c:{b:[7,182,91,266],uid:766263,sr:cp.fd,ip:'dr/803851_84_84.png',dn:'si766263',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,182,91,266],vb:[7,182,91,266]},E_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'E_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B5");\
+cp.show("E_FACE");\
+cp.changeState("Card_A","E");\
+window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("E_FACE");\
+cp.changeState("Card_B","E");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution3\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","E");\
+cp.show("B5");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("E_F_MATCHED_1");\
+cp.show("E_F_MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[811136]},{stn:'Face',stt:9,stsi:[811250]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['E_FACE','si811250'],isDD:false},E_FACEc:{b:[7,182,91,266],uid:811136,sr:cp.fd,ip:'dr/803851_84_84.png',dn:'E_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,182,91,266],vb:[7,182,91,266]},si811250:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si811250c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B5");\
+cp.show("E_FACE");\
+cp.changeState("Card_A","E");\
+window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("E_FACE");\
+cp.changeState("Card_B","E");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution3\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","E");\
+cp.show("B5");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("E_F_MATCHED_1");\
+cp.show("E_F_MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'E_FACE',stl:[{stn:'Normal',stt:0,stsi:[811250]}],stis:0,bstiid:811136,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si811250c:{b:[7,182,91,266],uid:811250,sr:cp.fd,ip:'dr/803851_84_84.png',dn:'si811250',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,182,91,266],vb:[7,182,91,266]},B5:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B5c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[768936]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B5'],isDD:false},B5c:{b:[4,180,94,266],uid:768936,sr:cp.fd,ip:'dr/B5.png',dn:'B5',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,4,180.00],[2,4,266],[2,94,266],[2,94,180.00],[2,4,180.00],[4]],svg:false,vbwr:[4,180,94,266],vb:[4,180,94,266]},E_F_MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'E_F_MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783575,805316]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['E_F_MATCHED_2'],isDD:false},E_F_MATCHED_2c:{b:[8,182,94,266],uid:783575,sr:cp.fd,ip:'dr/E_F_MATCHED_2.png',dn:'E_F_MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,8,182],[2,8,266],[2,94,266],[2,94,182],[2,8,182],[4]],svg:false,vbwr:[8,182,94,266],vb:[8,182,94,266]},Image_1019:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1019c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805316]}],stis:0,bstiid:783575,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1019c:{b:[8,182,92,266],uid:805316,sr:cp.fd,ip:'dr/805312_84_84.png',dn:'Image_1019',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[8,182,92,266],vb:[8,182,92,266]},F:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Fc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B6");\
@@ -5371,9 +2621,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[811367]},{stn:'Face',stt:9,stsi:[811481]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['F_FACE','si811481'],isDD:false},F_FACEc:{b:[101,182,185,266],uid:811367,sr:cp.fd,ip:'dr/809703_84_84.png',dn:'F_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,182,185,266],vb:[101,182,185,266]},si811481:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si811481c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[766702]},{stn:'Face',stt:9,stsi:[766788]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['F','si766788'],isDD:false},Fc:{b:[102,370,186,454],uid:766702,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'F',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,370,186,454],vb:[102,370,186,454]},si766788:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si766788c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B6");\
@@ -5496,9 +2746,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'F_FACE',stl:[{stn:'Normal',stt:0,stsi:[811481]}],stis:0,bstiid:811367,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si811481c:{b:[101,182,185,266],uid:811481,sr:cp.fd,ip:'dr/809703_84_84.png',dn:'si811481',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,182,185,266],vb:[101,182,185,266]},G_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'G_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'F',stl:[{stn:'Normal',stt:0,stsi:[766788]}],stis:0,bstiid:766702,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si766788c:{b:[102,370,186,454],uid:766788,sr:cp.fd,ip:'dr/809703_84_84.png',dn:'si766788',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,370,186,454],vb:[102,370,186,454]},F_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'F_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B6");\
+cp.show("F_FACE");\
+cp.changeState("Card_A","F");\
+window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("F_FACE");\
+cp.changeState("Card_B","F");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution3\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","F");\
+cp.show("B6");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("E_F_MATCHED_1");\
+cp.show("E_F_MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[811367]},{stn:'Face',stt:9,stsi:[811481]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['F_FACE','si811481'],isDD:false},F_FACEc:{b:[102,370,186,454],uid:811367,sr:cp.fd,ip:'dr/809703_84_84.png',dn:'F_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,370,186,454],vb:[102,370,186,454]},si811481:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si811481c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B6");\
+cp.show("F_FACE");\
+cp.changeState("Card_A","F");\
+window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution3=( isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'number\') )? window.Solution3 : ( (cp.ho(\'Solution3\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution3\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution3\')+cp.ho(\'1\')):Number(cp.ho(\'Solution3\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("F_FACE");\
+cp.changeState("Card_B","F");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution3\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","F");\
+cp.show("B6");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("E_F_MATCHED_1");\
+cp.show("E_F_MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'F_FACE',stl:[{stn:'Normal',stt:0,stsi:[811481]}],stis:0,bstiid:811367,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si811481c:{b:[102,370,186,454],uid:811481,sr:cp.fd,ip:'dr/809703_84_84.png',dn:'si811481',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,370,186,454],vb:[102,370,186,454]},B6:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B6c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769015]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B6'],isDD:false},B6c:{b:[100,367,189,458],uid:769015,sr:cp.fd,ip:'dr/B6.png',dn:'B6',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,100.00,367],[2,100.00,458],[2,189,458],[2,189,367],[2,100.00,367],[4]],svg:false,vbwr:[100,367,189,458],vb:[100,367,189,458]},E_F_MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'E_F_MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783540,805328]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['E_F_MATCHED_1'],isDD:false},E_F_MATCHED_1c:{b:[103,371,191,455],uid:783540,sr:cp.fd,ip:'dr/E_F_MATCHED_1.png',dn:'E_F_MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,103,371],[2,103,455],[2,191,455],[2,191,371],[2,103,371],[4]],svg:false,vbwr:[103,371,191,455],vb:[103,371,191,455]},Image_1020:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1020c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805328]}],stis:0,bstiid:783540,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1020c:{b:[103,370,187,453],uid:805328,sr:cp.fd,ip:'dr/826827_84_83.png',dn:'Image_1020',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[103,370,187,453],vb:[103,370,187,453]},G:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Gc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B7");\
@@ -5621,9 +3121,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[811598]},{stn:'Face',stt:9,stsi:[811712]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['G_FACE','si811712'],isDD:false},G_FACEc:{b:[193,182,277,266],uid:811598,sr:cp.fd,ip:'dr/803855_84_84.png',dn:'G_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,182,277,266],vb:[193,182,277,266]},si811712:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si811712c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[766527]},{stn:'Face',stt:9,stsi:[766613]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['G','si766613'],isDD:false},Gc:{b:[289,182,373,266],uid:766527,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'G',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[289,182,373,266],vb:[289,182,373,266]},si766613:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si766613c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B7");\
@@ -5746,9 +3246,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'G_FACE',stl:[{stn:'Normal',stt:0,stsi:[811712]}],stis:0,bstiid:811598,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si811712c:{b:[193,182,277,266],uid:811712,sr:cp.fd,ip:'dr/803855_84_84.png',dn:'si811712',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,182,277,266],vb:[193,182,277,266]},H_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'H_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'G',stl:[{stn:'Normal',stt:0,stsi:[766613]}],stis:0,bstiid:766527,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si766613c:{b:[289,182,373,266],uid:766613,sr:cp.fd,ip:'dr/803855_84_84.png',dn:'si766613',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[289,182,373,266],vb:[289,182,373,266]},G_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'G_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B7");\
+cp.show("G_FACE");\
+cp.changeState("Card_A","G");\
+window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("G_FACE");\
+cp.changeState("Card_B","G");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution4\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","G");\
+cp.show("B7");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("G___H__MATCHED_1");\
+cp.show("G___H__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[811598]},{stn:'Face',stt:9,stsi:[811712]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['G_FACE','si811712'],isDD:false},G_FACEc:{b:[289,182,373,266],uid:811598,sr:cp.fd,ip:'dr/803855_84_84.png',dn:'G_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[289,182,373,266],vb:[289,182,373,266]},si811712:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si811712c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B7");\
+cp.show("G_FACE");\
+cp.changeState("Card_A","G");\
+window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("G_FACE");\
+cp.changeState("Card_B","G");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution4\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","G");\
+cp.show("B7");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("G___H__MATCHED_1");\
+cp.show("G___H__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'G_FACE',stl:[{stn:'Normal',stt:0,stsi:[811712]}],stis:0,bstiid:811598,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si811712c:{b:[289,182,373,266],uid:811712,sr:cp.fd,ip:'dr/803855_84_84.png',dn:'si811712',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[289,182,373,266],vb:[289,182,373,266]},B7:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B7c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769094]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B7'],isDD:false},B7c:{b:[289,180,378,266],uid:769094,sr:cp.fd,ip:'dr/B7.png',dn:'B7',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,289,180.00],[2,289,266],[2,378,266],[2,378,180.00],[2,289,180.00],[4]],svg:false,vbwr:[289,180,378,266],vb:[289,180,378,266]},G___H__MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'G___H__MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783690,805340]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['G___H__MATCHED_1'],isDD:false},G___H__MATCHED_1c:{b:[291,182,377,266],uid:783690,sr:cp.fd,ip:'dr/G___H__MATCHED_1.png',dn:'G___H__MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,291,182],[2,291,266],[2,377,266],[2,377,182],[2,291,182],[4]],svg:false,vbwr:[291,182,377,266],vb:[291,182,377,266]},Image_1021:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1021c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805340]}],stis:0,bstiid:783690,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1021c:{b:[290,182,374,266],uid:805340,sr:cp.fd,ip:'dr/805336_84_84.png',dn:'Image_1021',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[290,182,374,266],vb:[290,182,374,266]},H:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Hc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B8");\
@@ -5871,9 +3621,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[811829]},{stn:'Face',stt:9,stsi:[811943]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['H_FACE','si811943'],isDD:false},H_FACEc:{b:[288,182,372,266],uid:811829,sr:cp.fd,ip:'dr/809707_84_84.png',dn:'H_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,182,372,266],vb:[288,182,372,266]},si811943:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si811943c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[766352]},{stn:'Face',stt:9,stsi:[766438]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['H','si766438'],isDD:false},Hc:{b:[7,89,91,173],uid:766352,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'H',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,89,91,173],vb:[7,89,91,173]},si766438:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si766438c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B8");\
@@ -5996,9 +3746,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'H_FACE',stl:[{stn:'Normal',stt:0,stsi:[811943]}],stis:0,bstiid:811829,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si811943c:{b:[288,182,372,266],uid:811943,sr:cp.fd,ip:'dr/809707_84_84.png',dn:'si811943',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,182,372,266],vb:[288,182,372,266]},I_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'I_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'H',stl:[{stn:'Normal',stt:0,stsi:[766438]}],stis:0,bstiid:766352,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si766438c:{b:[7,89,91,173],uid:766438,sr:cp.fd,ip:'dr/809707_84_84.png',dn:'si766438',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,89,91,173],vb:[7,89,91,173]},H_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'H_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B8");\
+cp.show("H_FACE");\
+cp.changeState("Card_A","H");\
+window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("H_FACE");\
+cp.changeState("Card_B","H");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution4\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","H");\
+cp.show("B8");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("G___H__MATCHED_1");\
+cp.show("G___H__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[811829]},{stn:'Face',stt:9,stsi:[811943]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['H_FACE','si811943'],isDD:false},H_FACEc:{b:[7,89,91,173],uid:811829,sr:cp.fd,ip:'dr/809707_84_84.png',dn:'H_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,89,91,173],vb:[7,89,91,173]},si811943:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si811943c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B8");\
+cp.show("H_FACE");\
+cp.changeState("Card_A","H");\
+window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution4=( isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'number\') )? window.Solution4 : ( (cp.ho(\'Solution4\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution4\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution4\')+cp.ho(\'1\')):Number(cp.ho(\'Solution4\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("H_FACE");\
+cp.changeState("Card_B","H");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution4\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","H");\
+cp.show("B8");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("G___H__MATCHED_1");\
+cp.show("G___H__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'H_FACE',stl:[{stn:'Normal',stt:0,stsi:[811943]}],stis:0,bstiid:811829,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si811943c:{b:[7,89,91,173],uid:811943,sr:cp.fd,ip:'dr/809707_84_84.png',dn:'si811943',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,89,91,173],vb:[7,89,91,173]},B8:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B8c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769173]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B8'],isDD:false},B8c:{b:[7,87,91,174],uid:769173,sr:cp.fd,ip:'dr/B8.png',dn:'B8',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,7,87],[2,7,174],[2,91,174],[2,91,87],[2,7,87],[4]],svg:false,vbwr:[7,87,91,174],vb:[7,87,91,174]},G___H__MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'G___H__MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783725,805352]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['G___H__MATCHED_2'],isDD:false},G___H__MATCHED_2c:{b:[10,89,76,165],uid:783725,sr:cp.fd,ip:'dr/G___H__MATCHED_2.png',dn:'G___H__MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,10.00,89],[2,10.00,165],[2,76,165],[2,76,89],[2,10.00,89],[4]],svg:false,vbwr:[10,89,76,165],vb:[10,89,76,165]},Image_1022:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1022c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805352]}],stis:0,bstiid:783725,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1022c:{b:[8,89,92,172],uid:805352,sr:cp.fd,ip:'dr/826831_84_83.png',dn:'Image_1022',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[8,89,92,172],vb:[8,89,92,172]},I:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Ic',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B9");\
@@ -6121,9 +4121,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[812060]},{stn:'Face',stt:9,stsi:[812174]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['I_FACE','si812174'],isDD:false},I_FACEc:{b:[6,276,90,360],uid:812060,sr:cp.fd,ip:'dr/803863_84_84.png',dn:'I_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,276,90,360],vb:[6,276,90,360]},si812174:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si812174c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[766877]},{stn:'Face',stt:9,stsi:[766963]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['I','si766963'],isDD:false},Ic:{b:[194,370,278,454],uid:766877,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'I',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,370,278,454],vb:[194,370,278,454]},si766963:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si766963c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B9");\
@@ -6246,9 +4246,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'I_FACE',stl:[{stn:'Normal',stt:0,stsi:[812174]}],stis:0,bstiid:812060,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si812174c:{b:[6,276,90,360],uid:812174,sr:cp.fd,ip:'dr/803863_84_84.png',dn:'si812174',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,276,90,360],vb:[6,276,90,360]},J_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'J_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'I',stl:[{stn:'Normal',stt:0,stsi:[766963]}],stis:0,bstiid:766877,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si766963c:{b:[194,370,278,454],uid:766963,sr:cp.fd,ip:'dr/803863_84_84.png',dn:'si766963',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,370,278,454],vb:[194,370,278,454]},I_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'I_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B9");\
+cp.show("I_FACE");\
+cp.changeState("Card_A","I");\
+window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("I_FACE");\
+cp.changeState("Card_B","I");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution5\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","I");\
+cp.show("B9");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("I___J__MATCHED_1");\
+cp.show("I___J__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[812060]},{stn:'Face',stt:9,stsi:[812174]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['I_FACE','si812174'],isDD:false},I_FACEc:{b:[194,370,278,454],uid:812060,sr:cp.fd,ip:'dr/803863_84_84.png',dn:'I_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,370,278,454],vb:[194,370,278,454]},si812174:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si812174c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B9");\
+cp.show("I_FACE");\
+cp.changeState("Card_A","I");\
+window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("I_FACE");\
+cp.changeState("Card_B","I");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution5\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","I");\
+cp.show("B9");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("I___J__MATCHED_1");\
+cp.show("I___J__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'I_FACE',stl:[{stn:'Normal',stt:0,stsi:[812174]}],stis:0,bstiid:812060,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si812174c:{b:[194,370,278,454],uid:812174,sr:cp.fd,ip:'dr/803863_84_84.png',dn:'si812174',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,370,278,454],vb:[194,370,278,454]},B9:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B9c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769252]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B9'],isDD:false},B9c:{b:[195,368,278,454],uid:769252,sr:cp.fd,ip:'dr/B9.png',dn:'B9',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,195,368],[2,195,454],[2,278,454],[2,278,368],[2,195,368],[4]],svg:false,vbwr:[195,368,278,454],vb:[195,368,278,454]},I___J__MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'I___J__MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783795,805364]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['I___J__MATCHED_1'],isDD:false},I___J__MATCHED_1c:{b:[197,372,263,448],uid:783795,sr:cp.fd,ip:'dr/I___J__MATCHED_1.png',dn:'I___J__MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,197,372],[2,197,448],[2,263,448],[2,263,372],[2,197,372],[4]],svg:false,vbwr:[197,372,263,448],vb:[197,372,263,448]},Image_1023:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1023c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805364]}],stis:0,bstiid:783795,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1023c:{b:[195,370,279,454],uid:805364,sr:cp.fd,ip:'dr/805360_84_84.png',dn:'Image_1023',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[195,370,279,454],vb:[195,370,279,454]},J:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Jc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B10");\
@@ -6371,9 +4621,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[812291]},{stn:'Face',stt:9,stsi:[812405]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['J_FACE','si812405'],isDD:false},J_FACEc:{b:[101,276,185,360],uid:812291,sr:cp.fd,ip:'dr/809711_84_84.png',dn:'J_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,276,185,360],vb:[101,276,185,360]},si812405:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si812405c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[767052]},{stn:'Face',stt:9,stsi:[767138]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['J','si767138'],isDD:false},Jc:{b:[7,276,91,360],uid:767052,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'J',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,276,91,360],vb:[7,276,91,360]},si767138:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si767138c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B10");\
@@ -6496,9 +4746,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'J_FACE',stl:[{stn:'Normal',stt:0,stsi:[812405]}],stis:0,bstiid:812291,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si812405c:{b:[101,276,185,360],uid:812405,sr:cp.fd,ip:'dr/809711_84_84.png',dn:'si812405',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,276,185,360],vb:[101,276,185,360]},K_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'K_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'J',stl:[{stn:'Normal',stt:0,stsi:[767138]}],stis:0,bstiid:767052,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si767138c:{b:[7,276,91,360],uid:767138,sr:cp.fd,ip:'dr/809711_84_84.png',dn:'si767138',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,276,91,360],vb:[7,276,91,360]},J_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'J_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B10");\
+cp.show("J_FACE");\
+cp.changeState("Card_A","J");\
+window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("J_FACE");\
+cp.changeState("Card_B","J");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution5\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","J");\
+cp.show("B10");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("I___J__MATCHED_1");\
+cp.show("I___J__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[812291]},{stn:'Face',stt:9,stsi:[812405]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['J_FACE','si812405'],isDD:false},J_FACEc:{b:[7,276,91,360],uid:812291,sr:cp.fd,ip:'dr/809711_84_84.png',dn:'J_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,276,91,360],vb:[7,276,91,360]},si812405:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si812405c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B10");\
+cp.show("J_FACE");\
+cp.changeState("Card_A","J");\
+window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution5=( isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'number\') )? window.Solution5 : ( (cp.ho(\'Solution5\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution5\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution5\')+cp.ho(\'1\')):Number(cp.ho(\'Solution5\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("J_FACE");\
+cp.changeState("Card_B","J");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution5\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","J");\
+cp.show("B10");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("I___J__MATCHED_1");\
+cp.show("I___J__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'J_FACE',stl:[{stn:'Normal',stt:0,stsi:[812405]}],stis:0,bstiid:812291,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si812405c:{b:[7,276,91,360],uid:812405,sr:cp.fd,ip:'dr/809711_84_84.png',dn:'si812405',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,276,91,360],vb:[7,276,91,360]},B10:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B10c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769331]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B10'],isDD:false},B10c:{b:[3,273,92,363],uid:769331,sr:cp.fd,ip:'dr/B10.png',dn:'B10',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,3,273],[2,3,363],[2,92,363],[2,92,273],[2,3,273],[4]],svg:false,vbwr:[3,273,92,363],vb:[3,273,92,363]},I___J__MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'I___J__MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783830,805376]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['I___J__MATCHED_2'],isDD:false},I___J__MATCHED_2c:{b:[5,275,96,363],uid:783830,sr:cp.fd,ip:'dr/I___J__MATCHED_2.png',dn:'I___J__MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,5,275],[2,5,363],[2,96,363],[2,96,275],[2,5,275],[4]],svg:false,vbwr:[5,275,96,363],vb:[5,275,96,363]},Image_1024:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1024c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805376]}],stis:0,bstiid:783830,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1024c:{b:[8,276,92,359],uid:805376,sr:cp.fd,ip:'dr/826835_84_83.png',dn:'Image_1024',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[8,276,92,359],vb:[8,276,92,359]},K:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Kc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B11");\
@@ -6621,9 +5121,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[812522]},{stn:'Face',stt:9,stsi:[812636]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['K_FACE','si812636'],isDD:false},K_FACEc:{b:[193,276,277,360],uid:812522,sr:cp.fd,ip:'dr/803871_84_84.png',dn:'K_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,276,277,360],vb:[193,276,277,360]},si812636:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si812636c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[767577]},{stn:'Face',stt:9,stsi:[767663]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['K','si767663'],isDD:false},Kc:{b:[102,89,186,173],uid:767577,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'K',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,89,186,173],vb:[102,89,186,173]},si767663:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si767663c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B11");\
@@ -6746,9 +5246,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'K_FACE',stl:[{stn:'Normal',stt:0,stsi:[812636]}],stis:0,bstiid:812522,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si812636c:{b:[193,276,277,360],uid:812636,sr:cp.fd,ip:'dr/803871_84_84.png',dn:'si812636',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,276,277,360],vb:[193,276,277,360]},L_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'L_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'K',stl:[{stn:'Normal',stt:0,stsi:[767663]}],stis:0,bstiid:767577,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si767663c:{b:[102,89,186,173],uid:767663,sr:cp.fd,ip:'dr/803871_84_84.png',dn:'si767663',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,89,186,173],vb:[102,89,186,173]},K_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'K_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B11");\
+cp.show("K_FACE");\
+cp.changeState("Card_A","K");\
+window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("K_FACE");\
+cp.changeState("Card_B","K");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution6\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","K");\
+cp.show("B11");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("K___L__MATCHED_1");\
+cp.show("K___L__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[812522]},{stn:'Face',stt:9,stsi:[812636]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['K_FACE','si812636'],isDD:false},K_FACEc:{b:[102,89,186,173],uid:812522,sr:cp.fd,ip:'dr/803871_84_84.png',dn:'K_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,89,186,173],vb:[102,89,186,173]},si812636:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si812636c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B11");\
+cp.show("K_FACE");\
+cp.changeState("Card_A","K");\
+window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("K_FACE");\
+cp.changeState("Card_B","K");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution6\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","K");\
+cp.show("B11");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("K___L__MATCHED_1");\
+cp.show("K___L__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'K_FACE',stl:[{stn:'Normal',stt:0,stsi:[812636]}],stis:0,bstiid:812522,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si812636c:{b:[102,89,186,173],uid:812636,sr:cp.fd,ip:'dr/803871_84_84.png',dn:'si812636',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[102,89,186,173],vb:[102,89,186,173]},B11:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B11c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769410]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B11'],isDD:false},B11c:{b:[102,86,186,175],uid:769410,sr:cp.fd,ip:'dr/B11.png',dn:'B11',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,102,86],[2,102,175],[2,186,175],[2,186,86],[2,102,86],[4]],svg:false,vbwr:[102,86,186,175],vb:[102,86,186,175]},K___L__MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'K___L__MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783865,805388]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['K___L__MATCHED_1'],isDD:false},K___L__MATCHED_1c:{b:[102,87,168,163],uid:783865,sr:cp.fd,ip:'dr/K___L__MATCHED_1.png',dn:'K___L__MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,102,87],[2,102,163],[2,168,163],[2,168,87],[2,102,87],[4]],svg:false,vbwr:[102,87,168,163],vb:[102,87,168,163]},Image_1025:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1025c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805388]}],stis:0,bstiid:783865,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1025c:{b:[103,89,187,173],uid:805388,sr:cp.fd,ip:'dr/805384_84_84.png',dn:'Image_1025',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[103,89,187,173],vb:[103,89,187,173]},L:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Lc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B12");\
@@ -6871,9 +5621,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[812753]},{stn:'Face',stt:9,stsi:[812867]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['L_FACE','si812867'],isDD:false},L_FACEc:{b:[288,276,372,360],uid:812753,sr:cp.fd,ip:'dr/809715_84_84.png',dn:'L_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,276,372,360],vb:[288,276,372,360]},si812867:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si812867c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[767402]},{stn:'Face',stt:9,stsi:[767488]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['L','si767488'],isDD:false},Lc:{b:[7,370,91,454],uid:767402,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'L',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,370,91,454],vb:[7,370,91,454]},si767488:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si767488c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B12");\
@@ -6996,9 +5746,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'L_FACE',stl:[{stn:'Normal',stt:0,stsi:[812867]}],stis:0,bstiid:812753,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si812867c:{b:[288,276,372,360],uid:812867,sr:cp.fd,ip:'dr/809715_84_84.png',dn:'si812867',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,276,372,360],vb:[288,276,372,360]},N_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'N_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'L',stl:[{stn:'Normal',stt:0,stsi:[767488]}],stis:0,bstiid:767402,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si767488c:{b:[7,370,91,454],uid:767488,sr:cp.fd,ip:'dr/809715_84_84.png',dn:'si767488',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,370,91,454],vb:[7,370,91,454]},L_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'L_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B12");\
+cp.show("L_FACE");\
+cp.changeState("Card_A","L");\
+window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("L_FACE");\
+cp.changeState("Card_B","L");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution6\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","L");\
+cp.show("B12");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("K___L__MATCHED_1");\
+cp.show("K___L__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[812753]},{stn:'Face',stt:9,stsi:[812867]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['L_FACE','si812867'],isDD:false},L_FACEc:{b:[7,370,91,454],uid:812753,sr:cp.fd,ip:'dr/809715_84_84.png',dn:'L_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,370,91,454],vb:[7,370,91,454]},si812867:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si812867c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B12");\
+cp.show("L_FACE");\
+cp.changeState("Card_A","L");\
+window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution6=( isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'number\') )? window.Solution6 : ( (cp.ho(\'Solution6\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution6\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution6\')+cp.ho(\'1\')):Number(cp.ho(\'Solution6\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("L_FACE");\
+cp.changeState("Card_B","L");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution6\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","L");\
+cp.show("B12");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("K___L__MATCHED_1");\
+cp.show("K___L__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'L_FACE',stl:[{stn:'Normal',stt:0,stsi:[812867]}],stis:0,bstiid:812753,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si812867c:{b:[7,370,91,454],uid:812867,sr:cp.fd,ip:'dr/809715_84_84.png',dn:'si812867',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[7,370,91,454],vb:[7,370,91,454]},B12:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B12c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769489]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B12'],isDD:false},B12c:{b:[4,368,94,454],uid:769489,sr:cp.fd,ip:'dr/B12.png',dn:'B12',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,4,368],[2,4,454],[2,94,454],[2,94,368],[2,4,368],[4]],svg:false,vbwr:[4,368,94,454],vb:[4,368,94,454]},K___L__MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'K___L__MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783900,805400]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['K___L__MATCHED_2'],isDD:false},K___L__MATCHED_2c:{b:[9,370,75,446],uid:783900,sr:cp.fd,ip:'dr/K___L__MATCHED_2.png',dn:'K___L__MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,9,370.00],[2,9,446],[2,75,446],[2,75,370.00],[2,9,370.00],[4]],svg:false,vbwr:[9,370,75,446],vb:[9,370,75,446]},Image_1026:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1026c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805400]}],stis:0,bstiid:783900,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1026c:{b:[8,370,92,453],uid:805400,sr:cp.fd,ip:'dr/826839_84_83.png',dn:'Image_1026',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[8,370,92,453],vb:[8,370,92,453]},N:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Nc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B13");\
@@ -7121,9 +6121,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[813215]},{stn:'Face',stt:9,stsi:[813329]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['N_FACE','si813329'],isDD:false},N_FACEc:{b:[6,370,92,455],uid:813215,sr:cp.fd,ip:'dr/803879_86_85.png',dn:'N_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,370,92,455],vb:[6,370,92,455]},si813329:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si813329c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[767752]},{stn:'Face',stt:9,stsi:[767838]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['N','si767838'],isDD:false},Nc:{b:[288,89,374,174],uid:767752,sr:cp.fd,ip:'dr/813792_86_85.png',dn:'N',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,89,374,174],vb:[288,89,374,174]},si767838:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si767838c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B13");\
@@ -7246,9 +6246,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'N_FACE',stl:[{stn:'Normal',stt:0,stsi:[813329]}],stis:0,bstiid:813215,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si813329c:{b:[6,370,92,455],uid:813329,sr:cp.fd,ip:'dr/803879_86_85.png',dn:'si813329',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[6,370,92,455],vb:[6,370,92,455]},M_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'M_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'N',stl:[{stn:'Normal',stt:0,stsi:[767838]}],stis:0,bstiid:767752,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si767838c:{b:[288,89,374,174],uid:767838,sr:cp.fd,ip:'dr/803879_86_85.png',dn:'si767838',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,89,374,174],vb:[288,89,374,174]},N_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'N_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B13");\
+cp.show("N_FACE");\
+cp.changeState("Card_A","M");\
+window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("N_FACE");\
+cp.changeState("Card_B","M");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution7\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","M");\
+cp.show("B13");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("M___N__MATCHED_1");\
+cp.show("M___N__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[813215]},{stn:'Face',stt:9,stsi:[813329]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['N_FACE','si813329'],isDD:false},N_FACEc:{b:[288,89,374,174],uid:813215,sr:cp.fd,ip:'dr/803879_86_85.png',dn:'N_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,89,374,174],vb:[288,89,374,174]},si813329:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si813329c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B13");\
+cp.show("N_FACE");\
+cp.changeState("Card_A","M");\
+window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("N_FACE");\
+cp.changeState("Card_B","M");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution7\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","M");\
+cp.show("B13");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("M___N__MATCHED_1");\
+cp.show("M___N__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'N_FACE',stl:[{stn:'Normal',stt:0,stsi:[813329]}],stis:0,bstiid:813215,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si813329c:{b:[288,89,374,174],uid:813329,sr:cp.fd,ip:'dr/803879_86_85.png',dn:'si813329',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,89,374,174],vb:[288,89,374,174]},B13:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B13c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769568]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B13'],isDD:false},B13c:{b:[284,87,376,174],uid:769568,sr:cp.fd,ip:'dr/B13.png',dn:'B13',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,284,87],[2,284,174],[2,376,174],[2,376,87],[2,284,87],[4]],svg:false,vbwr:[284,87,376,174],vb:[284,87,376,174]},M___N__MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'M___N__MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783935,805412]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['M___N__MATCHED_1'],isDD:false},M___N__MATCHED_1c:{b:[291,95,357,171],uid:783935,sr:cp.fd,ip:'dr/M___N__MATCHED_1.png',dn:'M___N__MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,291,95],[2,291,171],[2,357,171],[2,357,95],[2,291,95],[4]],svg:false,vbwr:[291,95,357,171],vb:[291,95,357,171]},Image_1027:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1027c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805412]}],stis:0,bstiid:783935,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1027c:{b:[289,89,373,173],uid:805412,sr:cp.fd,ip:'dr/805408_84_84.png',dn:'Image_1027',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[289,89,373,173],vb:[289,89,373,173]},M:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Mc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B14");\
@@ -7371,9 +6621,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[812984]},{stn:'Face',stt:9,stsi:[813098]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['M_FACE','si813098'],isDD:false},M_FACEc:{b:[101,370,185,454],uid:812984,sr:cp.fd,ip:'dr/809719_84_84.png',dn:'M_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,370,185,454],vb:[101,370,185,454]},si813098:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si813098c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[767227]},{stn:'Face',stt:9,stsi:[767313]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['M','si767313'],isDD:false},Mc:{b:[194,276,278,360],uid:767227,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'M',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,276,278,360],vb:[194,276,278,360]},si767313:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si767313c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B14");\
@@ -7496,9 +6746,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'M_FACE',stl:[{stn:'Normal',stt:0,stsi:[813098]}],stis:0,bstiid:812984,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si813098c:{b:[101,370,185,454],uid:813098,sr:cp.fd,ip:'dr/809719_84_84.png',dn:'si813098',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[101,370,185,454],vb:[101,370,185,454]},O_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'O_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'M',stl:[{stn:'Normal',stt:0,stsi:[767313]}],stis:0,bstiid:767227,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si767313c:{b:[194,276,278,360],uid:767313,sr:cp.fd,ip:'dr/809719_84_84.png',dn:'si767313',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,276,278,360],vb:[194,276,278,360]},M_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'M_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B14");\
+cp.show("M_FACE");\
+cp.changeState("Card_A","N");\
+window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("M_FACE");\
+cp.changeState("Card_B","N");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution7\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","N");\
+cp.show("B14");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("M___N__MATCHED_1");\
+cp.show("M___N__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[812984]},{stn:'Face',stt:9,stsi:[813098]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['M_FACE','si813098'],isDD:false},M_FACEc:{b:[194,276,278,360],uid:812984,sr:cp.fd,ip:'dr/809719_84_84.png',dn:'M_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,276,278,360],vb:[194,276,278,360]},si813098:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si813098c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B14");\
+cp.show("M_FACE");\
+cp.changeState("Card_A","N");\
+window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution7=( isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'number\') )? window.Solution7 : ( (cp.ho(\'Solution7\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution7\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution7\')+cp.ho(\'1\')):Number(cp.ho(\'Solution7\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("M_FACE");\
+cp.changeState("Card_B","N");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution7\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","N");\
+cp.show("B14");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("M___N__MATCHED_1");\
+cp.show("M___N__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'M_FACE',stl:[{stn:'Normal',stt:0,stsi:[813098]}],stis:0,bstiid:812984,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si813098c:{b:[194,276,278,360],uid:813098,sr:cp.fd,ip:'dr/809719_84_84.png',dn:'si813098',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[194,276,278,360],vb:[194,276,278,360]},B14:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B14c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769647]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B14'],isDD:false},B14c:{b:[193,275,283,361],uid:769647,sr:cp.fd,ip:'dr/B14.png',dn:'B14',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,193,275],[2,193,361],[2,283,361],[2,283,275],[2,193,275],[4]],svg:false,vbwr:[193,275,283,361],vb:[193,275,283,361]},M___N__MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'M___N__MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783970,805424]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['M___N__MATCHED_2'],isDD:false},M___N__MATCHED_2c:{b:[202,283,268,359],uid:783970,sr:cp.fd,ip:'dr/M___N__MATCHED_2.png',dn:'M___N__MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,202,283],[2,202,359],[2,268,359],[2,268,283],[2,202,283],[4]],svg:false,vbwr:[202,283,268,359],vb:[202,283,268,359]},Image_1028:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1028c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805424]}],stis:0,bstiid:783970,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1028c:{b:[195,276,279,359],uid:805424,sr:cp.fd,ip:'dr/826843_84_83.png',dn:'Image_1028',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[195,276,279,359],vb:[195,276,279,359]},O:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Oc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B15");\
@@ -7621,9 +7121,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[813446]},{stn:'Face',stt:9,stsi:[813560]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['O_FACE','si813560'],isDD:false},O_FACEc:{b:[193,370,277,454],uid:813446,sr:cp.fd,ip:'dr/803891_84_84.png',dn:'O_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,370,277,454],vb:[193,370,277,454]},si813560:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si813560c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[767927]},{stn:'Face',stt:9,stsi:[768013]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['O','si768013'],isDD:false},Oc:{b:[289,276,373,360],uid:767927,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'O',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[289,276,373,360],vb:[289,276,373,360]},si768013:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si768013c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B15");\
@@ -7746,9 +7246,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'O_FACE',stl:[{stn:'Normal',stt:0,stsi:[813560]}],stis:0,bstiid:813446,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si813560c:{b:[193,370,277,454],uid:813560,sr:cp.fd,ip:'dr/803891_84_84.png',dn:'si813560',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[193,370,277,454],vb:[193,370,277,454]},P_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'P_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'O',stl:[{stn:'Normal',stt:0,stsi:[768013]}],stis:0,bstiid:767927,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si768013c:{b:[289,276,373,360],uid:768013,sr:cp.fd,ip:'dr/803891_84_84.png',dn:'si768013',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[289,276,373,360],vb:[289,276,373,360]},O_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'O_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B15");\
+cp.show("O_FACE");\
+cp.changeState("Card_A","O");\
+window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("O_FACE");\
+cp.changeState("Card_B","O");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution8\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","O");\
+cp.show("B15");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("O___P__MATCHED_1");\
+cp.show("O___P__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[813446]},{stn:'Face',stt:9,stsi:[813560]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['O_FACE','si813560'],isDD:false},O_FACEc:{b:[289,276,373,360],uid:813446,sr:cp.fd,ip:'dr/803891_84_84.png',dn:'O_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[289,276,373,360],vb:[289,276,373,360]},si813560:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si813560c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B15");\
+cp.show("O_FACE");\
+cp.changeState("Card_A","O");\
+window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("O_FACE");\
+cp.changeState("Card_B","O");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution8\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","O");\
+cp.show("B15");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("O___P__MATCHED_1");\
+cp.show("O___P__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'O_FACE',stl:[{stn:'Normal',stt:0,stsi:[813560]}],stis:0,bstiid:813446,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si813560c:{b:[289,276,373,360],uid:813560,sr:cp.fd,ip:'dr/803891_84_84.png',dn:'si813560',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[289,276,373,360],vb:[289,276,373,360]},B15:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B15c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769726]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B15'],isDD:false},B15c:{b:[288,274,376,359],uid:769726,sr:cp.fd,ip:'dr/B15.png',dn:'B15',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,288,274],[2,288,359],[2,376,359],[2,376,274],[2,288,274],[4]],svg:false,vbwr:[288,274,376,359],vb:[288,274,376,359]},O___P__MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'O___P__MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[784005,805436]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['O___P__MATCHED_1'],isDD:false},O___P__MATCHED_1c:{b:[296,281,363,358],uid:784005,sr:cp.fd,ip:'dr/O___P__MATCHED_1.png',dn:'O___P__MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,296,281],[2,296,358],[2,363,358],[2,363,281],[2,296,281],[4]],svg:false,vbwr:[296,281,363,358],vb:[296,281,363,358]},Image_1029:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1029c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805436]}],stis:0,bstiid:784005,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1029c:{b:[290,276,374,360],uid:805436,sr:cp.fd,ip:'dr/805432_84_84.png',dn:'Image_1029',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[290,276,374,360],vb:[290,276,374,360]},P:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Pc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B16");\
@@ -7871,9 +7621,9 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[813677]},{stn:'Face',stt:9,stsi:[813791]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['P_FACE','si813791'],isDD:false},P_FACEc:{b:[288,370,372,454],uid:813677,sr:cp.fd,ip:'dr/809723_84_84.png',dn:'P_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,370,372,454],vb:[288,370,372,454]},si813791:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si813791c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[768463]},{stn:'Face',stt:9,stsi:[768549]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['P','si768549'],isDD:false},Pc:{b:[289,370,373,454],uid:768463,sr:cp.fd,ip:'dr/813792_84_84.png',dn:'P',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[289,370,373,454],vb:[289,370,373,454]},si768549:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si768549c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
 {\
 window.FirstAnswer=cp.ho(\'1\');\
 cp.show("B16");\
@@ -7996,9 +7746,259 @@ window.Solution9=cp.ho(\'0\');\
 window.Solution10=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
 {\
-cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
 var timeoutId = setTimeout(function(){cp.show("blocker");\
-cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'P_FACE',stl:[{stn:'Normal',stt:0,stsi:[813791]}],stis:0,bstiid:813677,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si813791c:{b:[288,370,372,454],uid:813791,sr:cp.fd,ip:'dr/809723_84_84.png',dn:'si813791',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[288,370,372,454],vb:[288,370,372,454]},B1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[753531]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B1'],isDD:false},B1c:{b:[1,85,93,172],uid:753531,sr:cp.fd,ip:'dr/B1.png',dn:'B1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,1,85],[2,1,172],[2,93,172],[2,93,85],[2,1,85],[4]],svg:false,vbwr:[1,85,93,172],vb:[1,85,93,172]},B2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[753576]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B2'],isDD:false},B2c:{b:[103,83,191,174],uid:753576,sr:cp.fd,ip:'dr/B2.png',dn:'B2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,103,83],[2,103,174],[2,191,174],[2,191,83],[2,103,83],[4]],svg:false,vbwr:[103,83,191,174],vb:[103,83,191,174]},B3:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B3c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[753609]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B3'],isDD:false},B3c:{b:[192,83,280,174],uid:753609,sr:cp.fd,ip:'dr/B3.png',dn:'B3',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,192,83],[2,192,174],[2,280.00,174],[2,280.00,83],[2,192,83],[4]],svg:false,vbwr:[192,83,280,174],vb:[192,83,280,174]},B4:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B4c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[753642]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B4'],isDD:false},B4c:{b:[289,85,371,172],uid:753642,sr:cp.fd,ip:'dr/B4.png',dn:'B4',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,289,85],[2,289,172],[2,371,172],[2,371,85],[2,289,85],[4]],svg:false,vbwr:[289,85,371,172],vb:[289,85,371,172]},B5:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B5c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[768936]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B5'],isDD:false},B5c:{b:[3,180,93,266],uid:768936,sr:cp.fd,ip:'dr/B5.png',dn:'B5',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,3,180.00],[2,3,266],[2,93,266],[2,93,180.00],[2,3,180.00],[4]],svg:false,vbwr:[3,180,93,266],vb:[3,180,93,266]},B6:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B6c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769015]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B6'],isDD:false},B6c:{b:[99,179,188,270],uid:769015,sr:cp.fd,ip:'dr/B6.png',dn:'B6',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,99,179],[2,99,270.00],[2,188,270.00],[2,188,179],[2,99,179],[4]],svg:false,vbwr:[99,179,188,270],vb:[99,179,188,270]},B7:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B7c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769094]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B7'],isDD:false},B7c:{b:[193,180,282,266],uid:769094,sr:cp.fd,ip:'dr/B7.png',dn:'B7',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,193,180.00],[2,193,266],[2,282,266],[2,282,180.00],[2,193,180.00],[4]],svg:false,vbwr:[193,180,282,266],vb:[193,180,282,266]},B8:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B8c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769173]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B8'],isDD:false},B8c:{b:[288,180,372,267],uid:769173,sr:cp.fd,ip:'dr/B8.png',dn:'B8',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,288,180.00],[2,288,267],[2,372,267],[2,372,180.00],[2,288,180.00],[4]],svg:false,vbwr:[288,180,372,267],vb:[288,180,372,267]},B9:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B9c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769252]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B9'],isDD:false},B9c:{b:[7,274,90,360],uid:769252,sr:cp.fd,ip:'dr/B9.png',dn:'B9',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,7,274],[2,7,360.00],[2,90.00,360.00],[2,90.00,274],[2,7,274],[4]],svg:false,vbwr:[7,274,90,360],vb:[7,274,90,360]},B10:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B10c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769331]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B10'],isDD:false},B10c:{b:[97,273,186,363],uid:769331,sr:cp.fd,ip:'dr/B10.png',dn:'B10',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,97,273],[2,97,363],[2,186,363],[2,186,273],[2,97,273],[4]],svg:false,vbwr:[97,273,186,363],vb:[97,273,186,363]},B11:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B11c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769410]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B11'],isDD:false},B11c:{b:[193,273,277,362],uid:769410,sr:cp.fd,ip:'dr/B11.png',dn:'B11',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,193,273],[2,193,362],[2,277,362],[2,277,273],[2,193,273],[4]],svg:false,vbwr:[193,273,277,362],vb:[193,273,277,362]},B12:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B12c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769489]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B12'],isDD:false},B12c:{b:[285,274,375,360],uid:769489,sr:cp.fd,ip:'dr/B12.png',dn:'B12',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,285,274],[2,285,360.00],[2,375,360.00],[2,375,274],[2,285,274],[4]],svg:false,vbwr:[285,274,375,360],vb:[285,274,375,360]},B13:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B13c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769568]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B13'],isDD:false},B13c:{b:[2,368,94,455],uid:769568,sr:cp.fd,ip:'dr/B13.png',dn:'B13',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,2,368],[2,2,455],[2,94,455],[2,94,368],[2,2,368],[4]],svg:false,vbwr:[2,368,94,455],vb:[2,368,94,455]},B14:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B14c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769647]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B14'],isDD:false},B14c:{b:[100,369,190,455],uid:769647,sr:cp.fd,ip:'dr/B14.png',dn:'B14',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,100.00,369],[2,100.00,455],[2,190.00,455],[2,190.00,369],[2,100.00,369],[4]],svg:false,vbwr:[100,369,190,455],vb:[100,369,190,455]},B15:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B15c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769726]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B15'],isDD:false},B15c:{b:[192,368,280,453],uid:769726,sr:cp.fd,ip:'dr/B15.png',dn:'B15',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,192,368],[2,192,453],[2,280.00,453],[2,280.00,368],[2,192,368],[4]],svg:false,vbwr:[192,368,280,453],vb:[192,368,280,453]},B16:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B16c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769805]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B16'],isDD:false},B16c:{b:[285,368,376,455],uid:769805,sr:cp.fd,ip:'dr/B16.png',dn:'B16',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,285,368],[2,285,455],[2,376,455],[2,376,368],[2,285,368],[4]],svg:false,vbwr:[285,368,376,455],vb:[285,368,376,455]},Card_A:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Card_Ac',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[778605]},{stn:'A',stt:9,stsi:[778645]},{stn:'B',stt:9,stsi:[778652]},{stn:'C',stt:9,stsi:[778659]},{stn:'D',stt:9,stsi:[778666]},{stn:'E',stt:9,stsi:[778673]},{stn:'F',stt:9,stsi:[778680]},{stn:'G',stt:9,stsi:[778687]},{stn:'H',stt:9,stsi:[778694]},{stn:'I',stt:9,stsi:[778701]},{stn:'J',stt:9,stsi:[778708]},{stn:'K',stt:9,stsi:[778715]},{stn:'L',stt:9,stsi:[778722]},{stn:'M',stt:9,stsi:[778729]},{stn:'N',stt:9,stsi:[778736]},{stn:'O',stt:9,stsi:[778743]},{stn:'P',stt:9,stsi:[778750]},{stn:'Q',stt:9,stsi:[778757]},{stn:'R',stt:9,stsi:[778764]},{stn:'S',stt:9,stsi:[778771]},{stn:'T',stt:9,stsi:[778778]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['Card_A','si778645','si778652','si778659','si778666','si778673','si778680','si778687','si778694','si778701','si778708','si778715','si778722','si778729','si778736','si778743','si778750','si778757','si778764','si778771','si778778'],isDD:false},Card_Ac:{b:[6,516,188,769],uid:778605,sr:cp.fd,ip:'dr/801537_182_253.png',dn:'Card_A',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778645:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778645c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778645]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778645c:{b:[6,516,188,769],uid:778645,sr:cp.fd,ip:'dr/803799_182_253.png',dn:'si778645',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778652:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778652c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778652]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778652c:{b:[6,516,188,768],uid:778652,sr:cp.fd,ip:'dr/809663_182_252.png',dn:'si778652',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778659:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778659c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778659]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778659c:{b:[6,516,188,769],uid:778659,sr:cp.fd,ip:'dr/803771_182_253.png',dn:'si778659',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778666:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778666c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778666]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778666c:{b:[6,516,188,768],uid:778666,sr:cp.fd,ip:'dr/809667_182_252.png',dn:'si778666',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778673:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778673c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778673]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778673c:{b:[6,516,188,769],uid:778673,sr:cp.fd,ip:'dr/803775_182_253.png',dn:'si778673',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778680:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778680c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778680]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778680c:{b:[6,516,188,768],uid:778680,sr:cp.fd,ip:'dr/809671_182_252.png',dn:'si778680',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778687:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778687c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778687]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778687c:{b:[6,516,188,769],uid:778687,sr:cp.fd,ip:'dr/803779_182_253.png',dn:'si778687',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778694:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778694c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778694]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778694c:{b:[6,516,188,768],uid:778694,sr:cp.fd,ip:'dr/809675_182_252.png',dn:'si778694',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778701:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778701c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778701]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778701c:{b:[6,516,188,769],uid:778701,sr:cp.fd,ip:'dr/803783_182_253.png',dn:'si778701',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778708:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778708c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778708]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778708c:{b:[6,516,188,768],uid:778708,sr:cp.fd,ip:'dr/809679_182_252.png',dn:'si778708',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778715:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778715c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778715]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778715c:{b:[6,516,188,769],uid:778715,sr:cp.fd,ip:'dr/803787_182_253.png',dn:'si778715',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778722:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778722c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778722]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778722c:{b:[6,516,188,768],uid:778722,sr:cp.fd,ip:'dr/809683_182_252.png',dn:'si778722',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778729:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778729c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778729]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778729c:{b:[6,516,188,769],uid:778729,sr:cp.fd,ip:'dr/803791_182_253.png',dn:'si778729',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778736:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778736c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778736]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778736c:{b:[6,516,188,768],uid:778736,sr:cp.fd,ip:'dr/809687_182_252.png',dn:'si778736',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778743:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778743c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778743]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778743c:{b:[6,516,188,769],uid:778743,sr:cp.fd,ip:'dr/803795_182_253.png',dn:'si778743',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,769],vb:[6,516,188,769]},si778750:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778750c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778750]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778750c:{b:[6,516,188,768],uid:778750,sr:cp.fd,ip:'dr/809691_182_252.png',dn:'si778750',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,188,768],vb:[6,516,188,768]},si778757:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778757c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778757]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778757c:{b:[6,516,142,733],uid:778757,sr:cp.fd,ip:'dr/778848_136_217.png',dn:'si778757',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,142,733],vb:[6,516,142,733]},si778764:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778764c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778764]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778764c:{b:[6,516,142,733],uid:778764,sr:cp.fd,ip:'dr/778852_136_217.png',dn:'si778764',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,142,733],vb:[6,516,142,733]},si778771:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778771c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778771]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778771c:{b:[6,516,142,733],uid:778771,sr:cp.fd,ip:'dr/778856_136_217.png',dn:'si778771',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,142,733],vb:[6,516,142,733]},si778778:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778778c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_A',stl:[{stn:'Normal',stt:0,stsi:[778778]}],stis:0,bstiid:778605,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778778c:{b:[6,516,142,733],uid:778778,sr:cp.fd,ip:'dr/778860_136_217.png',dn:'si778778',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,516,142,733],vb:[6,516,142,733]},Card_B:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Card_Bc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[778897]},{stn:'A',stt:9,stsi:[778909]},{stn:'B',stt:9,stsi:[778921]},{stn:'C',stt:9,stsi:[778933]},{stn:'D',stt:9,stsi:[778945]},{stn:'E',stt:9,stsi:[778957]},{stn:'F',stt:9,stsi:[778969]},{stn:'G',stt:9,stsi:[778981]},{stn:'H',stt:9,stsi:[778993]},{stn:'I',stt:9,stsi:[779005]},{stn:'J',stt:9,stsi:[779017]},{stn:'K',stt:9,stsi:[779029]},{stn:'L',stt:9,stsi:[779041]},{stn:'M',stt:9,stsi:[779053]},{stn:'N',stt:9,stsi:[779065]},{stn:'O',stt:9,stsi:[779077]},{stn:'P',stt:9,stsi:[779089]},{stn:'Q',stt:9,stsi:[779101]},{stn:'R',stt:9,stsi:[779113]},{stn:'S',stt:9,stsi:[779125]},{stn:'T',stt:9,stsi:[779137]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['Card_B','si778909','si778921','si778933','si778945','si778957','si778969','si778981','si778993','si779005','si779017','si779029','si779041','si779053','si779065','si779077','si779089','si779101','si779113','si779125','si779137'],isDD:false},Card_Bc:{b:[192,516,374,769],uid:778897,sr:cp.fd,ip:'dr/801541_182_253.png',dn:'Card_B',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si778909:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778909c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778909]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778909c:{b:[192,516,374,768],uid:778909,sr:cp.fd,ip:'dr/803799_182_252.png',dn:'si778909',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si778921:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778921c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778921]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778921c:{b:[192,516,373,768],uid:778921,sr:cp.fd,ip:'dr/809663_181_252.png',dn:'si778921',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,373,768],vb:[192,516,373,768]},si778933:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778933c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778933]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778933c:{b:[192,516,374,769],uid:778933,sr:cp.fd,ip:'dr/803771_182_253.png',dn:'si778933',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si778945:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778945c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778945]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778945c:{b:[192,516,374,768],uid:778945,sr:cp.fd,ip:'dr/809667_182_252.png',dn:'si778945',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si778957:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778957c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778957]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778957c:{b:[192,516,374,769],uid:778957,sr:cp.fd,ip:'dr/803775_182_253.png',dn:'si778957',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si778969:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778969c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778969]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778969c:{b:[192,516,374,768],uid:778969,sr:cp.fd,ip:'dr/809671_182_252.png',dn:'si778969',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si778981:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778981c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778981]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778981c:{b:[192,516,374,769],uid:778981,sr:cp.fd,ip:'dr/803779_182_253.png',dn:'si778981',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si778993:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si778993c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[778993]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si778993c:{b:[192,516,374,768],uid:778993,sr:cp.fd,ip:'dr/809675_182_252.png',dn:'si778993',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si779005:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779005c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779005]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779005c:{b:[192,516,374,769],uid:779005,sr:cp.fd,ip:'dr/803783_182_253.png',dn:'si779005',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si779017:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779017c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779017]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779017c:{b:[192,516,374,768],uid:779017,sr:cp.fd,ip:'dr/809679_182_252.png',dn:'si779017',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si779029:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779029c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779029]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779029c:{b:[192,516,374,769],uid:779029,sr:cp.fd,ip:'dr/803787_182_253.png',dn:'si779029',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si779041:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779041c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779041]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779041c:{b:[192,516,374,768],uid:779041,sr:cp.fd,ip:'dr/809683_182_252.png',dn:'si779041',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si779053:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779053c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779053]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779053c:{b:[192,516,374,769],uid:779053,sr:cp.fd,ip:'dr/803791_182_253.png',dn:'si779053',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si779065:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779065c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779065]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779065c:{b:[192,516,374,768],uid:779065,sr:cp.fd,ip:'dr/809687_182_252.png',dn:'si779065',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si779077:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779077c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779077]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779077c:{b:[192,516,374,769],uid:779077,sr:cp.fd,ip:'dr/803795_182_253.png',dn:'si779077',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,769],vb:[192,516,374,769]},si779089:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779089c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779089]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779089c:{b:[192,516,374,768],uid:779089,sr:cp.fd,ip:'dr/809691_182_252.png',dn:'si779089',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,374,768],vb:[192,516,374,768]},si779101:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779101c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779101]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779101c:{b:[192,516,328,733],uid:779101,sr:cp.fd,ip:'dr/778848_136_217.png',dn:'si779101',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,328,733],vb:[192,516,328,733]},si779113:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779113c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779113]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779113c:{b:[192,516,328,733],uid:779113,sr:cp.fd,ip:'dr/778852_136_217.png',dn:'si779113',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,328,733],vb:[192,516,328,733]},si779125:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779125c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779125]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779125c:{b:[192,516,328,733],uid:779125,sr:cp.fd,ip:'dr/778856_136_217.png',dn:'si779125',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,328,733],vb:[192,516,328,733]},si779137:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si779137c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,bstin:'Card_B',stl:[{stn:'Normal',stt:0,stsi:[779137]}],stis:0,bstiid:778897,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si779137c:{b:[192,516,328,733],uid:779137,sr:cp.fd,ip:'dr/778860_136_217.png',dn:'si779137',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[192,516,328,733],vb:[192,516,328,733]},A_B_MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'A_B_MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[732402,800952]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['A_B_MATCHED_1'],isDD:false},A_B_MATCHED_1c:{b:[104,88,184,175],uid:732402,sr:cp.fd,ip:'dr/A_B_MATCHED_1.png',dn:'A_B_MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,104,88],[2,104,175],[2,184,175],[2,184,88],[2,104,88],[4]],svg:false,vbwr:[104,88,184,175],vb:[104,88,184,175]},A_B_MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'A_B_MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[770270,801545]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['A_B_MATCHED_2'],isDD:false},A_B_MATCHED_2c:{b:[2,86,92,173],uid:770270,sr:cp.fd,ip:'dr/A_B_MATCHED_2.png',dn:'A_B_MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,2,86],[2,2,173],[2,92,173],[2,92,86],[2,2,86],[4]],svg:false,vbwr:[2,86,92,173],vb:[2,86,92,173]},Image_1014:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1014c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[801545]}],stis:0,bstiid:770270,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1014c:{b:[6,88,92,174],uid:801545,sr:cp.fd,ip:'dr/804895_86_86.png',dn:'Image_1014',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[6,88,92,174],vb:[6,88,92,174]},C_D_MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'C_D_MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[771109,804907]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['C_D_MATCHED_1'],isDD:false},C_D_MATCHED_1c:{b:[191,82,277,167],uid:771109,sr:cp.fd,ip:'dr/C_D_MATCHED_1.png',dn:'C_D_MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,191,82],[2,191,167],[2,277,167],[2,277,82],[2,191,82],[4]],svg:false,vbwr:[191,82,277,167],vb:[191,82,277,167]},Image_1017:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1017c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[804907]}],stis:0,bstiid:771109,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1017c:{b:[194,89,278,173],uid:804907,sr:cp.fd,ip:'dr/804903_84_84.png',dn:'Image_1017',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[194,89,278,173],vb:[194,89,278,173]},C_D_MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'C_D_MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[771188,805304]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['C_D_MATCHED_2'],isDD:false},C_D_MATCHED_2c:{b:[288,85,374,170],uid:771188,sr:cp.fd,ip:'dr/C_D_MATCHED_2.png',dn:'C_D_MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,288,85],[2,288,170.00],[2,374,170.00],[2,374,85],[2,288,85],[4]],svg:false,vbwr:[288,85,374,170],vb:[288,85,374,170]},Image_1018:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1018c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805304]}],stis:0,bstiid:771188,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1018c:{b:[288,88,374,174],uid:805304,sr:cp.fd,ip:'dr/805300_86_86.png',dn:'Image_1018',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[288,88,374,174],vb:[288,88,374,174]},E_F_MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'E_F_MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783540,805328]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['E_F_MATCHED_1'],isDD:false},E_F_MATCHED_1c:{b:[102,183,190,267],uid:783540,sr:cp.fd,ip:'dr/E_F_MATCHED_1.png',dn:'E_F_MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,102,183],[2,102,267],[2,190.00,267],[2,190.00,183],[2,102,183],[4]],svg:false,vbwr:[102,183,190,267],vb:[102,183,190,267]},Image_1020:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1020c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805328]}],stis:0,bstiid:783540,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1020c:{b:[102,182,186,266],uid:805328,sr:cp.fd,ip:'dr/805324_84_84.png',dn:'Image_1020',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[102,182,186,266],vb:[102,182,186,266]},E_F_MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'E_F_MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783575,805316]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['E_F_MATCHED_2'],isDD:false},E_F_MATCHED_2c:{b:[7,182,93,266],uid:783575,sr:cp.fd,ip:'dr/E_F_MATCHED_2.png',dn:'E_F_MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:'E + F  MATCHED ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,7,182],[2,7,266],[2,93,266],[2,93,182],[2,7,182],[4]],svg:false,vbwr:[7,182,93,266],vb:[7,182,93,266]},Image_1019:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1019c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805316]}],stis:0,bstiid:783575,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1019c:{b:[7,182,91,266],uid:805316,sr:cp.fd,ip:'dr/805312_84_84.png',dn:'Image_1019',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[7,182,91,266],vb:[7,182,91,266]},G___H__MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'G___H__MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783690,805340]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['G___H__MATCHED_1'],isDD:false},G___H__MATCHED_1c:{b:[195,182,281,266],uid:783690,sr:cp.fd,ip:'dr/G___H__MATCHED_1.png',dn:'G___H__MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,195,182],[2,195,266],[2,281,266],[2,281,182],[2,195,182],[4]],svg:false,vbwr:[195,182,281,266],vb:[195,182,281,266]},Image_1021:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1021c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805340]}],stis:0,bstiid:783690,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1021c:{b:[194,182,278,266],uid:805340,sr:cp.fd,ip:'dr/805336_84_84.png',dn:'Image_1021',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[194,182,278,266],vb:[194,182,278,266]},G___H__MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'G___H__MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783725,805352]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['G___H__MATCHED_2'],isDD:false},G___H__MATCHED_2c:{b:[291,182,357,258],uid:783725,sr:cp.fd,ip:'dr/G___H__MATCHED_2.png',dn:'G___H__MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,291,182],[2,291,258],[2,357,258],[2,357,182],[2,291,182],[4]],svg:false,vbwr:[291,182,357,258],vb:[291,182,357,258]},Image_1022:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1022c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805352]}],stis:0,bstiid:783725,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1022c:{b:[289,182,373,266],uid:805352,sr:cp.fd,ip:'dr/805348_84_84.png',dn:'Image_1022',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[289,182,373,266],vb:[289,182,373,266]},I___J__MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'I___J__MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783795,805364]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['I___J__MATCHED_1'],isDD:false},I___J__MATCHED_1c:{b:[9,278,75,354],uid:783795,sr:cp.fd,ip:'dr/I___J__MATCHED_1.png',dn:'I___J__MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,9,278],[2,9,354],[2,75,354],[2,75,278],[2,9,278],[4]],svg:false,vbwr:[9,278,75,354],vb:[9,278,75,354]},Image_1023:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1023c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805364]}],stis:0,bstiid:783795,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1023c:{b:[7,276,91,360],uid:805364,sr:cp.fd,ip:'dr/805360_84_84.png',dn:'Image_1023',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[7,276,91,360],vb:[7,276,91,360]},I___J__MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'I___J__MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783830,805376]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['I___J__MATCHED_2'],isDD:false},I___J__MATCHED_2c:{b:[99,275,190,363],uid:783830,sr:cp.fd,ip:'dr/I___J__MATCHED_2.png',dn:'I___J__MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,99,275],[2,99,363],[2,190.00,363],[2,190.00,275],[2,99,275],[4]],svg:false,vbwr:[99,275,190,363],vb:[99,275,190,363]},Image_1024:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1024c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805376]}],stis:0,bstiid:783830,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1024c:{b:[102,276,186,360],uid:805376,sr:cp.fd,ip:'dr/805372_84_84.png',dn:'Image_1024',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[102,276,186,360],vb:[102,276,186,360]},K___L__MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'K___L__MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783865,805388]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['K___L__MATCHED_1'],isDD:false},K___L__MATCHED_1c:{b:[193,274,259,350],uid:783865,sr:cp.fd,ip:'dr/K___L__MATCHED_1.png',dn:'K___L__MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,193,274],[2,193,350.00],[2,259,350.00],[2,259,274],[2,193,274],[4]],svg:false,vbwr:[193,274,259,350],vb:[193,274,259,350]},Image_1025:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1025c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805388]}],stis:0,bstiid:783865,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1025c:{b:[194,276,278,360],uid:805388,sr:cp.fd,ip:'dr/805384_84_84.png',dn:'Image_1025',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[194,276,278,360],vb:[194,276,278,360]},K___L__MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'K___L__MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783900,805400]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['K___L__MATCHED_2'],isDD:false},K___L__MATCHED_2c:{b:[290,276,356,352],uid:783900,sr:cp.fd,ip:'dr/K___L__MATCHED_2.png',dn:'K___L__MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,290.00,276],[2,290.00,352],[2,356,352],[2,356,276],[2,290.00,276],[4]],svg:false,vbwr:[290,276,356,352],vb:[290,276,356,352]},Image_1026:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1026c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805400]}],stis:0,bstiid:783900,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1026c:{b:[289,276,373,360],uid:805400,sr:cp.fd,ip:'dr/805396_84_84.png',dn:'Image_1026',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[289,276,373,360],vb:[289,276,373,360]},M___N__MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'M___N__MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783935,805412]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['M___N__MATCHED_1'],isDD:false},M___N__MATCHED_1c:{b:[9,376,75,452],uid:783935,sr:cp.fd,ip:'dr/M___N__MATCHED_1.png',dn:'M___N__MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,9,376],[2,9,452],[2,75,452],[2,75,376],[2,9,376],[4]],svg:false,vbwr:[9,376,75,452],vb:[9,376,75,452]},Image_1027:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1027c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805412]}],stis:0,bstiid:783935,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1027c:{b:[7,370,91,454],uid:805412,sr:cp.fd,ip:'dr/805408_84_84.png',dn:'Image_1027',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[7,370,91,454],vb:[7,370,91,454]},M___N__MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'M___N__MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[783970,805424]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['M___N__MATCHED_2'],isDD:false},M___N__MATCHED_2c:{b:[109,377,175,453],uid:783970,sr:cp.fd,ip:'dr/M___N__MATCHED_2.png',dn:'M___N__MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,109,377],[2,109,453],[2,175,453],[2,175,377],[2,109,377],[4]],svg:false,vbwr:[109,377,175,453],vb:[109,377,175,453]},Image_1028:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1028c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805424]}],stis:0,bstiid:783970,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1028c:{b:[102,370,186,454],uid:805424,sr:cp.fd,ip:'dr/805420_84_84.png',dn:'Image_1028',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[102,370,186,454],vb:[102,370,186,454]},O___P__MATCHED_1:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'O___P__MATCHED_1c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[784005,805436]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['O___P__MATCHED_1'],isDD:false},O___P__MATCHED_1c:{b:[200,375,267,452],uid:784005,sr:cp.fd,ip:'dr/O___P__MATCHED_1.png',dn:'O___P__MATCHED_1',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,200.00,375],[2,200.00,452],[2,267,452],[2,267,375],[2,200.00,375],[4]],svg:false,vbwr:[200,375,267,452],vb:[200,375,267,452]},Image_1029:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1029c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805436]}],stis:0,bstiid:784005,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1029c:{b:[194,370,278,454],uid:805436,sr:cp.fd,ip:'dr/805432_84_84.png',dn:'Image_1029',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[194,370,278,454],vb:[194,370,278,454]},O___P__MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'O___P__MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[784040,805448]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['O___P__MATCHED_2'],isDD:false},O___P__MATCHED_2c:{b:[296,374,362,450],uid:784040,sr:cp.fd,ip:'dr/O___P__MATCHED_2.png',dn:'O___P__MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,296,374],[2,296,450.00],[2,362,450.00],[2,362,374],[2,296,374],[4]],svg:false,vbwr:[296,374,362,450],vb:[296,374,362,450]},Image_1030:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1030c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805448]}],stis:0,bstiid:784040,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1030c:{b:[289,370,373,454],uid:805448,sr:cp.fd,ip:'dr/805444_84_84.png',dn:'Image_1030',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[289,370,373,454],vb:[289,370,373,454]},blocker:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'blockerc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[746703]},{stn:'RollOver',stt:2,stsi:[748094]},{stn:'Down',stt:1,stsi:[748106]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:true,sihds:true,stc:['blocker','si748094','si748106'],isDD:false},blockerc:{b:[-5,38,386,487],uid:746703,sr:cp.fd,ip:'dr/blocker.png',dn:'blocker',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,-5,38],[2,-5,487],[2,386,487],[2,386,38],[2,-5,38],[4]],svg:false,vbwr:[-5,38,386,487],vb:[-5,38,386,487]},si748094:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'si748094c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'blocker',stl:[{stn:'Normal',stt:0,stsi:[748094]}],stis:0,bstiid:746703,sipst:2,sicbs:true,sihhs:true,sihds:true,isDD:false},si748094c:{b:[-5,38,386,487],uid:748094,sr:cp.fd,ip:'dr/si748094.png',dn:'si748094',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#737373',p0:[[0],[1,-5,38],[2,-5,487],[2,386,487],[2,386,38],[2,-5,38],[4]],svg:false,vbwr:[-5,38,386,487],vb:[-5,38,386,487]},si748106:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'si748106c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'blocker',stl:[{stn:'Normal',stt:0,stsi:[748106]}],stis:0,bstiid:746703,sipst:1,sicbs:true,sihhs:true,sihds:true,isDD:false},si748106c:{b:[-5,38,386,487],uid:748106,sr:cp.fd,ip:'dr/si748106.png',dn:'si748106',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#171717',p0:[[0],[1,-5,38],[2,-5,487],[2,386,487],[2,386,38],[2,-5,38],[4]],svg:false,vbwr:[-5,38,386,487],vb:[-5,38,386,487]},Image_1013:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1013c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[800952]}],stis:0,bstiid:732402,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1013c:{b:[101,88,187,174],uid:800952,sr:cp.fd,ip:'dr/804899_86_86.png',dn:'Image_1013',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[101,88,187,174],vb:[101,88,187,174]},Winner:{type:612,from:899851,to:1199880,rp:0,rpa:0,mdi:'Winnerc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[751150]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Winnerc:{b:[-2,-3,386,794],uid:751150,sr:cp.fd,ip:'dr/Winner.png',dn:'Winner',visible:0,effectiveVi:0,JSONEffectData:false,accstr:'Herzlichen Glückwunsch! Sie haben das Rätsel erfolgreich gelöst! ',traccstr:'',ti:-1,acclng:'',sc:'#1a1a1a',sw:2,ss:0,fa:60,bc:'#ffffff',p0:[[0],[1,-2,-3],[2,-2,794],[2,386,794],[2,386,-3],[2,-2,-3],[4]],svg:false,vbwr:[-6,-7,390,798],vb:[-6,-7,390,798]},Slide52766:{lb:'Q1 2 Lives',id:52766,from:899851,to:1199889,iols:0,i360qs:false,propTxtScaling:false,minFontSizeScaling:14,useng:true,transition:{type:0},mmot:false,mdi:'Slide52766c',st:'Normal Slide',ccProperties:{382:{pos:7,x:35,y:88}},audCC:[],vidCC:[],accstr:'Q1 2 Lives ',si:[{n:'Image_1000',t:15},{n:'Image_1002',t:15},{n:'Image_1003',t:15},{n:'Timer1outof8v2_4',t:133},{n:'Try_again',t:19},{n:'Nice_Pair',t:612},{n:'A',t:15},{n:'si765913',t:15},{n:'B',t:15},{n:'si765738',t:15},{n:'C',t:15},{n:'si762511',t:15},{n:'D',t:15},{n:'si766088',t:15},{n:'E',t:15},{n:'si766263',t:15},{n:'F',t:15},{n:'si766788',t:15},{n:'G',t:15},{n:'si766613',t:15},{n:'H',t:15},{n:'si766438',t:15},{n:'I',t:15},{n:'si766963',t:15},{n:'J',t:15},{n:'si767138',t:15},{n:'K',t:15},{n:'si767663',t:15},{n:'L',t:15},{n:'si767488',t:15},{n:'M',t:15},{n:'si767313',t:15},{n:'N',t:15},{n:'si767838',t:15},{n:'O',t:15},{n:'si768013',t:15},{n:'P',t:15},{n:'si768549',t:15},{n:'A_Face',t:15},{n:'si810326',t:15},{n:'B_Face',t:15},{n:'si810557',t:15},{n:'C_FACE',t:15},{n:'si810788',t:15},{n:'D_FACE',t:15},{n:'si811019',t:15},{n:'E_FACE',t:15},{n:'si811250',t:15},{n:'F_FACE',t:15},{n:'si811481',t:15},{n:'G_FACE',t:15},{n:'si811712',t:15},{n:'H_FACE',t:15},{n:'si811943',t:15},{n:'I_FACE',t:15},{n:'si812174',t:15},{n:'J_FACE',t:15},{n:'si812405',t:15},{n:'K_FACE',t:15},{n:'si812636',t:15},{n:'L_FACE',t:15},{n:'si812867',t:15},{n:'N_FACE',t:15},{n:'si813329',t:15},{n:'M_FACE',t:15},{n:'si813098',t:15},{n:'O_FACE',t:15},{n:'si813560',t:15},{n:'P_FACE',t:15},{n:'si813791',t:15},{n:'B1',t:612},{n:'B2',t:612},{n:'B3',t:612},{n:'B4',t:612},{n:'B5',t:612},{n:'B6',t:612},{n:'B7',t:612},{n:'B8',t:612},{n:'B9',t:612},{n:'B10',t:612},{n:'B11',t:612},{n:'B12',t:612},{n:'B13',t:612},{n:'B14',t:612},{n:'B15',t:612},{n:'B16',t:612},{n:'Card_A',t:15},{n:'si778645',t:15},{n:'si778652',t:15},{n:'si778659',t:15},{n:'si778666',t:15},{n:'si778673',t:15},{n:'si778680',t:15},{n:'si778687',t:15},{n:'si778694',t:15},{n:'si778701',t:15},{n:'si778708',t:15},{n:'si778715',t:15},{n:'si778722',t:15},{n:'si778729',t:15},{n:'si778736',t:15},{n:'si778743',t:15},{n:'si778750',t:15},{n:'si778757',t:15},{n:'si778764',t:15},{n:'si778771',t:15},{n:'si778778',t:15},{n:'Card_B',t:15},{n:'si778909',t:15},{n:'si778921',t:15},{n:'si778933',t:15},{n:'si778945',t:15},{n:'si778957',t:15},{n:'si778969',t:15},{n:'si778981',t:15},{n:'si778993',t:15},{n:'si779005',t:15},{n:'si779017',t:15},{n:'si779029',t:15},{n:'si779041',t:15},{n:'si779053',t:15},{n:'si779065',t:15},{n:'si779077',t:15},{n:'si779089',t:15},{n:'si779101',t:15},{n:'si779113',t:15},{n:'si779125',t:15},{n:'si779137',t:15},{n:'A_B_MATCHED_1',t:612},{n:'A_B_MATCHED_2',t:612},{n:'Image_1014',t:15},{n:'C_D_MATCHED_1',t:612},{n:'Image_1017',t:15},{n:'C_D_MATCHED_2',t:612},{n:'Image_1018',t:15},{n:'E_F_MATCHED_1',t:612},{n:'Image_1020',t:15},{n:'E_F_MATCHED_2',t:612},{n:'Image_1019',t:15},{n:'G___H__MATCHED_1',t:612},{n:'Image_1021',t:15},{n:'G___H__MATCHED_2',t:612},{n:'Image_1022',t:15},{n:'I___J__MATCHED_1',t:612},{n:'Image_1023',t:15},{n:'I___J__MATCHED_2',t:612},{n:'Image_1024',t:15},{n:'K___L__MATCHED_1',t:612},{n:'Image_1025',t:15},{n:'K___L__MATCHED_2',t:612},{n:'Image_1026',t:15},{n:'M___N__MATCHED_1',t:612},{n:'Image_1027',t:15},{n:'M___N__MATCHED_2',t:612},{n:'Image_1028',t:15},{n:'O___P__MATCHED_1',t:612},{n:'Image_1029',t:15},{n:'O___P__MATCHED_2',t:612},{n:'Image_1030',t:15},{n:'blocker',t:612},{n:'si748094',t:612},{n:'si748106',t:612},{n:'Image_1013',t:15},{n:'Winner',t:612}],iph:[],v:false,bc:'#ffffff',JSONTT_0:[],sea:'cp.hide("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'P',stl:[{stn:'Normal',stt:0,stsi:[768549]}],stis:0,bstiid:768463,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si768549c:{b:[289,370,373,454],uid:768549,sr:cp.fd,ip:'dr/809723_84_84.png',dn:'si768549',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[289,370,373,454],vb:[289,370,373,454]},P_FACE:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'P_FACEc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B16");\
+cp.show("P_FACE");\
+cp.changeState("Card_A","P");\
+window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("P_FACE");\
+cp.changeState("Card_B","P");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution8\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","P");\
+cp.show("B16");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("O___P__MATCHED_1");\
+cp.show("O___P__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[813677]},{stn:'Face',stt:9,stsi:[813791]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['P_FACE','si813791'],isDD:false},P_FACEc:{b:[289,370,373,454],uid:813677,sr:cp.fd,ip:'dr/809723_84_84.png',dn:'P_FACE',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[289,370,373,454],vb:[289,370,373,454]},si813791:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'si813791c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'if ((cp.ho(\'FirstAnswer\') == cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'1\');\
+cp.show("B16");\
+cp.show("P_FACE");\
+cp.changeState("Card_A","P");\
+window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));}else{window.SecondAnswer=cp.ho(\'1\');\
+window.Solution8=( isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'number\') )? window.Solution8 : ( (cp.ho(\'Solution8\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Solution8\')+cp.ho(\'1\')) ) ? (cp.ho(\'Solution8\')+cp.ho(\'1\')):Number(cp.ho(\'Solution8\')+cp.ho(\'1\'));\
+cp.show("blocker");\
+cp.show("P_FACE");\
+cp.changeState("Card_B","P");}\
+;if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Solution8\') == cp.ho(\'2\')))\
+{\
+cp.changeState("Card_B","P");\
+cp.show("B16");\
+window.Success=( isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Success\')+cp.ho(\'1\')) == \'number\') )? window.Success : ( (cp.ho(\'Success\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Success\')+cp.ho(\'1\')) ) ? (cp.ho(\'Success\')+cp.ho(\'1\')):Number(cp.ho(\'Success\')+cp.ho(\'1\'));\
+cp.show("Nice_Pair");\
+window.Score=( isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) && (typeof (cp.ho(\'Score\')+cp.ho(\'1\')) == \'number\') )? window.Score : ( (cp.ho(\'Score\')+cp.ho(\'1\')) == \'\' || isNaN(cp.ho(\'Score\')+cp.ho(\'1\')) ) ? (cp.ho(\'Score\')+cp.ho(\'1\')):Number(cp.ho(\'Score\')+cp.ho(\'1\'));\
+var timeoutId = setTimeout(function(){cp.hide("Nice_Pair");\
+cp.show("O___P__MATCHED_1");\
+cp.show("O___P__MATCHED_2");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.hide("blocker");},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\'))&&(cp.ho(\'Success\') == cp.ho(\'0\')))\
+{\
+cp.show("blocker");\
+window.Success=cp.ho(\'0\');\
+cp.show("Try_again");\
+var timeoutId = setTimeout(function(){cp.hide("blocker");\
+cp.hide("Try_again");\
+cp.hide("B1");\
+cp.hide("B2");\
+cp.hide("B3");\
+cp.hide("B4");\
+cp.hide("B5");\
+cp.hide("B6");\
+cp.hide("B7");\
+cp.hide("B8");\
+cp.hide("B9");\
+cp.hide("B10");\
+cp.hide("B11");\
+cp.hide("B12");\
+cp.hide("B13");\
+cp.hide("B14");\
+cp.hide("B15");\
+cp.hide("B16");\
+cp.hide("B17");\
+cp.hide("B18");\
+cp.hide("B19");\
+cp.hide("B20");\
+cp.changeState("A","Normal");\
+cp.changeState("B","Normal");\
+cp.changeState("C","Normal");\
+cp.changeState("D","Normal");\
+cp.changeState("E","Normal");\
+cp.changeState("F","Normal");\
+cp.changeState("G","Normal");\
+cp.changeState("H","Normal");\
+cp.changeState("I","Normal");\
+cp.changeState("J","Normal");\
+cp.changeState("K","Normal");\
+cp.changeState("L","Normal");\
+cp.changeState("M","Normal");\
+cp.changeState("N","Normal");\
+cp.changeState("O","Normal");\
+cp.changeState("P","Normal");\
+cp.changeState("Q","Normal");\
+cp.changeState("R","Normal");\
+cp.changeState("S","Normal");\
+cp.changeState("T","Normal");\
+cp.changeState("Card_A","Normal");\
+cp.changeState("Card_B","Normal");\
+cp.hide("A_Face");\
+cp.hide("B_Face");\
+cp.hide("C_FACE");\
+cp.hide("D_FACE");\
+cp.hide("E_FACE");\
+cp.hide("F_FACE");\
+cp.hide("G_FACE");\
+cp.hide("H_FACE");\
+cp.hide("I_FACE");\
+cp.hide("J_FACE");\
+cp.hide("K_FACE");\
+cp.hide("L_FACE");\
+cp.hide("M_FACE");\
+cp.hide("N_FACE");\
+cp.hide("O_FACE");\
+cp.hide("P_FACE");},cp.ho(\'3\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};if ((cp.ho(\'SecondAnswer\') != cp.ho(\'0\')))\
+{\
+window.FirstAnswer=cp.ho(\'0\');\
+window.SecondAnswer=cp.ho(\'0\');\
+window.Solution1=cp.ho(\'0\');\
+window.Solution2=cp.ho(\'0\');\
+window.Solution3=cp.ho(\'0\');\
+window.Solution4=cp.ho(\'0\');\
+window.Solution5=cp.ho(\'0\');\
+window.Solution6=cp.ho(\'0\');\
+window.Solution7=cp.ho(\'0\');\
+window.Solution8=cp.ho(\'0\');\
+window.Solution9=cp.ho(\'0\');\
+window.Solution10=cp.ho(\'0\');\
+window.Success=cp.ho(\'0\');};if ((cp.ho(\'Score\') == cp.ho(\'8\')))\
+{\
+var timeoutId = setTimeout(function(){cp.show("Winner");\
+var timeoutId = setTimeout(function(){cp.show("blocker");\
+cpCmndGotoSlideByUIDAndResume = 9760;},cp.ho(\'5\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);},cp.ho(\'2\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);};',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,chfn:cp.ch,uab:1,osc:'',osct:0,ofc:'',ofct:0,enabled:1,pa:-1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'P_FACE',stl:[{stn:'Normal',stt:0,stsi:[813791]}],stis:0,bstiid:813677,sipst:9,sicbs:true,sihhs:false,sihds:false,isDD:false},si813791c:{b:[289,370,373,454],uid:813791,sr:cp.fd,ip:'dr/809723_84_84.png',dn:'si813791',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:2500,acclng:'',vbwr:[289,370,373,454],vb:[289,370,373,454]},B16:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'B16c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[769805]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['B16'],isDD:false},B16c:{b:[286,368,377,455],uid:769805,sr:cp.fd,ip:'dr/B16.png',dn:'B16',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,286,368],[2,286,455],[2,377,455],[2,377,368],[2,286,368],[4]],svg:false,vbwr:[286,368,377,455],vb:[286,368,377,455]},O___P__MATCHED_2:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'O___P__MATCHED_2c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[784040,805448]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,stc:['O___P__MATCHED_2'],isDD:false},O___P__MATCHED_2c:{b:[297,374,363,450],uid:784040,sr:cp.fd,ip:'dr/O___P__MATCHED_2.png',dn:'O___P__MATCHED_2',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#f40000',p0:[[0],[1,297,374],[2,297,450.00],[2,363,450.00],[2,363,374],[2,297,374],[4]],svg:false,vbwr:[297,374,363,450],vb:[297,374,363,450]},Image_1030:{type:15,from:899851,to:1199889,rp:0,rpa:0,mdi:'Image_1030c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[805448]}],stis:0,bstiid:784040,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1030c:{b:[290,370,374,453],uid:805448,sr:cp.fd,ip:'dr/826847_84_83.png',dn:'Image_1030',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[290,370,374,453],vb:[290,370,374,453]},blocker:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'blockerc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[746703]},{stn:'RollOver',stt:2,stsi:[748094]},{stn:'Down',stt:1,stsi:[748106]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:true,sihds:true,stc:['blocker','si748094','si748106'],isDD:false},blockerc:{b:[-5,38,386,487],uid:746703,sr:cp.fd,ip:'dr/blocker.png',dn:'blocker',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#e6e6e6',p0:[[0],[1,-5,38],[2,-5,487],[2,386,487],[2,386,38],[2,-5,38],[4]],svg:false,vbwr:[-5,38,386,487],vb:[-5,38,386,487]},si748094:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'si748094c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'blocker',stl:[{stn:'Normal',stt:0,stsi:[748094]}],stis:0,bstiid:746703,sipst:2,sicbs:true,sihhs:true,sihds:true,isDD:false},si748094c:{b:[-5,38,386,487],uid:748094,sr:cp.fd,ip:'dr/si748094.png',dn:'si748094',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#737373',p0:[[0],[1,-5,38],[2,-5,487],[2,386,487],[2,386,38],[2,-5,38],[4]],svg:false,vbwr:[-5,38,386,487],vb:[-5,38,386,487]},si748106:{type:612,from:899851,to:1199889,rp:0,rpa:0,mdi:'si748106c',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:false,JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:-1,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'blocker',stl:[{stn:'Normal',stt:0,stsi:[748106]}],stis:0,bstiid:746703,sipst:1,sicbs:true,sihhs:true,sihds:true,isDD:false},si748106c:{b:[-5,38,386,487],uid:748106,sr:cp.fd,ip:'dr/si748106.png',dn:'si748106',visible:0,effectiveVi:0,JSONEffectData:false,accstr:' ',traccstr:'',ti:2500,acclng:'',sc:'#1a1a1a',sw:0,ss:0,fa:0,bc:'#171717',p0:[[0],[1,-5,38],[2,-5,487],[2,386,487],[2,386,38],[2,-5,38],[4]],svg:false,vbwr:[-5,38,386,487],vb:[-5,38,386,487]},Winner:{type:612,from:899851,to:1199880,rp:0,rpa:0,mdi:'Winnerc',retainState:false,immo:false,apsn:'Slide52766',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[751150]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Winnerc:{b:[-2,-3,386,794],uid:751150,sr:cp.fd,ip:'dr/Winner.png',dn:'Winner',visible:0,effectiveVi:0,JSONEffectData:false,accstr:'Herzlichen Glückwunsch! Sie haben das Rätsel erfolgreich gelöst! ',traccstr:'',ti:-1,acclng:'',sc:'#1a1a1a',sw:2,ss:0,fa:60,bc:'#ffffff',p0:[[0],[1,-2,-3],[2,-2,794],[2,386,794],[2,386,-3],[2,-2,-3],[4]],svg:false,vbwr:[-6,-7,390,798],vb:[-6,-7,390,798]},Slide52766:{lb:'Q1 2 Lives',id:52766,from:899851,to:1199889,iols:0,i360qs:false,propTxtScaling:false,minFontSizeScaling:14,useng:true,transition:{type:0},mmot:false,mdi:'Slide52766c',st:'Normal Slide',ccProperties:{382:{pos:7,x:35,y:88}},audCC:[],vidCC:[],accstr:'Q1 2 Lives ',si:[{n:'Image_1000',t:15},{n:'Image_1002',t:15},{n:'Image_1003',t:15},{n:'Timer1outof8v2_4',t:133},{n:'Try_again',t:19},{n:'Nice_Pair',t:612},{n:'Card_A',t:15},{n:'si778645',t:15},{n:'si778652',t:15},{n:'si778659',t:15},{n:'si778666',t:15},{n:'si778673',t:15},{n:'si778680',t:15},{n:'si778687',t:15},{n:'si778694',t:15},{n:'si778701',t:15},{n:'si778708',t:15},{n:'si778715',t:15},{n:'si778722',t:15},{n:'si778729',t:15},{n:'si778736',t:15},{n:'si778743',t:15},{n:'si778750',t:15},{n:'si778757',t:15},{n:'si778764',t:15},{n:'si778771',t:15},{n:'si778778',t:15},{n:'Card_B',t:15},{n:'si778909',t:15},{n:'si778921',t:15},{n:'si778933',t:15},{n:'si778945',t:15},{n:'si778957',t:15},{n:'si778969',t:15},{n:'si778981',t:15},{n:'si778993',t:15},{n:'si779005',t:15},{n:'si779017',t:15},{n:'si779029',t:15},{n:'si779041',t:15},{n:'si779053',t:15},{n:'si779065',t:15},{n:'si779077',t:15},{n:'si779089',t:15},{n:'si779101',t:15},{n:'si779113',t:15},{n:'si779125',t:15},{n:'si779137',t:15},{n:'A',t:15},{n:'si765913',t:15},{n:'A_Face',t:15},{n:'si810326',t:15},{n:'B1',t:612},{n:'A_B_MATCHED_2',t:612},{n:'Image_1014',t:15},{n:'B',t:15},{n:'si765738',t:15},{n:'B_Face',t:15},{n:'si810557',t:15},{n:'B2',t:612},{n:'A_B_MATCHED_1',t:612},{n:'Image_1013',t:15},{n:'C',t:15},{n:'si762511',t:15},{n:'C_FACE',t:15},{n:'si810788',t:15},{n:'B3',t:612},{n:'C_D_MATCHED_1',t:612},{n:'Image_1017',t:15},{n:'D',t:15},{n:'si766088',t:15},{n:'D_FACE',t:15},{n:'si811019',t:15},{n:'B4',t:612},{n:'C_D_MATCHED_2',t:612},{n:'Image_1018',t:15},{n:'E',t:15},{n:'si766263',t:15},{n:'E_FACE',t:15},{n:'si811250',t:15},{n:'B5',t:612},{n:'E_F_MATCHED_2',t:612},{n:'Image_1019',t:15},{n:'F',t:15},{n:'si766788',t:15},{n:'F_FACE',t:15},{n:'si811481',t:15},{n:'B6',t:612},{n:'E_F_MATCHED_1',t:612},{n:'Image_1020',t:15},{n:'G',t:15},{n:'si766613',t:15},{n:'G_FACE',t:15},{n:'si811712',t:15},{n:'B7',t:612},{n:'G___H__MATCHED_1',t:612},{n:'Image_1021',t:15},{n:'H',t:15},{n:'si766438',t:15},{n:'H_FACE',t:15},{n:'si811943',t:15},{n:'B8',t:612},{n:'G___H__MATCHED_2',t:612},{n:'Image_1022',t:15},{n:'I',t:15},{n:'si766963',t:15},{n:'I_FACE',t:15},{n:'si812174',t:15},{n:'B9',t:612},{n:'I___J__MATCHED_1',t:612},{n:'Image_1023',t:15},{n:'J',t:15},{n:'si767138',t:15},{n:'J_FACE',t:15},{n:'si812405',t:15},{n:'B10',t:612},{n:'I___J__MATCHED_2',t:612},{n:'Image_1024',t:15},{n:'K',t:15},{n:'si767663',t:15},{n:'K_FACE',t:15},{n:'si812636',t:15},{n:'B11',t:612},{n:'K___L__MATCHED_1',t:612},{n:'Image_1025',t:15},{n:'L',t:15},{n:'si767488',t:15},{n:'L_FACE',t:15},{n:'si812867',t:15},{n:'B12',t:612},{n:'K___L__MATCHED_2',t:612},{n:'Image_1026',t:15},{n:'N',t:15},{n:'si767838',t:15},{n:'N_FACE',t:15},{n:'si813329',t:15},{n:'B13',t:612},{n:'M___N__MATCHED_1',t:612},{n:'Image_1027',t:15},{n:'M',t:15},{n:'si767313',t:15},{n:'M_FACE',t:15},{n:'si813098',t:15},{n:'B14',t:612},{n:'M___N__MATCHED_2',t:612},{n:'Image_1028',t:15},{n:'O',t:15},{n:'si768013',t:15},{n:'O_FACE',t:15},{n:'si813560',t:15},{n:'B15',t:612},{n:'O___P__MATCHED_1',t:612},{n:'Image_1029',t:15},{n:'P',t:15},{n:'si768549',t:15},{n:'P_FACE',t:15},{n:'si813791',t:15},{n:'B16',t:612},{n:'O___P__MATCHED_2',t:612},{n:'Image_1030',t:15},{n:'blocker',t:612},{n:'si748094',t:612},{n:'si748106',t:612},{n:'Winner',t:612}],iph:[],v:false,bc:'#ffffff',JSONTT_0:[],sea:'cp.hide("blocker");\
 window.FirstAnswer=cp.ho(\'0\');\
 window.SecondAnswer=cp.ho(\'0\');\
 window.Success=cp.ho(\'0\');\
@@ -8067,7 +8067,8 @@ cp.hide("M___N__MATCHED_1");\
 cp.hide("M___N__MATCHED_2");\
 cp.hide("O___P__MATCHED_1");\
 cp.hide("O___P__MATCHED_2");\
-var timeoutId = setTimeout(function(){cpCmndGotoSlideByUIDAndResume = 113073;},cp.ho(\'243\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);',JSONTT_6:[],qs:''},Slide52766c:{b:[0,0,0,0],sr:cp.fd,uid:52766,dn:'Slide52766',visible:'1'},Image_6:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_6c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[9641]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_6c:{b:[166,488,383,784],uid:9641,sr:cp.fd,ip:'dr/9127_217_296.png',dn:'Image_6',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[166,488,383,784],vb:[166,488,383,784]},Image_248:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_248c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[130816]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_248c:{b:[-2,-4,386,792],uid:130816,sr:cp.fd,ip:'dr/124875_388_796.png',dn:'Image_248',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-2,-4,386,792],vb:[-2,-4,386,792]},Image_1004:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_1004c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797314]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1004c:{b:[-4,-4,384,790],uid:797314,sr:cp.fd,ip:'dr/797134_388_794.png',dn:'Image_1004',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-4,384,790],vb:[-4,-4,384,790]},Image_1006:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_1006c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797330]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1006c:{b:[-115,384,513,637],uid:797330,sr:cp.fd,ip:'dr/797326_628_253.png',dn:'Image_1006',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-115,384,513,637],vb:[-115,384,513,637]},Image_1005:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_1005c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797318]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1005c:{b:[-4,660,58,792],uid:797318,sr:cp.fd,ip:'dr/797315_62_132.png',dn:'Image_1005',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,660,58,792],vb:[-4,660,58,792]},Image_1008:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_1008c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797352]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1008c:{b:[49,154,105,219],uid:797352,sr:cp.fd,ip:'dr/797349_56_65.png',dn:'Image_1008',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[49,154,105,219],vb:[49,154,105,219]},Image_1009:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_1009c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797363]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1009c:{b:[285,323,321,364],uid:797363,sr:cp.fd,ip:'dr/797360_36_41.png',dn:'Image_1009',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[285,323,321,364],vb:[285,323,321,364]},Question_1_226:{type:19,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Question_1_226c',retainState:false,immo:false,apsn:'Slide9760',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803095]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Question_1_226c:{b:[-5,-4,384,122],uid:803095,sr:cp.fd,ip:'dr/Question_1_226.png',dn:'Question_1_226',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Herzlichen Glückwunsch! ',traccstr:'',ti:-1,acclng:'',vbwr:[-5,-4,384,122],vb:[-5,-4,384,122]},Answer_1110:{type:612,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Answer_1110c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.runJavascript(\'parent.window.postMessage(\\\'closeDialog\\\', \\\'*\\\');\\nparent.window.API.LMSFinish("");\\nSCORM_CallLMSCommit();\\nLMSFinish();\',\'_self\');cp.actionChoiceContinueMovie();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:1200134,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803133]},{stn:'RollOver',stt:2,stsi:[803154]},{stn:'Down',stt:1,stsi:[803175]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:true,sihds:true,stc:['Answer_1110','si803154','si803175'],isDD:false},Answer_1110c:{b:[79,670,299,765],uid:803133,sr:cp.fd,ip:'dr/Answer_1110.png',dn:'Answer_1110',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Kurs beenden ',traccstr:'',ti:2500,acclng:'',sc:'#ffffff',sw:0,ss:0,fa:100,bc:'#000000',p0:[[0],[1,93.8,670.00],[3,85.63,670.00,79,676.63,79,684.8],[2,79,750.19],[3,79,758.37,85.63,765,93.8,765],[2,284.19,765],[3,292.37,765,299,758.37,299,750.19],[2,299,684.8],[3,299,676.63,292.37,670.00,284.19,670.00],[2,93.8,670.00],[4]],svg:false,vbwr:[79,670,299,765],vb:[79,670,299,765]},si803154:{type:612,from:1199890,to:1200135,rp:0,rpa:0,mdi:'si803154c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.runJavascript(\'parent.window.postMessage(\\\'closeDialog\\\', \\\'*\\\');\\nparent.window.API.LMSFinish("");\\nSCORM_CallLMSCommit();\\nLMSFinish();\',\'_self\');cp.actionChoiceContinueMovie();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:1200134,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1110',stl:[{stn:'Normal',stt:0,stsi:[803154]}],stis:0,bstiid:803133,sipst:2,sicbs:true,sihhs:true,sihds:true,isDD:false},si803154c:{b:[79,670,299,765],uid:803154,sr:cp.fd,ip:'dr/si803154.png',dn:'si803154',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Kurs beenden ',traccstr:'',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#737373',p0:[[0],[1,93.8,670.00],[3,85.63,670.00,79,676.63,79,684.8],[2,79,750.19],[3,79,758.37,85.63,765,93.8,765],[2,284.19,765],[3,292.37,765,299,758.37,299,750.19],[2,299,684.8],[3,299,676.63,292.37,670.00,284.19,670.00],[2,93.8,670.00],[4]],svg:false,vbwr:[75,666,303,769],vb:[75,666,303,769]},si803175:{type:612,from:1199890,to:1200135,rp:0,rpa:0,mdi:'si803175c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.runJavascript(\'parent.window.postMessage(\\\'closeDialog\\\', \\\'*\\\');\\nparent.window.API.LMSFinish("");\\nSCORM_CallLMSCommit();\\nLMSFinish();\',\'_self\');cp.actionChoiceContinueMovie();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:1200134,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1110',stl:[{stn:'Normal',stt:0,stsi:[803175]}],stis:0,bstiid:803133,sipst:1,sicbs:true,sihhs:true,sihds:true,isDD:false},si803175c:{b:[79,670,299,765],uid:803175,sr:cp.fd,ip:'dr/si803175.png',dn:'si803175',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Kurs beenden ',traccstr:'',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#171717',p0:[[0],[1,93.8,670.00],[3,85.63,670.00,79,676.63,79,684.8],[2,79,750.19],[3,79,758.37,85.63,765,93.8,765],[2,284.19,765],[3,292.37,765,299,758.37,299,750.19],[2,299,684.8],[3,299,676.63,292.37,670.00,284.19,670.00],[2,93.8,670.00],[4]],svg:false,vbwr:[75,666,303,769],vb:[75,666,303,769]},Text_Caption_227:{type:19,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Text_Caption_227c',retainState:false,immo:false,apsn:'Slide9760',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803186]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Text_Caption_227c:{b:[79,346,299,690],uid:803186,sr:cp.fd,ip:'dr/Text_Caption_227.png',dn:'Text_Caption_227',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Du hast es geschafft das Lösungswort zu erraten.  Sei gespannt, was das anstehende Pro Event für dich bereit hält!  Wir freuen uns dich dort zu sehen! ',traccstr:'',ti:-1,acclng:'',vbwr:[79,346,299,690],vb:[79,346,299,690]},Slide9760:{lb:'Finished',id:9760,from:1199890,to:1200135,iols:0,i360qs:false,propTxtScaling:false,minFontSizeScaling:14,useng:true,transition:{type:0},mmot:false,mdi:'Slide9760c',st:'Normal Slide',ccProperties:{382:{pos:7,x:35,y:88}},audCC:[],vidCC:[],accstr:'Finished ',si:[{n:'Image_6',t:15},{n:'Image_248',t:15},{n:'Image_1004',t:15},{n:'Image_1006',t:15},{n:'Image_1005',t:15},{n:'Image_1008',t:15},{n:'Image_1009',t:15},{n:'Question_1_226',t:19},{n:'Answer_1110',t:612},{n:'si803154',t:612},{n:'si803175',t:612},{n:'Text_Caption_227',t:19}],iph:[],v:false,bc:'#ffffff',JSONTT_0:[],sea:'cp.playAudio2("85577");cp.actionChoicePauseMovie();',JSONTT_6:[],qs:''},PA85577:{src:'ar/85577.mp3',du:6085},Slide9760c:{b:[0,0,0,0],sr:cp.fd,uid:9760,dn:'Slide9760',visible:'1'},quizzingData:{allowBackwardMovement:true,allowReviewMode:true,isInReviewMode:false,allowSkipAnyScoreSlide:true,allowSkipFailScoreSlide:true,allowSkipPassScoreSlide:true,anyGradeAction:'',anyGradeActionArg1:'',anyGradeActionArg2:'',defaultActionType:'continue',defaultActionArg1:'',defaultActionArg2:'',failedScoreFeedback:'Sorry, you failed!',failingGradeAction:'cpCmndResume = 1;',JSONTT_5:[],passedScoreFeedback:'Congratulations, you passed the quiz!',passingGradeAction:'cpCmndResume = 1;',JSONTT_4:[],pretestAction:'',it:false,anyScoreSlide:-1,firstSlideInQuiz:-1,lastSlideInQuiz:-1,quizScopeEndSlide:-1,maxScore:0,minScore:0,maxPretestScore:0,numQuestionsInQuiz:0,numQuizAttemptsAllowed:1,passingScore:0,quizInfoCurrentAttempt:0,quizInfoPercentScored:0,quizProgress:'',questionAdvance:'optional',quizAdvance:'optional',quizID:379,showFinishButton:true,showProgress:true,questionPoolsInitialized:true,quizInfoAnswerChoice:'',quizInfoAttempts:1,quizInfoLastSlidePointScored:0,quizInfoMaxAttemptsOnCurrentQuestion:1,quizInfoPassFail:0,quizInfoPointsPerQuestionSlide:0,quizInfoPointsScored:0,quizInfoQuestionSlideTiming:0,quizInfoQuestionSlideType:'',quizInfoQuizPassPercent:0,quizInfoQuizPassPoints:0,quizInfoTotalCorrectAnswers:0,quizInfoTotalProjectPoints:0,quizInfoTotalQuestionsPerProject:0,quizInfoTotalQuizPoints:0,quizInfoTotalUnansweredQuestions:0,reportingVariables:0,reportingEnabled:false,submitAll:false,hidePlaybarInQuiz:false,quizBranchAware:false,passFailPassingScoreTypeInPrecent:false,passFailPassingScoreValue:0,progressIndicatorType:0,rpViDv:'This slide was viewed in device with different width.',progressIndicatorString:'Question %d of %d    '},rtDialog:{rtbgfc:'#cccccc',rtbgsc:'#808080',rtbtnfc:'#ffffff',rtbtnsc:'#808080',rtsc:'#808080',rttc:'#000000',rttsc:'#b3b3b3',rtfn:'Tahoma',rtt:'Submit All',rtsam:'You have answered all questions. What do you want to do next?',rtiqm:'One or more questions is incomplete. Answer all questions to continue.',rtsiqm:'You have not answered a few questions yet. Are you sure you want to proceed without answering those questions?',rtsanym:'You have reached the end of the quiz, but you have unanswered questions. What do you want to do?',rtmtqm:'You must answer at least one question to continue.',rtokb:'Ok',rtcb:'CANCEL',rtyb:'Yes',rtnb:'No',rtsab:'Submit All Answers',rtsanyb:'Submit Anyway',rtrtqb:'Return To Quiz',rtWarningTitle:'Adobe Captivate Classic',rtUnsupportedBowser:'This browser does not support some of the content in the file you are trying to view. Use one of the following browsers:<ul><li>Internet Explorer 9 or later</li><li>Safari 5.1 or later</li><li>Google Chrome 17 or later</li><li>Firefox @FFVERSION or later</li></ul>',rtPopupBlkr:'Please goto your settings and disable popup blocker',mandatoryMsg1:'You did not answer some questions. Answer them first and then proceed.',mandatoryMsg2:'You have not viewed some hotspots. Please view them to proceed.',mandatoryTitle:'Information',hotspotsVisitedMsg:'You have explored all hotspots. Click to continue or use the navigation options to exit.'},sgMgr:{ri:0,sg:[[0,[[1,[23,2,2,2,2,2,2,2]]]],[1,[[2,[23,2,2,2]]]],[2,[[3,[23,2,2,2,2]]]],[3,[[0,[8]],[4,[23,2,2,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,2,2,2,2,2,2,2,2,2,2,2,2,2,8,2,2,2,8,2,8,2,2,2,2,2,2,8,8,8,8,8,8,8,8,8,8,8,8,8]]]]]},project:{fps:30,hasTOC:0,w:382,h:780,iw:1080,ih:1920,prm:[0.353704,0.40625,0,0],stateNameToLocalizedStateNameMap:{kCPNormalState:'Normal',kCPDownState:'Down',kCPRolloverState:'RollOver',kCPVisitedState:'Visited',kCPDragoverState:'DragOver',kCPDragstartState:'DragStart',kCPDropCorrect:'DropCorrect',kCPDropIncorrect:'DropIncorrect',kCPDropAccept:'DropAccept',kCPDropReject:'DropReject'},prjBgColor:'#ffffff',pkt:0,htmlBgColor:'#ffffff',shc:true,pN:'Match Cards Mini Game v0.1.4'},project_main:{from:1,to:1200135,currentFrame:1,useResponsive:false,responsiveType:4,currentFrame:1,useWidgetVersion7:false,isPublishedFromLacuna:false,vestr:0,vim:0,slides:'Slide113073,Slide13453,Slide129773,Slide52766,Slide9760',questions:'',autoplay:true,preloader:false,pprtd:false,peon:false,fadeInAtStart:0,fadeOutAtEnd:0,endAction:'cp.stopMovie();'},borderProperties:{hasBorder:false},playBarProperties:{hasPlayBar:false},tocProperties:{},ccProperties:{382:{w:30,h:12,x:-1,y:-1,txtl:0,pos:7,v:false,c:'#ffffff',o:49}},trecs:[{link:113073,text:['Starten','Starten','Starten','Samsung Pro Match Card Minispiel','Beenden','Beenden','Beenden']},{link:13453,text:['Decke alle 8 Kartenpaare auf und gewinne das Spiel – Viel Erfolg!','Weiter','Weiter','Weiter','Übersicht']},{link:129773,text:['Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam? Nullam quis risus eget urna mollis ornare vel eu leo. Suspendisse potenti in faucibus orci luctus et ultrices posuere cubilia curae.        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec ullamcorper nulla non metus auctor fringilla in vitae nunc. Curabitur blandit tempus porttitor!','(Timer) 04:00','So wird gespielt','Weiter','Weiter','Weiter']},{link:52766,text:['Bitte versuche es nochmal!','Schönes Paar!','','','','','','','','','','','','','','','','','','','','','','E + F  MATCHED','','','','','','','','','','','','','','Herzlichen Glückwunsch! Sie haben das Rätsel erfolgreich gelöst!']},{link:9760,text:['Herzlichen Glückwunsch!','Kurs beenden','Kurs beenden','Kurs beenden','Du hast es geschafft das Lösungswort zu erraten.  Sei gespannt, was das anstehende Pro Event für dich bereit hält!  Wir freuen uns dich dort zu sehen!']}],typekit:{kit_id:''},};cp.model.projectImages=['assets/htmlimages/expand_icon.png','assets/htmlimages/img_trans.gif','assets/htmlimages/placeholder.png'];cp.model.images=['dr/124875_388_796.png','dr/778848_136_217.png','dr/778852_136_217.png','dr/778856_136_217.png','dr/778860_136_217.png','dr/797134_388_794.png','dr/797146_124_95.png','dr/797146_41_32.png','dr/797170_170_193.png','dr/797170_94_107.png','dr/797182_251_304.png','dr/797194_82_143.png','dr/797315_62_132.png','dr/797326_628_253.png','dr/797338_75_48.png','dr/797349_56_65.png','dr/797360_36_41.png','dr/801537_182_253.png','dr/801541_182_253.png','dr/802954_382_382.png','dr/803771_182_253.png','dr/803775_182_253.png','dr/803779_182_253.png','dr/803783_182_253.png','dr/803787_182_253.png','dr/803791_182_253.png','dr/803795_182_253.png','dr/803799_182_252.png','dr/803799_182_253.png','dr/803835_84_84.png','dr/803843_84_84.png','dr/803851_84_84.png','dr/803855_84_84.png','dr/803863_84_84.png','dr/803871_84_84.png','dr/803879_86_85.png','dr/803891_84_84.png','dr/804895_86_86.png','dr/804899_86_86.png','dr/804903_84_84.png','dr/805300_86_86.png','dr/805312_84_84.png','dr/805324_84_84.png','dr/805336_84_84.png','dr/805348_84_84.png','dr/805360_84_84.png','dr/805372_84_84.png','dr/805384_84_84.png','dr/805396_84_84.png','dr/805408_84_84.png','dr/805420_84_84.png','dr/805432_84_84.png','dr/805444_84_84.png','dr/809663_181_252.png','dr/809663_182_252.png','dr/809667_182_252.png','dr/809671_182_252.png','dr/809675_182_252.png','dr/809679_182_252.png','dr/809683_182_252.png','dr/809687_182_252.png','dr/809691_182_252.png','dr/809695_84_84.png','dr/809699_84_84.png','dr/809703_84_84.png','dr/809707_84_84.png','dr/809711_84_84.png','dr/809715_84_84.png','dr/809719_84_84.png','dr/809723_84_84.png','dr/813792_84_84.png','dr/813792_86_85.png','dr/9127_217_296.png','dr/A_B_MATCHED_1.png','dr/A_B_MATCHED_2.png','dr/Answer_1107.png','dr/Answer_1108.png','dr/Answer_1109.png','dr/Answer_1110.png','dr/Answer_1122.png','dr/B1.png','dr/B10.png','dr/B11.png','dr/B12.png','dr/B13.png','dr/B14.png','dr/B15.png','dr/B16.png','dr/B2.png','dr/B3.png','dr/B4.png','dr/B5.png','dr/B6.png','dr/B7.png','dr/B8.png','dr/B9.png','dr/C_D_MATCHED_1.png','dr/C_D_MATCHED_2.png','dr/E_F_MATCHED_1.png','dr/E_F_MATCHED_2.png','dr/G___H__MATCHED_1.png','dr/G___H__MATCHED_2.png','dr/I___J__MATCHED_1.png','dr/I___J__MATCHED_2.png','dr/K___L__MATCHED_1.png','dr/K___L__MATCHED_2.png','dr/M___N__MATCHED_1.png','dr/M___N__MATCHED_2.png','dr/Nice_Pair.png','dr/O___P__MATCHED_1.png','dr/O___P__MATCHED_2.png','dr/Question_1_221.png','dr/Question_1_223.png','dr/Question_1_225.png','dr/Question_1_226.png','dr/Text_Caption_169.png','dr/Text_Caption_222.png','dr/Text_Caption_224.png','dr/Text_Caption_227.png','dr/Try_again.png','dr/Winner.png','dr/blocker.png','dr/si748094.png','dr/si748106.png','dr/si802807.png','dr/si802828.png','dr/si802929.png','dr/si802950.png','dr/si803033.png','dr/si803054.png','dr/si803154.png','dr/si803175.png','dr/si810073.png','dr/si810094.png'];cp.model.videos=[];cp.model.slideVideos=[];cp.model.tocVideos=[];cp.model.audios=['ar/85577.mp3'];cp.initVariables = function(){cp.cv('CaptivateVersion','11.8.0',1,1000,0);cp.cv('cpCmndCC',0,1,15,0);cp.cv('cpCmndExit',0,1,15,0);cp.cv('cpCmndMute',0,1,15,0);cp.cv('cpCmndPause',0,1,15,0);cp.cv('cpCmndPlaybarMoved',0,1,15,0);cp.cv('cpCmndPrevious',0,1,15,0);cp.cv('cpCmndResume',0,1,15,0);cp.cv('cpCmndShowPlaybar',1,1,15,0);cp.cv('cpCmndTOCVisible',0,1,15,0);cp.cv('cpCmndVolume',100,1,15,0);cp.cv('cpInQuizScope',0,1,15,0);cp.cv('cpInReviewMode',0,1,15,0);cp.cv('cpInfoAuthor','author',1,15,0);cp.cv('cpInfoCompany','company',1,15,0);cp.cv('cpInfoCopyright','copyright',1,15,0);cp.cv('cpInfoCourseID',-1,1,15,0);cp.cv('cpInfoCourseName','Course Name',1,15,0);cp.cv('cpInfoCurrentDate','dd',1,15,0);cp.cv('cpInfoCurrentDateString','mm/dd/yyyy',1,15,0);cp.cv('cpInfoCurrentDateStringDDMMYYYY','dd/mm/yyyy',1,15,0);cp.cv('cpInfoCurrentDay',1,1,15,0);cp.cv('cpInfoCurrentFrame',1,1,15,0);cp.cv('cpInfoCurrentHour','hh',1,15,0);cp.cv('cpInfoCurrentLocaleDateString','',1,15,0);cp.cv('cpInfoCurrentMinutes','mm',1,15,0);cp.cv('cpInfoCurrentMonth','mm',1,15,0);cp.cv('cpInfoCurrentSlide',1,1,15,0);cp.cv('cpInfoCurrentSlideLabel','slide',1,15,0);cp.cv('cpInfoCurrentSlideType','Normal',1,15,0);cp.cv('cpInfoCurrentTime','hh:mm:ss',1,15,0);cp.cv('cpInfoCurrentYear','yyyy',1,15,0);cp.cv('cpInfoDescription','project description',1,15,0);cp.cv('cpInfoElapsedTimeMS',0,1,15,0);cp.cv('cpInfoEmail','author@company.com',1,15,0);cp.cv('cpInfoEpochMS',0,1,15,0);cp.cv('cpInfoFPS',1,1,15,0);cp.cv('cpInfoFrameCount',1,1,15,0);cp.cv('cpInfoGeoLocation','',1,15,0);cp.cv('cpInfoHasPlaybar',0,1,1000,0);cp.cv('cpInfoIsStandalone',1,1,15,0);cp.cv('cpInfoLastVisitedSlide',1,1,15,0);cp.cv('cpInfoMobileOS',0,1,15,0);cp.cv('cpInfoPercentage',0,1,15,0);cp.cv('cpInfoPrevSlide',-1,1,15,0);cp.cv('cpInfoProjectName','',1,15,0);cp.cv('cpInfoSlideCount',1,1,15,0);cp.cv('cpInfoSlidesInProject',5,1,1000,0);cp.cv('cpInfoWebsite','www.company.com',1,15,0);cp.cv('cpLockTOC',0,1,1000,0);cp.cv('cpQuizInfoAnswerChoice','',1,15,0);cp.cv('cpQuizInfoAttempts',0,1,15,0);cp.cv('cpQuizInfoLastSlidePointScored',0,1,15,0);cp.cv('cpQuizInfoMaxAttemptsOnCurrentQuestion',0,1,15,0);cp.cv('cpQuizInfoNegativePointsOnCurrentQuestionSlide',0,1,15,0);cp.cv('cpQuizInfoPassFail',0,1,15,0);cp.cv('cpQuizInfoPointsPerQuestionSlide',0,1,15,0);cp.cv('cpQuizInfoPointsscored',0,1,15,0);cp.cv('cpQuizInfoPreTestMaxScore',0,1,15,0);cp.cv('cpQuizInfoPreTestTotalCorrectAnswers',0,1,15,0);cp.cv('cpQuizInfoPreTestTotalQuestions',0,1,1000,0);cp.cv('cpQuizInfoPretestPointsscored',0,1,15,0);cp.cv('cpQuizInfoPretestScorePercentage',0,1,15,0);cp.cv('cpQuizInfoQuestionPartialScoreOn',0,1,15,0);cp.cv('cpQuizInfoQuestionSlideTiming',0,1,15,0);cp.cv('cpQuizInfoQuestionSlideType','choice',1,15,0);cp.cv('cpQuizInfoQuizPassPercent',0,1,1000,0);cp.cv('cpQuizInfoQuizPassPoints',0,1,1000,0);cp.cv('cpQuizInfoTotalCorrectAnswers',0,1,15,0);cp.cv('cpQuizInfoTotalProjectPoints',0,1,15,0);cp.cv('cpQuizInfoTotalQuestionsPerProject',0,1,15,0);cp.cv('cpQuizInfoTotalQuizPoints',0,1,1000,0);cp.cv('cpQuizInfoTotalUnansweredQuestions',0,1,15,0);cp.cv('cpInfoPrevFrame',0,1,15,0);cp.cv('Blocker',0,0,50,0);cp.cv('Fail',0,0,50,0);cp.cv('FirstAnswer',0,0,50,0);cp.cv('Q1',0,0,50,0);cp.cv('Q1WrongTally',0,0,50,0);cp.cv('Q2',0,0,50,0);cp.cv('Q9',0,0,50,0);cp.cv('Score',0,0,50,0);cp.cv('SecondAnswer',0,0,50,0);cp.cv('Solution1',0,0,50,0);cp.cv('Solution10',0,0,50,0);cp.cv('Solution2',0,0,50,0);cp.cv('Solution3',0,0,50,0);cp.cv('Solution4',0,0,50,0);cp.cv('Solution5',0,0,50,0);cp.cv('Solution6',0,0,50,0);cp.cv('Solution7',0,0,50,0);cp.cv('Solution8',0,0,50,0);cp.cv('Solution9',0,0,50,0);cp.cv('Success',0,0,50,0);cp.cv('cpQuizInfoStudentID','',0,15,0);cp.cv('cpQuizInfoStudentName','',0,15,0);cp.cv('v_ClickCount','',0,50,0);cp.cv('v_FirstCard','',0,50,0);cp.cv('v_MatchCount',0,0,50,0);cp.cv('v_SecondCard','',0,50,0);cp.cv('v_SpaceZoom1',0,0,50,0);cp.cv('v_SpaceZoom2',0,0,50,0);cp.cv('v_card1',0,0,50,0);cp.cv('v_card2',0,0,50,0);cp.cv('v_card_apple_2','Card_Apple_2',0,50,0);cp.cv('v_lockClicks',0,0,50,0);};cp.ReportingVariables="Blocker,Fail,FirstAnswer,Q1,Q1WrongTally,Q2,Q9,Score,SecondAnswer,Solution1,Solution10,Solution2,Solution3,Solution4,Solution5,Solution6,Solution7,Solution8,Solution9,Success,v_ClickCount,v_FirstCard,v_MatchCount,v_SecondCard,v_SpaceZoom1,v_SpaceZoom2,v_card1,v_card2,v_card_apple_2,v_lockClicks,";};cp.sbw=0;cp.useg=0;cp.geo=0;cp.pg=0;cp.win8=0;cp.autoGrow=1;cp.fluidFont=1;;var RuntimeBrowserDetect={init:function(a,c,e){this.BrowserEnum||(this.BrowserEnum={},this.BrowserEnum.UNKNOWN=0,this.BrowserEnum.MSIE=1,this.BrowserEnum.FIREFOX=2,this.BrowserEnum.CHROME=3,this.BrowserEnum.SAFARI=4,this.BrowserEnum.NETSCAPE=5,this.BrowserEnum.OPERA=6,this.BrowserEnum.CAMINO=7,this.BrowserEnum.FIREBIRD=8,this.BrowserEnum.MSIE_MIN_SUPPORTED_VERSION=9,this.BrowserEnum.CHROME_MIN_SUPPORTED_VERSION=17,this.BrowserEnum.SAFARI_MIN_SUPPORTED_VERSION=5.1,this.BrowserEnum.FF_MIN_SUPPORTED_VERSION_WIN=
+cp.runJavascript(\'(function () {\\n  // --- 16 card GROUP ids (each group contains the card, its blocker and its matched overlay) ---\\n  var groups = ["G_A","G_B","G_C","G_D","G_E","G_F","G_G","G_H","G_I","G_J","G_K","G_L","G_M","G_N","G_O","G_P"];\\n\\n  // --- 16 anchor ids placed on the grid ---\\n  var anchors = ["ANCHOR_1","ANCHOR_2","ANCHOR_3","ANCHOR_4","ANCHOR_5","ANCHOR_6","ANCHOR_7","ANCHOR_8",\\n                 "ANCHOR_9","ANCHOR_10","ANCHOR_11","ANCHOR_12","ANCHOR_13","ANCHOR_14","ANCHOR_15","ANCHOR_16"];\\n\\n  function waitFor(id, cb){ if (document.getElementById(id)) cb(); else setTimeout(function(){ waitFor(id, cb); }, 30); }\\n  function rect(id){ var el=document.getElementById(id); return el?el.getBoundingClientRect():null; }\\n  function shuffle(a){ var b=a.slice(0); for(var i=b.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)); var t=b[i]; b[i]=b[j]; b[j]=t;} return b; }\\n\\n  // Convert absolute (viewport) coords to a node\\\'s parent coords, then set absolute left/top\\n  function placeNode(node, absLeft, absTop){\\n    if (!node) return;\\n    var parent = node.offsetParent || node.parentElement || document.body;\\n    var pr = parent.getBoundingClientRect();\\n    var left = absLeft - pr.left;\\n    var top  = absTop  - pr.top;\\n    node.style.setProperty("transform","none","important");\\n    node.style.setProperty("-webkit-transform","none","important");\\n    node.style.setProperty("position","absolute","important");\\n    node.style.setProperty("left", left + "px", "important");\\n    node.style.setProperty("top",  top  + "px", "important");\\n  }\\n\\n  // Move the GROUP wrapper and its render element\\n  function moveGroup(groupId, absLeft, absTop){\\n    var w = document.getElementById(groupId);\\n    var r = document.getElementById("re-"+groupId+"c");\\n    placeNode(w, absLeft, absTop);\\n    placeNode(r, absLeft, absTop);\\n  }\\n\\n  waitFor(groups[0], function(){\\n    // 1) read anchor positions (absolute coords)\\n    var slots = [];\\n    for (var i=0;i<anchors.length;i++){\\n      var rc = rect(anchors[i]);\\n      slots.push({ left: rc.left, top: rc.top });\\n    }\\n\\n    // 2) shuffle those positions\\n    var shuffled = shuffle(slots);\\n\\n    // 3) place each GROUP at its new anchor; enforce briefly to beat any late repaint\\n    var frames = 30; // ~500ms\\n    (function applyLoop(){\\n      for (var k=0;k<groups.length;k++){\\n        var pos = shuffled[k];\\n        moveGroup(groups[k], pos.left, pos.top);\\n      }\\n      frames--;\\n      if (frames>0) requestAnimationFrame(applyLoop);\\n      else try{ console.log("CAPTIVATE: grouped swap complete"); }catch(e){}\\n    })();\\n  });\\n})();\',\'_self\');\
+var timeoutId = setTimeout(function(){cpCmndGotoSlideByUIDAndResume = 113073;},cp.ho(\'300\')*1000); cp.movie.playbackController.AddTimeout(timeoutId);',JSONTT_6:[],qs:''},Slide52766c:{b:[0,0,0,0],sr:cp.fd,uid:52766,dn:'Slide52766',visible:'1'},Image_6:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_6c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[9641]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_6c:{b:[166,488,383,784],uid:9641,sr:cp.fd,ip:'dr/9127_217_296.png',dn:'Image_6',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[166,488,383,784],vb:[166,488,383,784]},Image_248:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_248c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[130816]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_248c:{b:[-2,-4,386,792],uid:130816,sr:cp.fd,ip:'dr/124875_388_796.png',dn:'Image_248',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-2,-4,386,792],vb:[-2,-4,386,792]},Image_1004:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_1004c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797314]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1004c:{b:[-4,-4,384,790],uid:797314,sr:cp.fd,ip:'dr/797134_388_794.png',dn:'Image_1004',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,-4,384,790],vb:[-4,-4,384,790]},Image_1006:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_1006c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797330]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1006c:{b:[-115,388,513,641],uid:797330,sr:cp.fd,ip:'dr/797326_628_253.png',dn:'Image_1006',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-115,388,513,641],vb:[-115,388,513,641]},Image_1005:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_1005c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797318]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1005c:{b:[-4,660,58,792],uid:797318,sr:cp.fd,ip:'dr/797315_62_132.png',dn:'Image_1005',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[-4,660,58,792],vb:[-4,660,58,792]},Image_1008:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_1008c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797352]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1008c:{b:[49,154,105,219],uid:797352,sr:cp.fd,ip:'dr/797349_56_65.png',dn:'Image_1008',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[49,154,105,219],vb:[49,154,105,219]},Image_1009:{type:15,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Image_1009c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.jumpToNextSlide();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[797363]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Image_1009c:{b:[285,323,321,364],uid:797363,sr:cp.fd,ip:'dr/797360_36_41.png',dn:'Image_1009',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Image ',traccstr:'',ti:-1,acclng:'',vbwr:[285,323,321,364],vb:[285,323,321,364]},Question_1_226:{type:19,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Question_1_226c',retainState:false,immo:false,apsn:'Slide9760',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803095]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Question_1_226c:{b:[-5,-4,384,122],uid:803095,sr:cp.fd,ip:'dr/Question_1_226.png',dn:'Question_1_226',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Herzlichen Glückwunsch! ',traccstr:'',ti:-1,acclng:'',vbwr:[-5,-4,384,122],vb:[-5,-4,384,122]},Answer_1110:{type:612,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Answer_1110c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.runJavascript(\'parent.window.postMessage(\\\'closeDialog\\\', \\\'*\\\');\\nparent.window.API.LMSFinish("");\\nSCORM_CallLMSCommit();\\nLMSFinish();\',\'_self\');cp.actionChoiceContinueMovie();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:1200134,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803133]},{stn:'RollOver',stt:2,stsi:[803154]},{stn:'Down',stt:1,stsi:[803175]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:true,sihds:true,stc:['Answer_1110','si803154','si803175'],isDD:false},Answer_1110c:{b:[79,670,299,765],uid:803133,sr:cp.fd,ip:'dr/Answer_1110.png',dn:'Answer_1110',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Kurs beenden ',traccstr:'',ti:2500,acclng:'',sc:'#ffffff',sw:0,ss:0,fa:100,bc:'#000000',p0:[[0],[1,93.8,670.00],[3,85.63,670.00,79,676.63,79,684.8],[2,79,750.19],[3,79,758.37,85.63,765,93.8,765],[2,284.19,765],[3,292.37,765,299,758.37,299,750.19],[2,299,684.8],[3,299,676.63,292.37,670.00,284.19,670.00],[2,93.8,670.00],[4]],svg:false,vbwr:[79,670,299,765],vb:[79,670,299,765]},si803154:{type:612,from:1199890,to:1200135,rp:0,rpa:0,mdi:'si803154c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.runJavascript(\'parent.window.postMessage(\\\'closeDialog\\\', \\\'*\\\');\\nparent.window.API.LMSFinish("");\\nSCORM_CallLMSCommit();\\nLMSFinish();\',\'_self\');cp.actionChoiceContinueMovie();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:1200134,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1110',stl:[{stn:'Normal',stt:0,stsi:[803154]}],stis:0,bstiid:803133,sipst:2,sicbs:true,sihhs:true,sihds:true,isDD:false},si803154c:{b:[79,670,299,765],uid:803154,sr:cp.fd,ip:'dr/si803154.png',dn:'si803154',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Kurs beenden ',traccstr:'',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#737373',p0:[[0],[1,93.8,670.00],[3,85.63,670.00,79,676.63,79,684.8],[2,79,750.19],[3,79,758.37,85.63,765,93.8,765],[2,284.19,765],[3,292.37,765,299,758.37,299,750.19],[2,299,684.8],[3,299,676.63,292.37,670.00,284.19,670.00],[2,93.8,670.00],[4]],svg:false,vbwr:[75,666,303,769],vb:[75,666,303,769]},si803175:{type:612,from:1199890,to:1200135,rp:0,rpa:0,mdi:'si803175c',retainState:false,immo:false,apsn:'Slide9760',JSONTT_4:[],cpa:true,oca:'cp.runJavascript(\'parent.window.postMessage(\\\'closeDialog\\\', \\\'*\\\');\\nparent.window.API.LMSFinish("");\\nSCORM_CallLMSCommit();\\nLMSFinish();\',\'_self\');cp.actionChoiceContinueMovie();',JSONTT_5:[],ofa:'cpCmndResume = 1;',iflbx:false,ipflbx:true,uab:1,chfn:cp.ch,osc:'',osct:0,ofc:'',ofct:0,pa:1200134,enabled:1,ma:-1,pfc:1,dclk:false,amc:true,eh:cp.cbKH,siq:false,sat:true,trin:0,trout:0,bstin:'Answer_1110',stl:[{stn:'Normal',stt:0,stsi:[803175]}],stis:0,bstiid:803133,sipst:1,sicbs:true,sihhs:true,sihds:true,isDD:false},si803175c:{b:[79,670,299,765],uid:803175,sr:cp.fd,ip:'dr/si803175.png',dn:'si803175',visible:0,effectiveVi:1,JSONEffectData:false,accstr:'Kurs beenden ',traccstr:'',ti:2500,acclng:'',sc:'#ffffff',sw:2,ss:0,fa:100,bc:'#171717',p0:[[0],[1,93.8,670.00],[3,85.63,670.00,79,676.63,79,684.8],[2,79,750.19],[3,79,758.37,85.63,765,93.8,765],[2,284.19,765],[3,292.37,765,299,758.37,299,750.19],[2,299,684.8],[3,299,676.63,292.37,670.00,284.19,670.00],[2,93.8,670.00],[4]],svg:false,vbwr:[75,666,303,769],vb:[75,666,303,769]},Text_Caption_227:{type:19,from:1199890,to:1200135,rp:0,rpa:0,mdi:'Text_Caption_227c',retainState:false,immo:false,apsn:'Slide9760',iflbx:false,ipflbx:true,trin:0,trout:0,stl:[{stn:'Normal',stt:0,stsi:[803186]}],stis:0,bstiid:-1,sipst:0,sicbs:false,sihhs:false,sihds:false,isDD:false},Text_Caption_227c:{b:[79,346,299,690],uid:803186,sr:cp.fd,ip:'dr/Text_Caption_227.png',dn:'Text_Caption_227',visible:1,effectiveVi:1,JSONEffectData:false,accstr:'Du hast es geschafft das Lösungswort zu erraten.  Sei gespannt, was das anstehende Pro Event für dich bereit hält!  Wir freuen uns dich dort zu sehen! ',traccstr:'',ti:-1,acclng:'',vbwr:[79,346,299,690],vb:[79,346,299,690]},Slide9760:{lb:'Finished',id:9760,from:1199890,to:1200135,iols:0,i360qs:false,propTxtScaling:false,minFontSizeScaling:14,useng:true,transition:{type:0},mmot:false,mdi:'Slide9760c',st:'Normal Slide',ccProperties:{382:{pos:7,x:35,y:88}},audCC:[],vidCC:[],accstr:'Finished ',si:[{n:'Image_6',t:15},{n:'Image_248',t:15},{n:'Image_1004',t:15},{n:'Image_1006',t:15},{n:'Image_1005',t:15},{n:'Image_1008',t:15},{n:'Image_1009',t:15},{n:'Question_1_226',t:19},{n:'Answer_1110',t:612},{n:'si803154',t:612},{n:'si803175',t:612},{n:'Text_Caption_227',t:19}],iph:[],v:false,bc:'#ffffff',JSONTT_0:[],sea:'cp.playAudio2("85577");cp.actionChoicePauseMovie();',JSONTT_6:[],qs:''},PA85577:{src:'ar/85577.mp3',du:6085},Slide9760c:{b:[0,0,0,0],sr:cp.fd,uid:9760,dn:'Slide9760',visible:'1'},quizzingData:{allowBackwardMovement:true,allowReviewMode:true,isInReviewMode:false,allowSkipAnyScoreSlide:true,allowSkipFailScoreSlide:true,allowSkipPassScoreSlide:true,anyGradeAction:'',anyGradeActionArg1:'',anyGradeActionArg2:'',defaultActionType:'continue',defaultActionArg1:'',defaultActionArg2:'',failedScoreFeedback:'Sorry, you failed!',failingGradeAction:'cpCmndResume = 1;',JSONTT_5:[],passedScoreFeedback:'Congratulations, you passed the quiz!',passingGradeAction:'cpCmndResume = 1;',JSONTT_4:[],pretestAction:'',it:false,anyScoreSlide:-1,firstSlideInQuiz:-1,lastSlideInQuiz:-1,quizScopeEndSlide:-1,maxScore:0,minScore:0,maxPretestScore:0,numQuestionsInQuiz:0,numQuizAttemptsAllowed:1,passingScore:0,quizInfoCurrentAttempt:0,quizInfoPercentScored:0,quizProgress:'',questionAdvance:'optional',quizAdvance:'optional',quizID:379,showFinishButton:true,showProgress:true,questionPoolsInitialized:true,quizInfoAnswerChoice:'',quizInfoAttempts:1,quizInfoLastSlidePointScored:0,quizInfoMaxAttemptsOnCurrentQuestion:1,quizInfoPassFail:0,quizInfoPointsPerQuestionSlide:0,quizInfoPointsScored:0,quizInfoQuestionSlideTiming:0,quizInfoQuestionSlideType:'',quizInfoQuizPassPercent:0,quizInfoQuizPassPoints:0,quizInfoTotalCorrectAnswers:0,quizInfoTotalProjectPoints:0,quizInfoTotalQuestionsPerProject:0,quizInfoTotalQuizPoints:0,quizInfoTotalUnansweredQuestions:0,reportingVariables:0,reportingEnabled:false,submitAll:false,hidePlaybarInQuiz:false,quizBranchAware:false,passFailPassingScoreTypeInPrecent:false,passFailPassingScoreValue:0,progressIndicatorType:0,rpViDv:'This slide was viewed in device with different width.',progressIndicatorString:'Question %d of %d    '},rtDialog:{rtbgfc:'#cccccc',rtbgsc:'#808080',rtbtnfc:'#ffffff',rtbtnsc:'#808080',rtsc:'#808080',rttc:'#000000',rttsc:'#b3b3b3',rtfn:'Tahoma',rtt:'Submit All',rtsam:'You have answered all questions. What do you want to do next?',rtiqm:'One or more questions is incomplete. Answer all questions to continue.',rtsiqm:'You have not answered a few questions yet. Are you sure you want to proceed without answering those questions?',rtsanym:'You have reached the end of the quiz, but you have unanswered questions. What do you want to do?',rtmtqm:'You must answer at least one question to continue.',rtokb:'Ok',rtcb:'CANCEL',rtyb:'Yes',rtnb:'No',rtsab:'Submit All Answers',rtsanyb:'Submit Anyway',rtrtqb:'Return To Quiz',rtWarningTitle:'Adobe Captivate Classic',rtUnsupportedBowser:'This browser does not support some of the content in the file you are trying to view. Use one of the following browsers:<ul><li>Internet Explorer 9 or later</li><li>Safari 5.1 or later</li><li>Google Chrome 17 or later</li><li>Firefox @FFVERSION or later</li></ul>',rtPopupBlkr:'Please goto your settings and disable popup blocker',mandatoryMsg1:'You did not answer some questions. Answer them first and then proceed.',mandatoryMsg2:'You have not viewed some hotspots. Please view them to proceed.',mandatoryTitle:'Information',hotspotsVisitedMsg:'You have explored all hotspots. Click to continue or use the navigation options to exit.'},sgMgr:{ri:0,sg:[[0,[[1,[23,2,2,2,2,2,2,2]]]],[1,[[2,[23,2,2,2]]]],[2,[[3,[2,23,2,2,2]]]],[3,[[0,[8]],[4,[23,2,2,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,8,2,8,8,2,8,8,8,8,2,2,8,8,2,2,8,8,8,8,8,8,8,2]]]]]},project:{fps:30,hasTOC:0,w:382,h:780,iw:1080,ih:1920,prm:[0.353704,0.40625,0,0],stateNameToLocalizedStateNameMap:{kCPNormalState:'Normal',kCPDownState:'Down',kCPRolloverState:'RollOver',kCPVisitedState:'Visited',kCPDragoverState:'DragOver',kCPDragstartState:'DragStart',kCPDropCorrect:'DropCorrect',kCPDropIncorrect:'DropIncorrect',kCPDropAccept:'DropAccept',kCPDropReject:'DropReject'},prjBgColor:'#ffffff',pkt:0,htmlBgColor:'#ffffff',shc:true,pN:'Match Cards Mini Game v0.1.5'},project_main:{from:1,to:1200135,currentFrame:1,useResponsive:false,responsiveType:4,currentFrame:1,useWidgetVersion7:false,isPublishedFromLacuna:false,vestr:0,vim:0,slides:'Slide113073,Slide13453,Slide129773,Slide52766,Slide9760',questions:'',autoplay:true,preloader:false,pprtd:false,peon:false,fadeInAtStart:0,fadeOutAtEnd:0,endAction:'cp.stopMovie();'},borderProperties:{hasBorder:false},playBarProperties:{hasPlayBar:false},tocProperties:{},ccProperties:{382:{w:30,h:12,x:-1,y:-1,txtl:0,pos:7,v:false,c:'#ffffff',o:49}},trecs:[{link:113073,text:['Starten','Starten','Starten','Samsung Pro Match Card Minispiel','Beenden','Beenden','Beenden']},{link:13453,text:['Decke alle 8 Kartenpaare auf und gewinne das Spiel – Viel Erfolg!','Weiter','Weiter','Weiter','Übersicht']},{link:129773,text:['Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam? Nullam quis risus eget urna mollis ornare vel eu leo. Suspendisse potenti in faucibus orci luctus et ultrices posuere cubilia curae.        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec ullamcorper nulla non metus auctor fringilla in vitae nunc. Curabitur blandit tempus porttitor!','(Timer) 04:00','So wird gespielt','Weiter','Weiter','Weiter']},{link:52766,text:['Bitte versuche es nochmal!','Schönes Paar!','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','Herzlichen Glückwunsch! Sie haben das Rätsel erfolgreich gelöst!']},{link:9760,text:['Herzlichen Glückwunsch!','Kurs beenden','Kurs beenden','Kurs beenden','Du hast es geschafft das Lösungswort zu erraten.  Sei gespannt, was das anstehende Pro Event für dich bereit hält!  Wir freuen uns dich dort zu sehen!']}],typekit:{kit_id:''},};cp.model.projectImages=['assets/htmlimages/expand_icon.png','assets/htmlimages/img_trans.gif','assets/htmlimages/placeholder.png'];cp.model.images=['dr/124875_388_796.png','dr/778848_136_217.png','dr/778852_136_217.png','dr/778856_136_217.png','dr/778860_136_217.png','dr/797134_388_794.png','dr/797146_124_95.png','dr/797146_41_32.png','dr/797170_170_193.png','dr/797170_65_73.png','dr/797182_251_304.png','dr/797194_82_143.png','dr/797315_62_132.png','dr/797326_628_253.png','dr/797338_75_48.png','dr/797349_56_65.png','dr/797360_36_41.png','dr/801537_182_253.png','dr/801541_182_253.png','dr/802954_382_382.png','dr/803771_182_253.png','dr/803775_182_253.png','dr/803779_182_253.png','dr/803783_182_253.png','dr/803787_182_253.png','dr/803791_182_253.png','dr/803795_182_253.png','dr/803799_182_252.png','dr/803799_182_253.png','dr/803835_84_84.png','dr/803843_84_84.png','dr/803851_84_84.png','dr/803855_84_84.png','dr/803863_84_84.png','dr/803871_84_84.png','dr/803879_86_85.png','dr/803891_84_84.png','dr/804895_86_86.png','dr/804903_84_84.png','dr/805312_84_84.png','dr/805336_84_84.png','dr/805360_84_84.png','dr/805384_84_84.png','dr/805408_84_84.png','dr/805432_84_84.png','dr/809663_181_252.png','dr/809663_182_252.png','dr/809667_182_252.png','dr/809671_182_252.png','dr/809675_182_252.png','dr/809679_182_252.png','dr/809683_182_252.png','dr/809687_182_252.png','dr/809691_182_252.png','dr/809695_84_84.png','dr/809699_84_84.png','dr/809703_84_84.png','dr/809707_84_84.png','dr/809711_84_84.png','dr/809715_84_84.png','dr/809719_84_84.png','dr/809723_84_84.png','dr/813792_84_84.png','dr/813792_86_85.png','dr/826819_86_85.png','dr/826823_86_85.png','dr/826827_84_83.png','dr/826831_84_83.png','dr/826835_84_83.png','dr/826839_84_83.png','dr/826843_84_83.png','dr/826847_84_83.png','dr/9127_217_296.png','dr/A_B_MATCHED_1.png','dr/A_B_MATCHED_2.png','dr/Answer_1107.png','dr/Answer_1108.png','dr/Answer_1109.png','dr/Answer_1110.png','dr/Answer_1122.png','dr/B1.png','dr/B10.png','dr/B11.png','dr/B12.png','dr/B13.png','dr/B14.png','dr/B15.png','dr/B16.png','dr/B2.png','dr/B3.png','dr/B4.png','dr/B5.png','dr/B6.png','dr/B7.png','dr/B8.png','dr/B9.png','dr/C_D_MATCHED_1.png','dr/C_D_MATCHED_2.png','dr/E_F_MATCHED_1.png','dr/E_F_MATCHED_2.png','dr/G___H__MATCHED_1.png','dr/G___H__MATCHED_2.png','dr/I___J__MATCHED_1.png','dr/I___J__MATCHED_2.png','dr/K___L__MATCHED_1.png','dr/K___L__MATCHED_2.png','dr/M___N__MATCHED_1.png','dr/M___N__MATCHED_2.png','dr/Nice_Pair.png','dr/O___P__MATCHED_1.png','dr/O___P__MATCHED_2.png','dr/Question_1_221.png','dr/Question_1_223.png','dr/Question_1_225.png','dr/Question_1_226.png','dr/Text_Caption_169.png','dr/Text_Caption_222.png','dr/Text_Caption_224.png','dr/Text_Caption_227.png','dr/Try_again.png','dr/Winner.png','dr/blocker.png','dr/si748094.png','dr/si748106.png','dr/si802807.png','dr/si802828.png','dr/si802929.png','dr/si802950.png','dr/si803033.png','dr/si803054.png','dr/si803154.png','dr/si803175.png','dr/si810073.png','dr/si810094.png'];cp.model.videos=[];cp.model.slideVideos=[];cp.model.tocVideos=[];cp.model.audios=['ar/85577.mp3'];cp.initVariables = function(){cp.cv('CaptivateVersion','11.8.0',1,1000,0);cp.cv('cpCmndCC',0,1,15,0);cp.cv('cpCmndExit',0,1,15,0);cp.cv('cpCmndMute',0,1,15,0);cp.cv('cpCmndPause',0,1,15,0);cp.cv('cpCmndPlaybarMoved',0,1,15,0);cp.cv('cpCmndPrevious',0,1,15,0);cp.cv('cpCmndResume',0,1,15,0);cp.cv('cpCmndShowPlaybar',1,1,15,0);cp.cv('cpCmndTOCVisible',0,1,15,0);cp.cv('cpCmndVolume',100,1,15,0);cp.cv('cpInQuizScope',0,1,15,0);cp.cv('cpInReviewMode',0,1,15,0);cp.cv('cpInfoAuthor','author',1,15,0);cp.cv('cpInfoCompany','company',1,15,0);cp.cv('cpInfoCopyright','copyright',1,15,0);cp.cv('cpInfoCourseID',-1,1,15,0);cp.cv('cpInfoCourseName','Course Name',1,15,0);cp.cv('cpInfoCurrentDate','dd',1,15,0);cp.cv('cpInfoCurrentDateString','mm/dd/yyyy',1,15,0);cp.cv('cpInfoCurrentDateStringDDMMYYYY','dd/mm/yyyy',1,15,0);cp.cv('cpInfoCurrentDay',1,1,15,0);cp.cv('cpInfoCurrentFrame',1,1,15,0);cp.cv('cpInfoCurrentHour','hh',1,15,0);cp.cv('cpInfoCurrentLocaleDateString','',1,15,0);cp.cv('cpInfoCurrentMinutes','mm',1,15,0);cp.cv('cpInfoCurrentMonth','mm',1,15,0);cp.cv('cpInfoCurrentSlide',1,1,15,0);cp.cv('cpInfoCurrentSlideLabel','slide',1,15,0);cp.cv('cpInfoCurrentSlideType','Normal',1,15,0);cp.cv('cpInfoCurrentTime','hh:mm:ss',1,15,0);cp.cv('cpInfoCurrentYear','yyyy',1,15,0);cp.cv('cpInfoDescription','project description',1,15,0);cp.cv('cpInfoElapsedTimeMS',0,1,15,0);cp.cv('cpInfoEmail','author@company.com',1,15,0);cp.cv('cpInfoEpochMS',0,1,15,0);cp.cv('cpInfoFPS',1,1,15,0);cp.cv('cpInfoFrameCount',1,1,15,0);cp.cv('cpInfoGeoLocation','',1,15,0);cp.cv('cpInfoHasPlaybar',0,1,1000,0);cp.cv('cpInfoIsStandalone',1,1,15,0);cp.cv('cpInfoLastVisitedSlide',1,1,15,0);cp.cv('cpInfoMobileOS',0,1,15,0);cp.cv('cpInfoPercentage',0,1,15,0);cp.cv('cpInfoPrevSlide',-1,1,15,0);cp.cv('cpInfoProjectName','',1,15,0);cp.cv('cpInfoSlideCount',1,1,15,0);cp.cv('cpInfoSlidesInProject',5,1,1000,0);cp.cv('cpInfoWebsite','www.company.com',1,15,0);cp.cv('cpLockTOC',0,1,1000,0);cp.cv('cpQuizInfoAnswerChoice','',1,15,0);cp.cv('cpQuizInfoAttempts',0,1,15,0);cp.cv('cpQuizInfoLastSlidePointScored',0,1,15,0);cp.cv('cpQuizInfoMaxAttemptsOnCurrentQuestion',0,1,15,0);cp.cv('cpQuizInfoNegativePointsOnCurrentQuestionSlide',0,1,15,0);cp.cv('cpQuizInfoPassFail',0,1,15,0);cp.cv('cpQuizInfoPointsPerQuestionSlide',0,1,15,0);cp.cv('cpQuizInfoPointsscored',0,1,15,0);cp.cv('cpQuizInfoPreTestMaxScore',0,1,15,0);cp.cv('cpQuizInfoPreTestTotalCorrectAnswers',0,1,15,0);cp.cv('cpQuizInfoPreTestTotalQuestions',0,1,1000,0);cp.cv('cpQuizInfoPretestPointsscored',0,1,15,0);cp.cv('cpQuizInfoPretestScorePercentage',0,1,15,0);cp.cv('cpQuizInfoQuestionPartialScoreOn',0,1,15,0);cp.cv('cpQuizInfoQuestionSlideTiming',0,1,15,0);cp.cv('cpQuizInfoQuestionSlideType','choice',1,15,0);cp.cv('cpQuizInfoQuizPassPercent',0,1,1000,0);cp.cv('cpQuizInfoQuizPassPoints',0,1,1000,0);cp.cv('cpQuizInfoTotalCorrectAnswers',0,1,15,0);cp.cv('cpQuizInfoTotalProjectPoints',0,1,15,0);cp.cv('cpQuizInfoTotalQuestionsPerProject',0,1,15,0);cp.cv('cpQuizInfoTotalQuizPoints',0,1,1000,0);cp.cv('cpQuizInfoTotalUnansweredQuestions',0,1,15,0);cp.cv('cpInfoPrevFrame',0,1,15,0);cp.cv('Blocker',0,0,50,0);cp.cv('Fail',0,0,50,0);cp.cv('FirstAnswer',0,0,50,0);cp.cv('Q1',0,0,50,0);cp.cv('Q1WrongTally',0,0,50,0);cp.cv('Q2',0,0,50,0);cp.cv('Q9',0,0,50,0);cp.cv('Score',0,0,50,0);cp.cv('SecondAnswer',0,0,50,0);cp.cv('Solution1',0,0,50,0);cp.cv('Solution10',0,0,50,0);cp.cv('Solution2',0,0,50,0);cp.cv('Solution3',0,0,50,0);cp.cv('Solution4',0,0,50,0);cp.cv('Solution5',0,0,50,0);cp.cv('Solution6',0,0,50,0);cp.cv('Solution7',0,0,50,0);cp.cv('Solution8',0,0,50,0);cp.cv('Solution9',0,0,50,0);cp.cv('Success',0,0,50,0);cp.cv('cpQuizInfoStudentID','',0,15,0);cp.cv('cpQuizInfoStudentName','',0,15,0);cp.cv('v_ClickCount','',0,50,0);cp.cv('v_FirstCard','',0,50,0);cp.cv('v_MatchCount',0,0,50,0);cp.cv('v_SecondCard','',0,50,0);cp.cv('v_SpaceZoom1',0,0,50,0);cp.cv('v_SpaceZoom2',0,0,50,0);cp.cv('v_card1',0,0,50,0);cp.cv('v_card2',0,0,50,0);cp.cv('v_card_apple_2','Card_Apple_2',0,50,0);cp.cv('v_lockClicks',0,0,50,0);};cp.ReportingVariables="Blocker,Fail,FirstAnswer,Q1,Q1WrongTally,Q2,Q9,Score,SecondAnswer,Solution1,Solution10,Solution2,Solution3,Solution4,Solution5,Solution6,Solution7,Solution8,Solution9,Success,v_ClickCount,v_FirstCard,v_MatchCount,v_SecondCard,v_SpaceZoom1,v_SpaceZoom2,v_card1,v_card2,v_card_apple_2,v_lockClicks,";};cp.sbw=0;cp.useg=0;cp.geo=0;cp.pg=0;cp.win8=0;cp.autoGrow=1;cp.fluidFont=1;;var RuntimeBrowserDetect={init:function(a,c,e){this.BrowserEnum||(this.BrowserEnum={},this.BrowserEnum.UNKNOWN=0,this.BrowserEnum.MSIE=1,this.BrowserEnum.FIREFOX=2,this.BrowserEnum.CHROME=3,this.BrowserEnum.SAFARI=4,this.BrowserEnum.NETSCAPE=5,this.BrowserEnum.OPERA=6,this.BrowserEnum.CAMINO=7,this.BrowserEnum.FIREBIRD=8,this.BrowserEnum.MSIE_MIN_SUPPORTED_VERSION=9,this.BrowserEnum.CHROME_MIN_SUPPORTED_VERSION=17,this.BrowserEnum.SAFARI_MIN_SUPPORTED_VERSION=5.1,this.BrowserEnum.FF_MIN_SUPPORTED_VERSION_WIN=
 22,this.BrowserEnum.FF_MIN_SUPPORTED_VERSION_MAC=35,this.BrowserEnum.FF_MIN_SUPPORTED_VERSION_FFOS=15,this.BrowserEnum.FF_MIN_SUPPORTED_VERSION_ANDROID=20);this.DeviceEnum||(this.DeviceEnum={},this.DeviceEnum.DESKTOP=0,this.DeviceEnum.IDEVICE=1,this.DeviceEnum.ANDROID=2);this.browserVersion=this.browser=this.BrowserEnum.UNKNOWN;this.device=this.DeviceEnum.DESKTOP;navigator.userAgent.match(/(iPhone|iPad|iPod)/i)?this.device=this.DeviceEnum.IDEVICE:navigator.userAgent.match(/android/i)&&(this.device=
 this.DeviceEnum.ANDROID);navigator.userAgent.match(/MSIE/i)?(this.browser=this.BrowserEnum.MSIE,this.browserVersion=this.getCurrentBrowserVersion(navigator.userAgent,"MSIE")||this.getCurrentBrowserVersion(navigator.appVersion,"MSIE")||this.BrowserEnum.UNKNOWN):navigator.userAgent.match(/Firefox/i)?(this.browser=this.BrowserEnum.FIREFOX,this.browserVersion=this.getCurrentBrowserVersion(navigator.userAgent,"Firefox")||this.getCurrentBrowserVersion(navigator.appVersion,"Firefox")||this.BrowserEnum.UNKNOWN):
 navigator.userAgent.match(/Chrome/i)?(this.browser=this.BrowserEnum.CHROME,this.browserVersion=this.getCurrentBrowserVersion(navigator.userAgent,"Chrome")||this.getCurrentBrowserVersion(navigator.appVersion,"Chrome")||this.BrowserEnum.UNKNOWN):navigator.userAgent.match(/Safari/i)?(this.browser=this.BrowserEnum.SAFARI,this.browserVersion=this.getCurrentBrowserVersion(navigator.userAgent,"Version")||this.getCurrentBrowserVersion(navigator.appVersion,"Version")||this.BrowserEnum.UNKNOWN):navigator.userAgent.match(/Netscape/i)?
